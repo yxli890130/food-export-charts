@@ -80,3 +80,27 @@ Comtrade 与 OEC/BACI 在以下章节差异显著：
 2. 确认 `/explore?tab=matrix` 可直接访问交叉矩阵
 3. 确认产品→国家→产品跳转链路
 4. 验证 Matrix 数据已在 `public/data/matrix/2024.json` 中
+
+## 2026-07-21 · v1.0 GitHub 快照
+
+### 已完成
+
+- 将当前工作区整理为首个可追溯版本并提交：`d3e4593 feat: initial commit — China food export opportunity explorer`
+- 建立私有 GitHub 仓库：<https://github.com/yxli890130/food-export-opportunity-explorer>
+- 推送 `master`，本地与 `origin/master` 均指向 `d3e4593`
+- README 已补齐项目背景、功能范围、制作进度、数据口径、使用方式、项目结构与后续方向
+- `.gitignore` 已排除缓存、构建产物、测试结果、日志、环境变量和 Claude 本地状态
+- 扫描已跟踪文件：只发现 README 中的 `COMTRADE_API_KEY` 占位示例，未发现真实凭证模式
+
+### 验证结果
+
+- `gh repo view`：仓库存在，权限为 `PRIVATE`，默认分支为 `master`
+- GitHub API 回读 README：`README.md`，9,273 bytes
+- `npm test`：8 个测试文件、21 项测试全部通过
+- `npm run build`：Next.js 16.2.10 生产构建通过
+
+### 下一步
+
+1. 浏览器真实走查三个分析视图，补齐 E2E 结果
+2. 决定下一阶段优先级：趋势数据、产品搜索，或目标国份额/竞争供应国
+3. 未经明确指令不继续 push 或部署
