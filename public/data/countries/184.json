@@ -1,0 +1,27 @@
+{
+  "year": 2024,
+  "partner_code": 184,
+  "partner_name": "CN184",
+  "total_export_value_usd": 22953.0,
+  "total_export_value_cny": 163463.9,
+  "hs4_products": [
+    {
+      "hs4": "0303",
+      "name_cn": "冷冻的非鱼片鱼类",
+      "name_en": "0303 - Fish; frozen, excluding fish fillets and other fish meat of heading 0304",
+      "export_value_usd": 22500.0,
+      "export_value_cny": 160237.78,
+      "share_pct": 98.0,
+      "hs2": "03"
+    },
+    {
+      "hs4": "2106",
+      "name_cn": "其他食品调制品",
+      "name_en": "2106 - Food preparations not elsewhere specified or included",
+      "export_value_usd": 453.0,
+      "export_value_cny": 3226.12,
+      "share_pct": 2.0,
+      "hs2": "21"
+    }
+  ]
+}

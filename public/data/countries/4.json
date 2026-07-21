@@ -1,0 +1,234 @@
+{
+  "year": 2024,
+  "partner_code": 4,
+  "partner_name": "阿富汗",
+  "total_export_value_usd": 43531507.0,
+  "total_export_value_cny": 310017419.24,
+  "hs4_products": [
+    {
+      "hs4": "0207",
+      "name_cn": "禽肉",
+      "name_en": "0207 - Meat and edible offal of poultry; of the poultry of heading no. 0105, (i.e. fowls of the species Gallus domesticus), fresh, chilled or frozen",
+      "export_value_usd": 17945333.0,
+      "export_value_cny": 127800901.17,
+      "share_pct": 41.2,
+      "hs2": "02"
+    },
+    {
+      "hs4": "1212",
+      "name_cn": "角豆、海藻及其他食用植物产品",
+      "name_en": "1212 - Locust beans, seaweeds and other algae, sugar beet, sugar cane, fresh, chilled, frozen or dried, whether or not ground; fruit stones, kernels and other vegetable products (including unroasted chicory roots) used primarily for human consumption, n.e.c.",
+      "export_value_usd": 10498331.0,
+      "export_value_cny": 74765743.42,
+      "share_pct": 24.1,
+      "hs2": "12"
+    },
+    {
+      "hs4": "0802",
+      "name_cn": "其他坚果",
+      "name_en": "0802 - Nuts (excluding coconuts, Brazils and cashew nuts); fresh or dried, whether or not shelled or peeled",
+      "export_value_usd": 4279014.0,
+      "export_value_cny": 30473764.14,
+      "share_pct": 9.8,
+      "hs2": "08"
+    },
+    {
+      "hs4": "0902",
+      "name_cn": "茶",
+      "name_en": "0902 - Tea",
+      "export_value_usd": 3635621.0,
+      "export_value_cny": 25891725.73,
+      "share_pct": 8.4,
+      "hs2": "09"
+    },
+    {
+      "hs4": "1206",
+      "name_cn": "葵花籽",
+      "name_en": "1206 - Sunflower seeds; whether or not broken",
+      "export_value_usd": 1937786.0,
+      "export_value_cny": 13800289.86,
+      "share_pct": 4.5,
+      "hs2": "12"
+    },
+    {
+      "hs4": "2102",
+      "name_cn": "酵母及其他发酵粉",
+      "name_en": "2102 - Yeasts (active or inactive); other single-cell micro-organisms, dead (but not including vaccines of heading no. 3002); prepared baking powders",
+      "export_value_usd": 1009505.0,
+      "export_value_cny": 7189370.56,
+      "share_pct": 2.3,
+      "hs2": "21"
+    },
+    {
+      "hs4": "2103",
+      "name_cn": "调味汁、调味品及芥子粉",
+      "name_en": "2103 - Sauces and preparations therefor; mixed condiments and mixed seasonings, mustard flour and meal and prepared mustard",
+      "export_value_usd": 883888.0,
+      "export_value_cny": 6294766.61,
+      "share_pct": 2.0,
+      "hs2": "21"
+    },
+    {
+      "hs4": "0703",
+      "name_cn": "洋葱、青葱、大蒜及其他葱属蔬菜",
+      "name_en": "0703 - Onions, shallots, garlic, leeks and other alliaceous vegetables; fresh or chilled",
+      "export_value_usd": 661722.0,
+      "export_value_cny": 4712571.67,
+      "share_pct": 1.5,
+      "hs2": "07"
+    },
+    {
+      "hs4": "0203",
+      "name_cn": "猪肉",
+      "name_en": "0203 - Meat of swine; fresh, chilled or frozen",
+      "export_value_usd": 507168.0,
+      "export_value_cny": 3611887.7,
+      "share_pct": 1.2,
+      "hs2": "02"
+    },
+    {
+      "hs4": "2106",
+      "name_cn": "其他食品调制品",
+      "name_en": "2106 - Food preparations not elsewhere specified or included",
+      "export_value_usd": 460513.0,
+      "export_value_cny": 3279625.76,
+      "share_pct": 1.1,
+      "hs2": "21"
+    },
+    {
+      "hs4": "1704",
+      "name_cn": "糖食",
+      "name_en": "1704 - Sugar confectionery (including white chocolate), not containing cocoa",
+      "export_value_usd": 438593.0,
+      "export_value_cny": 3123518.56,
+      "share_pct": 1.0,
+      "hs2": "17"
+    },
+    {
+      "hs4": "1602",
+      "name_cn": "其他调制或保藏肉、杂碎或血",
+      "name_en": "1602 - Prepared or preserved meat, meat offal, blood or insects",
+      "export_value_usd": 347487.0,
+      "export_value_cny": 2474690.87,
+      "share_pct": 0.8,
+      "hs2": "16"
+    },
+    {
+      "hs4": "1702",
+      "name_cn": "其他糖及糖浆",
+      "name_en": "1702 - Sugars, including lactose, maltose, glucose or fructose in solid form; sugar syrups without added flavouring or colouring matter; artificial honey, whether or not mixed with natural honey; caramel",
+      "export_value_usd": 292102.0,
+      "export_value_cny": 2080256.68,
+      "share_pct": 0.7,
+      "hs2": "17"
+    },
+    {
+      "hs4": "0906",
+      "name_cn": "肉桂",
+      "name_en": "0906 - Cinnamon and cinnamon-tree flowers",
+      "export_value_usd": 212579.0,
+      "export_value_cny": 1513919.4,
+      "share_pct": 0.5,
+      "hs2": "09"
+    },
+    {
+      "hs4": "2008",
+      "name_cn": "其他调制或保藏水果、坚果及植物食用部分",
+      "name_en": "2008 - Fruit, nuts and other edible parts of plants; prepared or preserved in ways n.e.c., whether or not containing added sugar or other sweetening matter or spirit, not elsewhere specified or included",
+      "export_value_usd": 134406.0,
+      "export_value_cny": 957196.39,
+      "share_pct": 0.3,
+      "hs2": "20"
+    },
+    {
+      "hs4": "2005",
+      "name_cn": "其他调制或保藏蔬菜",
+      "name_en": "2005 - Vegetables preparations n.e.c.; prepared or preserved otherwise than by vinegar or acetic acid, not frozen, other than products of heading no. 2006",
+      "export_value_usd": 131833.0,
+      "export_value_cny": 938872.31,
+      "share_pct": 0.3,
+      "hs2": "20"
+    },
+    {
+      "hs4": "2003",
+      "name_cn": "调制或保藏食用菌",
+      "name_en": "2003 - Mushrooms and truffles, prepared or preserved other than by vinegar or acetic acid",
+      "export_value_usd": 40110.0,
+      "export_value_cny": 285650.54,
+      "share_pct": 0.1,
+      "hs2": "20"
+    },
+    {
+      "hs4": "0910",
+      "name_cn": "其他香辛料",
+      "name_en": "0910 - Ginger, saffron, tumeric (curcuma), thyme, bay leaves, curry and other spices",
+      "export_value_usd": 31702.0,
+      "export_value_cny": 225771.47,
+      "share_pct": 0.1,
+      "hs2": "09"
+    },
+    {
+      "hs4": "0808",
+      "name_cn": "苹果及梨",
+      "name_en": "0808 - Apples, pears and quinces; fresh",
+      "export_value_usd": 31062.0,
+      "export_value_cny": 221213.59,
+      "share_pct": 0.1,
+      "hs2": "08"
+    },
+    {
+      "hs4": "1211",
+      "name_cn": "药用、香料及杀虫等用植物",
+      "name_en": "1211 - Plants and parts of plants (including seeds and fruits), of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered",
+      "export_value_usd": 21304.0,
+      "export_value_cny": 151720.25,
+      "share_pct": 0.0,
+      "hs2": "12"
+    },
+    {
+      "hs4": "0909",
+      "name_cn": "孜然、茴香等香辛料种子",
+      "name_en": "0909 - Seeds of anise, badian, fennel, coriander, cumin, caraway or juniper",
+      "export_value_usd": 13426.0,
+      "export_value_cny": 95615.66,
+      "share_pct": 0.0,
+      "hs2": "09"
+    },
+    {
+      "hs4": "0904",
+      "name_cn": "胡椒、辣椒及甜椒",
+      "name_en": "0904 - Pepper of the genus piper; dried or crushed or ground fruits of the genus capsicum or of the genus pimenta",
+      "export_value_usd": 12960.0,
+      "export_value_cny": 92296.96,
+      "share_pct": 0.0,
+      "hs2": "09"
+    },
+    {
+      "hs4": "0813",
+      "name_cn": "干果",
+      "name_en": "0813 - Fruit, dried, other than that of heading no. 0801 to 0806; mixtures of nuts or dried fruits of this chapter",
+      "export_value_usd": 3150.0,
+      "export_value_cny": 22433.29,
+      "share_pct": 0.0,
+      "hs2": "08"
+    },
+    {
+      "hs4": "2004",
+      "name_cn": "其他冷冻蔬菜",
+      "name_en": "2004 - Vegetables preparations n.e.c.; prepared or preserved otherwise than by vinegar or acetic acid, frozen, other than products of heading no. 2006",
+      "export_value_usd": 1900.0,
+      "export_value_cny": 13531.19,
+      "share_pct": 0.0,
+      "hs2": "20"
+    },
+    {
+      "hs4": "0706",
+      "name_cn": "胡萝卜、芜菁等食用根茎",
+      "name_en": "0706 - Carrots, turnips, salad beetroot, salsify, celeriac, radishes and similar edible roots; fresh or chilled",
+      "export_value_usd": 12.0,
+      "export_value_cny": 85.46,
+      "share_pct": 0.0,
+      "hs2": "07"
+    }
+  ]
+}

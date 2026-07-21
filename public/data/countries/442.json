@@ -1,0 +1,54 @@
+{
+  "year": 2024,
+  "partner_code": 442,
+  "partner_name": "卢森堡",
+  "total_export_value_usd": 841692.0,
+  "total_export_value_cny": 5994260.24,
+  "hs4_products": [
+    {
+      "hs4": "1604",
+      "name_cn": "调制或保藏鱼；鱼子酱",
+      "name_en": "1604 - Prepared or preserved fish; caviar and caviar substitutes prepared from fish eggs",
+      "export_value_usd": 833212.0,
+      "export_value_cny": 5933868.4,
+      "share_pct": 99.0,
+      "hs2": "16"
+    },
+    {
+      "hs4": "2106",
+      "name_cn": "其他食品调制品",
+      "name_en": "2106 - Food preparations not elsewhere specified or included",
+      "export_value_usd": 6127.0,
+      "export_value_cny": 43634.53,
+      "share_pct": 0.7,
+      "hs2": "21"
+    },
+    {
+      "hs4": "1209",
+      "name_cn": "播种用种子、果实及孢子",
+      "name_en": "1209 - Seeds, fruit and spores; of a kind used for sowing",
+      "export_value_usd": 2327.0,
+      "export_value_cny": 16572.15,
+      "share_pct": 0.3,
+      "hs2": "12"
+    },
+    {
+      "hs4": "2008",
+      "name_cn": "其他调制或保藏水果、坚果及植物食用部分",
+      "name_en": "2008 - Fruit, nuts and other edible parts of plants; prepared or preserved in ways n.e.c., whether or not containing added sugar or other sweetening matter or spirit, not elsewhere specified or included",
+      "export_value_usd": 20.0,
+      "export_value_cny": 142.43,
+      "share_pct": 0.0,
+      "hs2": "20"
+    },
+    {
+      "hs4": "0802",
+      "name_cn": "其他坚果",
+      "name_en": "0802 - Nuts (excluding coconuts, Brazils and cashew nuts); fresh or dried, whether or not shelled or peeled",
+      "export_value_usd": 6.0,
+      "export_value_cny": 42.73,
+      "share_pct": 0.0,
+      "hs2": "08"
+    }
+  ]
+}

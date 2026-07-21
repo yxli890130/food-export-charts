@@ -1,0 +1,886 @@
+{
+  "year": 2024,
+  "scope": "usa",
+  "scope_label": "中国 → 美国",
+  "source": "OEC/BACI",
+  "fetched_at": "2026-07-18 14:08 UTC",
+  "currency": "CNY",
+  "conversion": {
+    "usd_to_cny": 7.121679
+  },
+  "source_url": "https://api-v2.oec.world/tesseract/data.jsonrecords?cube=trade_i_baci_a_92&drilldowns=Importer%20Country%2CHS4&include=Exporter%20Country:aschn;Importer%20Country:asjpn,ashkg,nausa,asvnm,askor,asidn,asmys,astha,eurus,asphl,eugbr,eudeu,nacan,ocaus,euesp,eunld,assgp,asare,astwn,namex;Year:2024&locale=zh-CN&parents=true&measures=Trade%20Value",
+  "groups": [
+    {
+      "hs2": "03",
+      "name": "鱼、甲壳类和软体动物",
+      "export_value_usd": 1310493115.0,
+      "export_value_cny": 9332911296.740086,
+      "children": [
+        {
+          "hs2": "03",
+          "hs4": "0304",
+          "name_cn": "鱼片及其他鱼肉",
+          "name_en": "Fish Fillets",
+          "export_value_usd": 996558583.0,
+          "export_value_cny": 7097170332.820857
+        },
+        {
+          "hs2": "03",
+          "hs4": "0303",
+          "name_cn": "冷冻的非鱼片鱼类",
+          "name_en": "Non-fillet Frozen Fish",
+          "export_value_usd": 163552227.0,
+          "export_value_cny": 1164766460.429133
+        },
+        {
+          "hs2": "03",
+          "hs4": "0307",
+          "name_cn": "软体动物",
+          "name_en": "Molluscs",
+          "export_value_usd": 80510557.0,
+          "export_value_cny": 573370343.0652031
+        },
+        {
+          "hs2": "03",
+          "hs4": "0305",
+          "name_cn": "干、盐腌、熏制或盐水浸渍鱼",
+          "name_en": "Dried/Salted/Smoked/Brined Fish",
+          "export_value_usd": 51088782.0,
+          "export_value_cny": 363837905.90497804
+        },
+        {
+          "hs2": "03",
+          "hs4": "0306",
+          "name_cn": "甲壳动物",
+          "name_en": "Crustaceans",
+          "export_value_usd": 16365033.0,
+          "export_value_cny": 116546511.850407
+        },
+        {
+          "hs2": "03",
+          "hs4": "0302",
+          "name_cn": "鲜或冷藏的非鱼片鱼类",
+          "name_en": "Non-fillet Fresh Fish",
+          "export_value_usd": 1822863.0,
+          "export_value_cny": 12981845.146977
+        },
+        {
+          "hs2": "03",
+          "hs4": "0301",
+          "name_cn": "活鱼",
+          "name_en": "Live Fish",
+          "export_value_usd": 595070.0,
+          "export_value_cny": 4237897.52253
+        }
+      ]
+    },
+    {
+      "hs2": "20",
+      "name": "蔬果及植物制品",
+      "export_value_usd": 1018201707.0,
+      "export_value_cny": 7251305714.506054,
+      "children": [
+        {
+          "hs2": "20",
+          "hs4": "2008",
+          "name_cn": "其他调制或保藏水果、坚果及植物食用部分",
+          "name_en": "Other Processed Fruits and Nuts",
+          "export_value_usd": 517145763.0,
+          "export_value_cny": 3682946120.2960773
+        },
+        {
+          "hs2": "20",
+          "hs4": "2005",
+          "name_cn": "其他调制或保藏蔬菜",
+          "name_en": "Other Processed Vegetables",
+          "export_value_usd": 234426176.00000003,
+          "export_value_cny": 1669507974.6695044
+        },
+        {
+          "hs2": "20",
+          "hs4": "2009",
+          "name_cn": "水果、坚果或蔬菜汁",
+          "name_en": "Fruit Juice",
+          "export_value_usd": 218173545.00000003,
+          "export_value_cny": 1553761953.7820554
+        },
+        {
+          "hs2": "20",
+          "hs4": "2001",
+          "name_cn": "醋或醋酸保藏食品",
+          "name_en": "Pickled Foods",
+          "export_value_usd": 19645904.0,
+          "export_value_cny": 139911821.952816
+        },
+        {
+          "hs2": "20",
+          "hs4": "2007",
+          "name_cn": "果酱、果冻、果泥及果糊",
+          "name_en": "Jams",
+          "export_value_usd": 10802523.0,
+          "export_value_cny": 76932101.196117
+        },
+        {
+          "hs2": "20",
+          "hs4": "2004",
+          "name_cn": "其他冷冻蔬菜",
+          "name_en": "Other Frozen Vegetables",
+          "export_value_usd": 9524644.0,
+          "export_value_cny": 67831457.157276
+        },
+        {
+          "hs2": "20",
+          "hs4": "2003",
+          "name_cn": "调制或保藏食用菌",
+          "name_en": "Processed Mushrooms",
+          "export_value_usd": 5650524.0,
+          "export_value_cny": 40241218.109796
+        },
+        {
+          "hs2": "20",
+          "hs4": "2006",
+          "name_cn": "糖渍蔬果坚果",
+          "name_en": "Sugar Preserved Foods",
+          "export_value_usd": 2712593.0,
+          "export_value_cny": 19318216.603647
+        },
+        {
+          "hs2": "20",
+          "hs4": "2002",
+          "name_cn": "调制或保藏番茄",
+          "name_en": "Processed Tomatoes",
+          "export_value_usd": 120035.0,
+          "export_value_cny": 854850.738765
+        }
+      ]
+    },
+    {
+      "hs2": "21",
+      "name": "其他食品调制品",
+      "export_value_usd": 908014485.0,
+      "export_value_cny": 6466587689.520315,
+      "children": [
+        {
+          "hs2": "21",
+          "hs4": "2106",
+          "name_cn": "其他食品调制品",
+          "name_en": "Other Edible Preparations",
+          "export_value_usd": 580065948.0,
+          "export_value_cny": 4131043480.486692
+        },
+        {
+          "hs2": "21",
+          "hs4": "2103",
+          "name_cn": "调味汁、调味品及芥子粉",
+          "name_en": "Sauces and Seasonings",
+          "export_value_usd": 180850203.0,
+          "export_value_cny": 1287957092.850837
+        },
+        {
+          "hs2": "21",
+          "hs4": "2101",
+          "name_cn": "咖啡、茶及马黛茶提取物等",
+          "name_en": "Coffee and Tea Extracts",
+          "export_value_usd": 57822507.0,
+          "export_value_cny": 411793333.829253
+        },
+        {
+          "hs2": "21",
+          "hs4": "2104",
+          "name_cn": "汤料、肉汤及其制品",
+          "name_en": "Soups and Broths",
+          "export_value_usd": 54187418.0,
+          "export_value_cny": 385905396.834822
+        },
+        {
+          "hs2": "21",
+          "hs4": "2102",
+          "name_cn": "酵母及其他发酵粉",
+          "name_en": "Yeast",
+          "export_value_usd": 32674010.0,
+          "export_value_cny": 232693810.86279002
+        },
+        {
+          "hs2": "21",
+          "hs4": "2105",
+          "name_cn": "冰淇淋及其他冰食",
+          "name_en": "Ice Cream",
+          "export_value_usd": 2414399.0,
+          "export_value_cny": 17194574.655921
+        }
+      ]
+    },
+    {
+      "hs2": "07",
+      "name": "食用蔬菜、根茎",
+      "export_value_usd": 438417170.0,
+      "export_value_cny": 3122266352.82843,
+      "children": [
+        {
+          "hs2": "07",
+          "hs4": "0703",
+          "name_cn": "洋葱、青葱、大蒜及其他葱属蔬菜",
+          "name_en": "Onions",
+          "export_value_usd": 141012673.0,
+          "export_value_cny": 1004246992.0379671
+        },
+        {
+          "hs2": "07",
+          "hs4": "0712",
+          "name_cn": "干制蔬菜",
+          "name_en": "Dried Vegetables",
+          "export_value_usd": 110639282.0,
+          "export_value_cny": 787937451.194478
+        },
+        {
+          "hs2": "07",
+          "hs4": "0710",
+          "name_cn": "冷冻蔬菜",
+          "name_en": "Frozen Vegetables",
+          "export_value_usd": 100777039.0,
+          "export_value_cny": 717701722.3284811
+        },
+        {
+          "hs2": "07",
+          "hs4": "0714",
+          "name_cn": "木薯、甘薯等根茎",
+          "name_en": "Cassava",
+          "export_value_usd": 42510505.0,
+          "export_value_cny": 302746170.737895
+        },
+        {
+          "hs2": "07",
+          "hs4": "0713",
+          "name_cn": "干荚豆",
+          "name_en": "Dried Legumes",
+          "export_value_usd": 23924042.0,
+          "export_value_cny": 170379347.506518
+        },
+        {
+          "hs2": "07",
+          "hs4": "0709",
+          "name_cn": "其他鲜或冷藏蔬菜",
+          "name_en": "Other Vegetables",
+          "export_value_usd": 16674357.0,
+          "export_value_cny": 118749418.08540301
+        },
+        {
+          "hs2": "07",
+          "hs4": "0704",
+          "name_cn": "甘蓝、花椰菜等芸薹属蔬菜",
+          "name_en": "Cabbages",
+          "export_value_usd": 1907920.0,
+          "export_value_cny": 13587593.79768
+        },
+        {
+          "hs2": "07",
+          "hs4": "0711",
+          "name_cn": "暂时保藏蔬菜",
+          "name_en": "Preserved Vegetables",
+          "export_value_usd": 700035.0,
+          "export_value_cny": 4985424.558765001
+        },
+        {
+          "hs2": "07",
+          "hs4": "0708",
+          "name_cn": "豆类蔬菜",
+          "name_en": "Legumes",
+          "export_value_usd": 138019.0,
+          "export_value_cny": 982927.013901
+        },
+        {
+          "hs2": "07",
+          "hs4": "0706",
+          "name_cn": "胡萝卜、芜菁等食用根茎",
+          "name_en": "Root Vegetables",
+          "export_value_usd": 133298.0,
+          "export_value_cny": 949305.5673420001
+        }
+      ]
+    },
+    {
+      "hs2": "16",
+      "name": "肉、鱼及水产制品",
+      "export_value_usd": 297376646.0,
+      "export_value_cny": 2117821014.9086342,
+      "children": [
+        {
+          "hs2": "16",
+          "hs4": "1605",
+          "name_cn": "调制或保藏甲壳动物、软体动物",
+          "name_en": "Processed Crustaceans",
+          "export_value_usd": 169489310.0,
+          "export_value_cny": 1207048459.75149
+        },
+        {
+          "hs2": "16",
+          "hs4": "1604",
+          "name_cn": "调制或保藏鱼；鱼子酱",
+          "name_en": "Processed Fish",
+          "export_value_usd": 124503547.0,
+          "export_value_cny": 886674296.0954131
+        },
+        {
+          "hs2": "16",
+          "hs4": "1602",
+          "name_cn": "其他调制或保藏肉、杂碎或血",
+          "name_en": "Other Prepared Meat",
+          "export_value_usd": 2529065.0,
+          "export_value_cny": 18011189.100135002
+        },
+        {
+          "hs2": "16",
+          "hs4": "1603",
+          "name_cn": "肉、鱼、甲壳及软体动物提取物或汁",
+          "name_en": "Animal Extracts",
+          "export_value_usd": 842281.9999999999,
+          "export_value_cny": 5998462.031478
+        },
+        {
+          "hs2": "16",
+          "hs4": "1601",
+          "name_cn": "香肠及类似肉制品",
+          "name_en": "Sausages",
+          "export_value_usd": 12442.0,
+          "export_value_cny": 88607.930118
+        }
+      ]
+    },
+    {
+      "hs2": "19",
+      "name": "谷物、面粉、淀粉制品",
+      "export_value_usd": 276283427.0,
+      "export_value_cny": 1967601880.113933,
+      "children": [
+        {
+          "hs2": "19",
+          "hs4": "1902",
+          "name_cn": "面食",
+          "name_en": "Pasta",
+          "export_value_usd": 123451134.0,
+          "export_value_cny": 879179348.5339861
+        },
+        {
+          "hs2": "19",
+          "hs4": "1905",
+          "name_cn": "面包、糕点、饼干等烘焙食品",
+          "name_en": "Baked Goods",
+          "export_value_usd": 99047700.0,
+          "export_value_cny": 705385925.0883
+        },
+        {
+          "hs2": "19",
+          "hs4": "1901",
+          "name_cn": "麦芽提取物及谷物、面粉等食品调制品",
+          "name_en": "Malt Extract",
+          "export_value_usd": 41982296.0,
+          "export_value_cny": 298984435.79498404
+        },
+        {
+          "hs2": "19",
+          "hs4": "1904",
+          "name_cn": "谷物制品及膨化谷物食品",
+          "name_en": "Prepared Cereals",
+          "export_value_usd": 9360328.0,
+          "export_value_cny": 66661251.350712
+        },
+        {
+          "hs2": "19",
+          "hs4": "1903",
+          "name_cn": "木薯粉及其代用品制品",
+          "name_en": "Tapioca",
+          "export_value_usd": 2441969.0,
+          "export_value_cny": 17390919.345951002
+        }
+      ]
+    },
+    {
+      "hs2": "09",
+      "name": "咖啡、茶、香辛料",
+      "export_value_usd": 271396262.0,
+      "export_value_cny": 1932797059.7638981,
+      "children": [
+        {
+          "hs2": "09",
+          "hs4": "0904",
+          "name_cn": "胡椒、辣椒及甜椒",
+          "name_en": "Pepper",
+          "export_value_usd": 111951692.0,
+          "export_value_cny": 797284013.930868
+        },
+        {
+          "hs2": "09",
+          "hs4": "0910",
+          "name_cn": "其他香辛料",
+          "name_en": "Spices",
+          "export_value_usd": 73111019.0,
+          "export_value_cny": 520673208.68090105
+        },
+        {
+          "hs2": "09",
+          "hs4": "0902",
+          "name_cn": "茶",
+          "name_en": "Tea",
+          "export_value_usd": 59661153.0,
+          "export_value_cny": 424887580.43588704
+        },
+        {
+          "hs2": "09",
+          "hs4": "0901",
+          "name_cn": "咖啡",
+          "name_en": "Coffee",
+          "export_value_usd": 22448930.0,
+          "export_value_cny": 159874073.35347
+        },
+        {
+          "hs2": "09",
+          "hs4": "0909",
+          "name_cn": "孜然、茴香等香辛料种子",
+          "name_en": "Spice Seeds",
+          "export_value_usd": 2391711.0,
+          "export_value_cny": 17032998.002769
+        },
+        {
+          "hs2": "09",
+          "hs4": "0906",
+          "name_cn": "肉桂",
+          "name_en": "Cinnamon",
+          "export_value_usd": 1035138.0000000001,
+          "export_value_cny": 7371920.556702001
+        },
+        {
+          "hs2": "09",
+          "hs4": "0908",
+          "name_cn": "肉豆蔻、肉豆蔻衣及小豆蔻",
+          "name_en": "Nutmeg, mace and cardamons",
+          "export_value_usd": 399103.0,
+          "export_value_cny": 2842283.453937
+        },
+        {
+          "hs2": "09",
+          "hs4": "0907",
+          "name_cn": "丁香",
+          "name_en": "Cloves",
+          "export_value_usd": 369275.0,
+          "export_value_cny": 2629858.0127250003
+        },
+        {
+          "hs2": "09",
+          "hs4": "0903",
+          "name_cn": "马黛茶",
+          "name_en": "Mate",
+          "export_value_usd": 28241.0,
+          "export_value_cny": 201123.33663900002
+        }
+      ]
+    },
+    {
+      "hs2": "17",
+      "name": "糖及糖食",
+      "export_value_usd": 237064215.0,
+      "export_value_cny": 1688295241.616985,
+      "children": [
+        {
+          "hs2": "17",
+          "hs4": "1704",
+          "name_cn": "糖食",
+          "name_en": "Confectionery Sugar",
+          "export_value_usd": 171815317.0,
+          "export_value_cny": 1223613534.957243
+        },
+        {
+          "hs2": "17",
+          "hs4": "1702",
+          "name_cn": "其他糖及糖浆",
+          "name_en": "Other Sugars",
+          "export_value_usd": 62361016.0,
+          "export_value_cny": 444115138.065864
+        },
+        {
+          "hs2": "17",
+          "hs4": "1701",
+          "name_cn": "原糖及精制糖",
+          "name_en": "Raw Sugar",
+          "export_value_usd": 2887882.0,
+          "export_value_cny": 20566568.593878
+        }
+      ]
+    },
+    {
+      "hs2": "12",
+      "name": "油籽、种子及植物材料",
+      "export_value_usd": 177370931.0,
+      "export_value_cny": 1263178834.513149,
+      "children": [
+        {
+          "hs2": "12",
+          "hs4": "1212",
+          "name_cn": "角豆、海藻及其他食用植物产品",
+          "name_en": "Locust beans, seaweed, sugar beet, cane, for food",
+          "export_value_usd": 96973900.0,
+          "export_value_cny": 690616987.1781
+        },
+        {
+          "hs2": "12",
+          "hs4": "1209",
+          "name_cn": "播种用种子、果实及孢子",
+          "name_en": "Sowing Seeds",
+          "export_value_usd": 35799158.0,
+          "export_value_cny": 254950111.746282
+        },
+        {
+          "hs2": "12",
+          "hs4": "1211",
+          "name_cn": "药用、香料及杀虫等用植物",
+          "name_en": "Perfume Plants",
+          "export_value_usd": 30945019.0,
+          "export_value_cny": 220380491.966901
+        },
+        {
+          "hs2": "12",
+          "hs4": "1207",
+          "name_cn": "其他含油子仁及果实",
+          "name_en": "Other Oily Seeds",
+          "export_value_usd": 7492216.000000001,
+          "export_value_cny": 53357157.35066401
+        },
+        {
+          "hs2": "12",
+          "hs4": "1206",
+          "name_cn": "葵花籽",
+          "name_en": "Sunflower Seeds",
+          "export_value_usd": 2496697.0,
+          "export_value_cny": 17780674.594263002
+        },
+        {
+          "hs2": "12",
+          "hs4": "1214",
+          "name_cn": "饲料用植物产品",
+          "name_en": "Forage Crops",
+          "export_value_usd": 1347437.0,
+          "export_value_cny": 9596013.786723
+        },
+        {
+          "hs2": "12",
+          "hs4": "1202",
+          "name_cn": "花生",
+          "name_en": "Ground Nuts",
+          "export_value_usd": 794855.0,
+          "export_value_cny": 5660702.161545
+        },
+        {
+          "hs2": "12",
+          "hs4": "1201",
+          "name_cn": "大豆",
+          "name_en": "Soybeans",
+          "export_value_usd": 759605.0,
+          "export_value_cny": 5409662.976795
+        },
+        {
+          "hs2": "12",
+          "hs4": "1208",
+          "name_cn": "油子仁或果实粉末",
+          "name_en": "Oil Seed Flower",
+          "export_value_usd": 517300.99999999994,
+          "export_value_cny": 3684051.668379
+        },
+        {
+          "hs2": "12",
+          "hs4": "1204",
+          "name_cn": "亚麻籽",
+          "name_en": "Linseed",
+          "export_value_usd": 243590.99999999997,
+          "export_value_cny": 1734776.9092889999
+        },
+        {
+          "hs2": "12",
+          "hs4": "1210",
+          "name_cn": "啤酒花",
+          "name_en": "Hops",
+          "export_value_usd": 1152.0000000000002,
+          "export_value_cny": 8204.174208000002
+        }
+      ]
+    },
+    {
+      "hs2": "08",
+      "name": "食用水果和坚果",
+      "export_value_usd": 132367988.0,
+      "export_value_cny": 942682320.4118521,
+      "children": [
+        {
+          "hs2": "08",
+          "hs4": "0802",
+          "name_cn": "其他坚果",
+          "name_en": "Other Nuts",
+          "export_value_usd": 51611926.0,
+          "export_value_cny": 367563569.54375404
+        },
+        {
+          "hs2": "08",
+          "hs4": "0813",
+          "name_cn": "干果",
+          "name_en": "Dried Fruits",
+          "export_value_usd": 37604509.0,
+          "export_value_cny": 267807242.05061102
+        },
+        {
+          "hs2": "08",
+          "hs4": "0808",
+          "name_cn": "苹果及梨",
+          "name_en": "Apples and Pears",
+          "export_value_usd": 21555888.0,
+          "export_value_cny": 153514114.89595202
+        },
+        {
+          "hs2": "08",
+          "hs4": "0811",
+          "name_cn": "冷冻水果及坚果",
+          "name_en": "Frozen Fruits and Nuts",
+          "export_value_usd": 5059843.0,
+          "export_value_cny": 36034577.636397004
+        },
+        {
+          "hs2": "08",
+          "hs4": "0805",
+          "name_cn": "柑橘类水果",
+          "name_en": "Citrus",
+          "export_value_usd": 4841455.0,
+          "export_value_cny": 34479288.402945004
+        },
+        {
+          "hs2": "08",
+          "hs4": "0804",
+          "name_cn": "热带水果",
+          "name_en": "Tropical Fruits",
+          "export_value_usd": 4485788.0,
+          "export_value_cny": 31946342.198052
+        },
+        {
+          "hs2": "08",
+          "hs4": "0810",
+          "name_cn": "其他水果",
+          "name_en": "Other Fruits",
+          "export_value_usd": 4154589.0,
+          "export_value_cny": 29587649.234931
+        },
+        {
+          "hs2": "08",
+          "hs4": "0803",
+          "name_cn": "香蕉",
+          "name_en": "Bananas",
+          "export_value_usd": 1727497.9999999998,
+          "export_value_cny": 12302686.229141999
+        },
+        {
+          "hs2": "08",
+          "hs4": "0812",
+          "name_cn": "暂时保藏水果及坚果",
+          "name_en": "Preserved Fruits and Nuts",
+          "export_value_usd": 617813.0,
+          "export_value_cny": 4399865.868027
+        },
+        {
+          "hs2": "08",
+          "hs4": "0814",
+          "name_cn": "柑橘或瓜果皮",
+          "name_en": "Citrus and Melon Peels",
+          "export_value_usd": 405950.99999999994,
+          "export_value_cny": 2891052.711729
+        },
+        {
+          "hs2": "08",
+          "hs4": "0806",
+          "name_cn": "葡萄",
+          "name_en": "Grapes",
+          "export_value_usd": 232717.0,
+          "export_value_cny": 1657335.771843
+        },
+        {
+          "hs2": "08",
+          "hs4": "0809",
+          "name_cn": "核果类水果",
+          "name_en": "Pitted Fruits",
+          "export_value_usd": 50144.0,
+          "export_value_cny": 357109.471776
+        },
+        {
+          "hs2": "08",
+          "hs4": "0801",
+          "name_cn": "椰子、巴西坚果及腰果",
+          "name_en": "Coconuts, Brazil Nuts, and Cashews",
+          "export_value_usd": 19867.0,
+          "export_value_cny": 141486.39669300002
+        }
+      ]
+    },
+    {
+      "hs2": "10",
+      "name": "谷物",
+      "export_value_usd": 57102291.0,
+      "export_value_cny": 406664186.666589,
+      "children": [
+        {
+          "hs2": "10",
+          "hs4": "1006",
+          "name_cn": "稻米",
+          "name_en": "Rice",
+          "export_value_usd": 56155575.0,
+          "export_value_cny": 399921979.210425
+        },
+        {
+          "hs2": "10",
+          "hs4": "1008",
+          "name_cn": "荞麦、小米及其他谷物",
+          "name_en": "Buckwheat",
+          "export_value_usd": 720733.0,
+          "export_value_cny": 5132829.070707
+        },
+        {
+          "hs2": "10",
+          "hs4": "1005",
+          "name_cn": "玉米",
+          "name_en": "Corn",
+          "export_value_usd": 137439.0,
+          "export_value_cny": 978796.4400810001
+        },
+        {
+          "hs2": "10",
+          "hs4": "1003",
+          "name_cn": "大麦",
+          "name_en": "Barley",
+          "export_value_usd": 46435.0,
+          "export_value_cny": 330695.16436500003
+        },
+        {
+          "hs2": "10",
+          "hs4": "1007",
+          "name_cn": "高粱",
+          "name_en": "Sorghum",
+          "export_value_usd": 28671.0,
+          "export_value_cny": 204185.658609
+        },
+        {
+          "hs2": "10",
+          "hs4": "1004",
+          "name_cn": "燕麦",
+          "name_en": "Oats",
+          "export_value_usd": 13437.999999999998,
+          "export_value_cny": 95701.122402
+        }
+      ]
+    },
+    {
+      "hs2": "04",
+      "name": "乳品、蛋、蜂蜜",
+      "export_value_usd": 19743686.0,
+      "export_value_cny": 140608193.968794,
+      "children": [
+        {
+          "hs2": "04",
+          "hs4": "0407",
+          "name_cn": "带壳禽蛋及蛋黄",
+          "name_en": "Eggs",
+          "export_value_usd": 7393007.0,
+          "export_value_cny": 52650622.698753
+        },
+        {
+          "hs2": "04",
+          "hs4": "0410",
+          "name_cn": "其他食用动物产品",
+          "name_en": "Other Edible Animal Products",
+          "export_value_usd": 5529721.0,
+          "export_value_cny": 39380897.921559
+        },
+        {
+          "hs2": "04",
+          "hs4": "0408",
+          "name_cn": "去壳禽蛋及蛋黄制品",
+          "name_en": "Processed Egg Products",
+          "export_value_usd": 3347009.0,
+          "export_value_cny": 23836323.708111
+        },
+        {
+          "hs2": "04",
+          "hs4": "0403",
+          "name_cn": "酸奶等发酵乳制品",
+          "name_en": "Fermented Milk Products",
+          "export_value_usd": 2928991.0,
+          "export_value_cny": 20859333.695889
+        },
+        {
+          "hs2": "04",
+          "hs4": "0402",
+          "name_cn": "浓缩乳及奶油",
+          "name_en": "Concentrated Milk",
+          "export_value_usd": 227063.0,
+          "export_value_cny": 1617069.798777
+        },
+        {
+          "hs2": "04",
+          "hs4": "0404",
+          "name_cn": "乳清及其他乳制品",
+          "name_en": "Whey and other milk products",
+          "export_value_usd": 125627.00000000001,
+          "export_value_cny": 894675.1677330001
+        },
+        {
+          "hs2": "04",
+          "hs4": "0405",
+          "name_cn": "黄油及乳脂",
+          "name_en": "Butter",
+          "export_value_usd": 98220.0,
+          "export_value_cny": 699491.3113800001
+        },
+        {
+          "hs2": "04",
+          "hs4": "0401",
+          "name_cn": "乳及奶油（未浓缩）",
+          "name_en": "Milk",
+          "export_value_usd": 60122.0,
+          "export_value_cny": 428169.584838
+        },
+        {
+          "hs2": "04",
+          "hs4": "0409",
+          "name_cn": "天然蜂蜜",
+          "name_en": "Honey",
+          "export_value_usd": 19727.999999999996,
+          "export_value_cny": 140496.48331199997
+        },
+        {
+          "hs2": "04",
+          "hs4": "0406",
+          "name_cn": "乳酪及凝乳",
+          "name_en": "Cheese",
+          "export_value_usd": 14198.0,
+          "export_value_cny": 101113.598442
+        }
+      ]
+    },
+    {
+      "hs2": "02",
+      "name": "肉及食用杂碎",
+      "export_value_usd": 7908647.0,
+      "export_value_cny": 56322845.258313,
+      "children": [
+        {
+          "hs2": "02",
+          "hs4": "0208",
+          "name_cn": "其他肉类",
+          "name_en": "Other Meat",
+          "export_value_usd": 7790902.0,
+          "export_value_cny": 55484303.164458
+        },
+        {
+          "hs2": "02",
+          "hs4": "0206",
+          "name_cn": "食用杂碎",
+          "name_en": "Edible Offal",
+          "export_value_usd": 117745.0,
+          "export_value_cny": 838542.093855
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "year": 2024,
+  "fetched_at": "2026-07-21 03:47 UTC",
+  "source": "UN Comtrade",
+  "hs_version": "HS2022 (via Comtrade H6 classification)",
+  "chapters_covered": 13,
+  "total_export_value_usd": 72853620803.0,
+  "total_export_value_cny": 518840101346.69,
+  "total_destination_records": 24895,
+  "gaps": 0,
+  "conversion": {
+    "usd_to_cny": 7.121679,
+    "method": "2024 working-day average of USD/CNY central parity",
+    "source_url": "https://www.safe.gov.cn/AppStructured/hlw/RMBQuery.do?startDate=2024-01-01&endDate=2024-12-31"
+  },
+  "files": {
+    "overview": "overview/2024.json",
+    "categories": [
+      "categories/02.json",
+      "categories/03.json",
+      "categories/04.json",
+      "categories/07.json",
+      "categories/08.json",
+      "categories/09.json",
+      "categories/10.json",
+      "categories/12.json",
+      "categories/16.json",
+      "categories/17.json",
+      "categories/19.json",
+      "categories/20.json",
+      "categories/21.json"
+    ],
+    "countries": "countries/ (per partner code)"
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "year": 2024,
+  "partner_code": 226,
+  "partner_name": "赤道几内亚",
+  "total_export_value_usd": 5498584.0,
+  "total_export_value_cny": 39159150.2,
+  "hs4_products": [
+    {
+      "hs4": "0303",
+      "name_cn": "冷冻的非鱼片鱼类",
+      "name_en": "0303 - Fish; frozen, excluding fish fillets and other fish meat of heading 0304",
+      "export_value_usd": 1325030.0,
+      "export_value_cny": 9436438.33,
+      "share_pct": 24.1,
+      "hs2": "03"
+    },
+    {
+      "hs4": "2002",
+      "name_cn": "调制或保藏番茄",
+      "name_en": "2002 - Tomatoes; prepared or preserved otherwise than by vinegar or acetic acid",
+      "export_value_usd": 1220508.0,
+      "export_value_cny": 8692066.19,
+      "share_pct": 22.2,
+      "hs2": "20"
+    },
+    {
+      "hs4": "1604",
+      "name_cn": "调制或保藏鱼；鱼子酱",
+      "name_en": "1604 - Prepared or preserved fish; caviar and caviar substitutes prepared from fish eggs",
+      "export_value_usd": 884223.0,
+      "export_value_cny": 6297152.37,
+      "share_pct": 16.1,
+      "hs2": "16"
+    },
+    {
+      "hs4": "0703",
+      "name_cn": "洋葱、青葱、大蒜及其他葱属蔬菜",
+      "name_en": "0703 - Onions, shallots, garlic, leeks and other alliaceous vegetables; fresh or chilled",
+      "export_value_usd": 776302.0,
+      "export_value_cny": 5528573.65,
+      "share_pct": 14.1,
+      "hs2": "07"
+    },
+    {
+      "hs4": "2005",
+      "name_cn": "其他调制或保藏蔬菜",
+      "name_en": "2005 - Vegetables preparations n.e.c.; prepared or preserved otherwise than by vinegar or acetic acid, not frozen, other than products of heading no. 2006",
+      "export_value_usd": 400035.0,
+      "export_value_cny": 2848920.86,
+      "share_pct": 7.3,
+      "hs2": "20"
+    },
+    {
+      "hs4": "0207",
+      "name_cn": "禽肉",
+      "name_en": "0207 - Meat and edible offal of poultry; of the poultry of heading no. 0105, (i.e. fowls of the species Gallus domesticus), fresh, chilled or frozen",
+      "export_value_usd": 214670.0,
+      "export_value_cny": 1528810.83,
+      "share_pct": 3.9,
+      "hs2": "02"
+    },
+    {
+      "hs4": "2102",
+      "name_cn": "酵母及其他发酵粉",
+      "name_en": "2102 - Yeasts (active or inactive); other single-cell micro-organisms, dead (but not including vaccines of heading no. 3002); prepared baking powders",
+      "export_value_usd": 162002.0,
+      "export_value_cny": 1153726.24,
+      "share_pct": 2.9,
+      "hs2": "21"
+    },
+    {
+      "hs4": "1905",
+      "name_cn": "面包、糕点、饼干等烘焙食品",
+      "name_en": "1905 - Bread, pastry, cakes, biscuits, other bakers' wares, whether or not containing cocoa; communion wafers, empty cachets suitable for pharmaceutical use, sealing wafers, rice paper and similar products",
+      "export_value_usd": 159691.0,
+      "export_value_cny": 1137268.04,
+      "share_pct": 2.9,
+      "hs2": "19"
+    },
+    {
+      "hs4": "1704",
+      "name_cn": "糖食",
+      "name_en": "1704 - Sugar confectionery (including white chocolate), not containing cocoa",
+      "export_value_usd": 153216.0,
+      "export_value_cny": 1091155.17,
+      "share_pct": 2.8,
+      "hs2": "17"
+    },
+    {
+      "hs4": "0902",
+      "name_cn": "茶",
+      "name_en": "0902 - Tea",
+      "export_value_usd": 98985.0,
+      "export_value_cny": 704939.4,
+      "share_pct": 1.8,
+      "hs2": "09"
+    },
+    {
+      "hs4": "0701",
+      "name_cn": "马铃薯",
+      "name_en": "0701 - Potatoes; fresh or chilled",
+      "export_value_usd": 60719.0,
+      "export_value_cny": 432421.23,
+      "share_pct": 1.1,
+      "hs2": "07"
+    },
+    {
+      "hs4": "0808",
+      "name_cn": "苹果及梨",
+      "name_en": "0808 - Apples, pears and quinces; fresh",
+      "export_value_usd": 32523.0,
+      "export_value_cny": 231618.37,
+      "share_pct": 0.6,
+      "hs2": "08"
+    },
+    {
+      "hs4": "2106",
+      "name_cn": "其他食品调制品",
+      "name_en": "2106 - Food preparations not elsewhere specified or included",
+      "export_value_usd": 10680.0,
+      "export_value_cny": 76059.53,
+      "share_pct": 0.2,
+      "hs2": "21"
+    }
+  ]
+}

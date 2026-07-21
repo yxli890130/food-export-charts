@@ -1,0 +1,99 @@
+{
+  "year": 2024,
+  "partner_code": 584,
+  "partner_name": "CN584",
+  "total_export_value_usd": 3656120.0,
+  "total_export_value_cny": 26037713.03,
+  "hs4_products": [
+    {
+      "hs4": "0303",
+      "name_cn": "冷冻的非鱼片鱼类",
+      "name_en": "0303 - Fish; frozen, excluding fish fillets and other fish meat of heading 0304",
+      "export_value_usd": 2983199.0,
+      "export_value_cny": 21245385.67,
+      "share_pct": 81.6,
+      "hs2": "03"
+    },
+    {
+      "hs4": "1006",
+      "name_cn": "稻米",
+      "name_en": "1006 - Rice",
+      "export_value_usd": 200634.0,
+      "export_value_cny": 1428850.94,
+      "share_pct": 5.5,
+      "hs2": "10"
+    },
+    {
+      "hs4": "1902",
+      "name_cn": "面食",
+      "name_en": "1902 - Pasta; whether or not cooked or stuffed with meat or other substance, or otherwise prepared, egg spaghetti, macaroni, noodles, lasagne, gnocchi, ravioli, cannelloni; couscous, whether or not prepared",
+      "export_value_usd": 172964.0,
+      "export_value_cny": 1231794.09,
+      "share_pct": 4.7,
+      "hs2": "19"
+    },
+    {
+      "hs4": "1604",
+      "name_cn": "调制或保藏鱼；鱼子酱",
+      "name_en": "1604 - Prepared or preserved fish; caviar and caviar substitutes prepared from fish eggs",
+      "export_value_usd": 127232.0,
+      "export_value_cny": 906105.46,
+      "share_pct": 3.5,
+      "hs2": "16"
+    },
+    {
+      "hs4": "1602",
+      "name_cn": "其他调制或保藏肉、杂碎或血",
+      "name_en": "1602 - Prepared or preserved meat, meat offal, blood or insects",
+      "export_value_usd": 56364.0,
+      "export_value_cny": 401406.32,
+      "share_pct": 1.5,
+      "hs2": "16"
+    },
+    {
+      "hs4": "2008",
+      "name_cn": "其他调制或保藏水果、坚果及植物食用部分",
+      "name_en": "2008 - Fruit, nuts and other edible parts of plants; prepared or preserved in ways n.e.c., whether or not containing added sugar or other sweetening matter or spirit, not elsewhere specified or included",
+      "export_value_usd": 53937.0,
+      "export_value_cny": 384122.0,
+      "share_pct": 1.5,
+      "hs2": "20"
+    },
+    {
+      "hs4": "2005",
+      "name_cn": "其他调制或保藏蔬菜",
+      "name_en": "2005 - Vegetables preparations n.e.c.; prepared or preserved otherwise than by vinegar or acetic acid, not frozen, other than products of heading no. 2006",
+      "export_value_usd": 29750.0,
+      "export_value_cny": 211869.95,
+      "share_pct": 0.8,
+      "hs2": "20"
+    },
+    {
+      "hs4": "2103",
+      "name_cn": "调味汁、调味品及芥子粉",
+      "name_en": "2103 - Sauces and preparations therefor; mixed condiments and mixed seasonings, mustard flour and meal and prepared mustard",
+      "export_value_usd": 13190.0,
+      "export_value_cny": 93934.95,
+      "share_pct": 0.4,
+      "hs2": "21"
+    },
+    {
+      "hs4": "2102",
+      "name_cn": "酵母及其他发酵粉",
+      "name_en": "2102 - Yeasts (active or inactive); other single-cell micro-organisms, dead (but not including vaccines of heading no. 3002); prepared baking powders",
+      "export_value_usd": 12100.0,
+      "export_value_cny": 86172.32,
+      "share_pct": 0.3,
+      "hs2": "21"
+    },
+    {
+      "hs4": "2002",
+      "name_cn": "调制或保藏番茄",
+      "name_en": "2002 - Tomatoes; prepared or preserved otherwise than by vinegar or acetic acid",
+      "export_value_usd": 6750.0,
+      "export_value_cny": 48071.33,
+      "share_pct": 0.2,
+      "hs2": "20"
+    }
+  ]
+}

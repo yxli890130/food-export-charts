@@ -1,0 +1,63 @@
+{
+  "year": 2024,
+  "partner_code": 108,
+  "partner_name": "布隆迪",
+  "total_export_value_usd": 2850453.0,
+  "total_export_value_cny": 20300011.27,
+  "hs4_products": [
+    {
+      "hs4": "1006",
+      "name_cn": "稻米",
+      "name_en": "1006 - Rice",
+      "export_value_usd": 1648851.0,
+      "export_value_cny": 11742587.54,
+      "share_pct": 57.8,
+      "hs2": "10"
+    },
+    {
+      "hs4": "0303",
+      "name_cn": "冷冻的非鱼片鱼类",
+      "name_en": "0303 - Fish; frozen, excluding fish fillets and other fish meat of heading 0304",
+      "export_value_usd": 783271.0,
+      "export_value_cny": 5578204.63,
+      "share_pct": 27.5,
+      "hs2": "03"
+    },
+    {
+      "hs4": "2106",
+      "name_cn": "其他食品调制品",
+      "name_en": "2106 - Food preparations not elsewhere specified or included",
+      "export_value_usd": 188927.0,
+      "export_value_cny": 1345477.45,
+      "share_pct": 6.6,
+      "hs2": "21"
+    },
+    {
+      "hs4": "2002",
+      "name_cn": "调制或保藏番茄",
+      "name_en": "2002 - Tomatoes; prepared or preserved otherwise than by vinegar or acetic acid",
+      "export_value_usd": 103556.0,
+      "export_value_cny": 737492.59,
+      "share_pct": 3.6,
+      "hs2": "20"
+    },
+    {
+      "hs4": "2102",
+      "name_cn": "酵母及其他发酵粉",
+      "name_en": "2102 - Yeasts (active or inactive); other single-cell micro-organisms, dead (but not including vaccines of heading no. 3002); prepared baking powders",
+      "export_value_usd": 82243.0,
+      "export_value_cny": 585708.25,
+      "share_pct": 2.9,
+      "hs2": "21"
+    },
+    {
+      "hs4": "0703",
+      "name_cn": "洋葱、青葱、大蒜及其他葱属蔬菜",
+      "name_en": "0703 - Onions, shallots, garlic, leeks and other alliaceous vegetables; fresh or chilled",
+      "export_value_usd": 43605.0,
+      "export_value_cny": 310540.81,
+      "share_pct": 1.5,
+      "hs2": "07"
+    }
+  ]
+}

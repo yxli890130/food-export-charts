@@ -1,0 +1,162 @@
+{
+  "year": 2024,
+  "partner_code": 478,
+  "partner_name": "毛里塔尼亚",
+  "total_export_value_usd": 81210417.0,
+  "total_export_value_cny": 578354521.33,
+  "hs4_products": [
+    {
+      "hs4": "0902",
+      "name_cn": "茶",
+      "name_en": "0902 - Tea",
+      "export_value_usd": 65953768.0,
+      "export_value_cny": 469701564.54,
+      "share_pct": 81.2,
+      "hs2": "09"
+    },
+    {
+      "hs4": "2002",
+      "name_cn": "调制或保藏番茄",
+      "name_en": "2002 - Tomatoes; prepared or preserved otherwise than by vinegar or acetic acid",
+      "export_value_usd": 7158405.0,
+      "export_value_cny": 50979862.56,
+      "share_pct": 8.8,
+      "hs2": "20"
+    },
+    {
+      "hs4": "0703",
+      "name_cn": "洋葱、青葱、大蒜及其他葱属蔬菜",
+      "name_en": "0703 - Onions, shallots, garlic, leeks and other alliaceous vegetables; fresh or chilled",
+      "export_value_usd": 2617472.0,
+      "export_value_cny": 18640795.38,
+      "share_pct": 3.2,
+      "hs2": "07"
+    },
+    {
+      "hs4": "1604",
+      "name_cn": "调制或保藏鱼；鱼子酱",
+      "name_en": "1604 - Prepared or preserved fish; caviar and caviar substitutes prepared from fish eggs",
+      "export_value_usd": 1996851.0,
+      "export_value_cny": 14220931.83,
+      "share_pct": 2.5,
+      "hs2": "16"
+    },
+    {
+      "hs4": "2102",
+      "name_cn": "酵母及其他发酵粉",
+      "name_en": "2102 - Yeasts (active or inactive); other single-cell micro-organisms, dead (but not including vaccines of heading no. 3002); prepared baking powders",
+      "export_value_usd": 1556295.0,
+      "export_value_cny": 11083433.42,
+      "share_pct": 1.9,
+      "hs2": "21"
+    },
+    {
+      "hs4": "1704",
+      "name_cn": "糖食",
+      "name_en": "1704 - Sugar confectionery (including white chocolate), not containing cocoa",
+      "export_value_usd": 593706.0,
+      "export_value_cny": 4228183.55,
+      "share_pct": 0.7,
+      "hs2": "17"
+    },
+    {
+      "hs4": "0207",
+      "name_cn": "禽肉",
+      "name_en": "0207 - Meat and edible offal of poultry; of the poultry of heading no. 0105, (i.e. fowls of the species Gallus domesticus), fresh, chilled or frozen",
+      "export_value_usd": 401920.0,
+      "export_value_cny": 2862345.22,
+      "share_pct": 0.5,
+      "hs2": "02"
+    },
+    {
+      "hs4": "2005",
+      "name_cn": "其他调制或保藏蔬菜",
+      "name_en": "2005 - Vegetables preparations n.e.c.; prepared or preserved otherwise than by vinegar or acetic acid, not frozen, other than products of heading no. 2006",
+      "export_value_usd": 249272.0,
+      "export_value_cny": 1775235.17,
+      "share_pct": 0.3,
+      "hs2": "20"
+    },
+    {
+      "hs4": "2103",
+      "name_cn": "调味汁、调味品及芥子粉",
+      "name_en": "2103 - Sauces and preparations therefor; mixed condiments and mixed seasonings, mustard flour and meal and prepared mustard",
+      "export_value_usd": 224956.0,
+      "export_value_cny": 1602064.42,
+      "share_pct": 0.3,
+      "hs2": "21"
+    },
+    {
+      "hs4": "2106",
+      "name_cn": "其他食品调制品",
+      "name_en": "2106 - Food preparations not elsewhere specified or included",
+      "export_value_usd": 135640.0,
+      "export_value_cny": 965984.54,
+      "share_pct": 0.2,
+      "hs2": "21"
+    },
+    {
+      "hs4": "1903",
+      "name_cn": "木薯粉及其代用品制品",
+      "name_en": "1903 - Tapioca and substitutes therefor prepared from starch; in the form of flakes, grains, pearls, siftings or similar forms",
+      "export_value_usd": 113425.0,
+      "export_value_cny": 807776.44,
+      "share_pct": 0.1,
+      "hs2": "19"
+    },
+    {
+      "hs4": "1901",
+      "name_cn": "麦芽提取物及谷物、面粉等食品调制品",
+      "name_en": "1901 - Malt extract; flour/groats/meal/starch/malt extract products, no cocoa (or less than 40% by weight) and food preparations of goods of headings 04.01 to 04.04, no cocoa (or less than 5% by weight), weights calculated on a totally defatted basis, n.e.c.",
+      "export_value_usd": 105870.0,
+      "export_value_cny": 753972.16,
+      "share_pct": 0.1,
+      "hs2": "19"
+    },
+    {
+      "hs4": "2008",
+      "name_cn": "其他调制或保藏水果、坚果及植物食用部分",
+      "name_en": "2008 - Fruit, nuts and other edible parts of plants; prepared or preserved in ways n.e.c., whether or not containing added sugar or other sweetening matter or spirit, not elsewhere specified or included",
+      "export_value_usd": 73624.0,
+      "export_value_cny": 524326.49,
+      "share_pct": 0.1,
+      "hs2": "20"
+    },
+    {
+      "hs4": "2105",
+      "name_cn": "冰淇淋及其他冰食",
+      "name_en": "2105 - Ice cream and other edible ice; whether or not containing cocoa",
+      "export_value_usd": 21400.0,
+      "export_value_cny": 152403.93,
+      "share_pct": 0.0,
+      "hs2": "21"
+    },
+    {
+      "hs4": "0408",
+      "name_cn": "去壳禽蛋及蛋黄制品",
+      "name_en": "0408 - Birds' eggs, not in shell; egg yolks, fresh, dried, cooked by steaming or boiling in water, moulded, frozen or otherwise preserved, whether or not containing added sugar or other sweetening matter",
+      "export_value_usd": 5600.0,
+      "export_value_cny": 39881.4,
+      "share_pct": 0.0,
+      "hs2": "04"
+    },
+    {
+      "hs4": "0904",
+      "name_cn": "胡椒、辣椒及甜椒",
+      "name_en": "0904 - Pepper of the genus piper; dried or crushed or ground fruits of the genus capsicum or of the genus pimenta",
+      "export_value_usd": 1355.0,
+      "export_value_cny": 9649.88,
+      "share_pct": 0.0,
+      "hs2": "09"
+    },
+    {
+      "hs4": "1905",
+      "name_cn": "面包、糕点、饼干等烘焙食品",
+      "name_en": "1905 - Bread, pastry, cakes, biscuits, other bakers' wares, whether or not containing cocoa; communion wafers, empty cachets suitable for pharmaceutical use, sealing wafers, rice paper and similar products",
+      "export_value_usd": 858.0,
+      "export_value_cny": 6110.4,
+      "share_pct": 0.0,
+      "hs2": "19"
+    }
+  ]
+}

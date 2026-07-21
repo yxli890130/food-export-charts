@@ -1,0 +1,59 @@
+# Dependencies
+node_modules/
+
+# Build outputs
+.next/
+dist/
+build/
+
+# Cache & temp
+.cache/
+*.pyc
+__pycache__/
+.DS_Store
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Test artifacts
+test-results/
+playwright-report/
+*.tsbuildinfo
+
+# Python virtual env
+venv/
+env/
+
+# Raw API response caches and local build artifacts
+wits-cache/
+cache/
+*.pyo
+
+# Claude Code local planning state
+.claude/
+
+# Development server logs
+dev-*.log
+
+# One-off exploratory outputs
+中国*.json
+中国*.html
+中国*.svg
+美国*.json
+美国*.html
+china_food_hs2_exports*
+build_china_*.py
+test_chart_artifact.py
+test_hs4_explorer_artifact.py

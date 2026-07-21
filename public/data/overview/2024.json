@@ -1,0 +1,96 @@
+{
+  "year": 2024,
+  "fetched_at": "2026-07-21 03:47 UTC",
+  "source": "UN Comtrade",
+  "source_url": "https://comtradeapi.un.org/data/v1/get/C/A/HS",
+  "hs_version": "HS2022 (via Comtrade H6 classification)",
+  "chapters_covered": 13,
+  "total_export_value_usd": 72853620803.0,
+  "total_export_value_cny": 518840101346.69,
+  "conversion": {
+    "usd_to_cny": 7.121679,
+    "method": "2024 working-day average of USD/CNY central parity",
+    "source_url": "https://www.safe.gov.cn/AppStructured/hlw/RMBQuery.do?startDate=2024-01-01&endDate=2024-12-31"
+  },
+  "gaps": [],
+  "groups": [
+    {
+      "hs2": "07",
+      "name": "食用蔬菜、根茎",
+      "export_value_usd": 12346196919.0,
+      "export_value_cny": 87925651327.91
+    },
+    {
+      "hs2": "16",
+      "name": "肉、鱼及水产制品",
+      "export_value_usd": 11193744800.0,
+      "export_value_cny": 79718257273.52
+    },
+    {
+      "hs2": "03",
+      "name": "鱼、甲壳类和软体动物",
+      "export_value_usd": 10353714603.0,
+      "export_value_cny": 73735831860.18
+    },
+    {
+      "hs2": "20",
+      "name": "蔬果及植物制品",
+      "export_value_usd": 9105864515.0,
+      "export_value_cny": 64849044093.32
+    },
+    {
+      "hs2": "08",
+      "name": "食用水果和坚果",
+      "export_value_usd": 7204756777.0,
+      "export_value_cny": 51309965038.87
+    },
+    {
+      "hs2": "21",
+      "name": "其他食品调制品",
+      "export_value_usd": 6433270090.0,
+      "export_value_cny": 45815684501.28
+    },
+    {
+      "hs2": "09",
+      "name": "咖啡、茶、香辛料",
+      "export_value_usd": 3571028058.0,
+      "export_value_cny": 25431715529.07
+    },
+    {
+      "hs2": "12",
+      "name": "油籽、种子及植物材料",
+      "export_value_usd": 3560142654.0,
+      "export_value_cny": 25354193176.0
+    },
+    {
+      "hs2": "17",
+      "name": "糖及糖食",
+      "export_value_usd": 3349797990.0,
+      "export_value_cny": 23856185999.63
+    },
+    {
+      "hs2": "19",
+      "name": "谷物、面粉、淀粉制品",
+      "export_value_usd": 2907793201.0,
+      "export_value_cny": 20708369775.9
+    },
+    {
+      "hs2": "02",
+      "name": "肉及食用杂碎",
+      "export_value_usd": 1231367884.0,
+      "export_value_cny": 8769406800.76
+    },
+    {
+      "hs2": "10",
+      "name": "谷物",
+      "export_value_usd": 813906373.0,
+      "export_value_cny": 5796379924.56
+    },
+    {
+      "hs2": "04",
+      "name": "乳品、蛋、蜂蜜",
+      "export_value_usd": 782036939.0,
+      "export_value_cny": 5569416045.7
+    }
+  ]
+}

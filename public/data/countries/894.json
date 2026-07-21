@@ -1,0 +1,99 @@
+{
+  "year": 2024,
+  "partner_code": 894,
+  "partner_name": "赞比亚",
+  "total_export_value_usd": 4538270.0,
+  "total_export_value_cny": 32320102.16,
+  "hs4_products": [
+    {
+      "hs4": "1702",
+      "name_cn": "其他糖及糖浆",
+      "name_en": "1702 - Sugars, including lactose, maltose, glucose or fructose in solid form; sugar syrups without added flavouring or colouring matter; artificial honey, whether or not mixed with natural honey; caramel",
+      "export_value_usd": 1600625.0,
+      "export_value_cny": 11399137.45,
+      "share_pct": 35.3,
+      "hs2": "17"
+    },
+    {
+      "hs4": "0303",
+      "name_cn": "冷冻的非鱼片鱼类",
+      "name_en": "0303 - Fish; frozen, excluding fish fillets and other fish meat of heading 0304",
+      "export_value_usd": 913094.0,
+      "export_value_cny": 6502762.36,
+      "share_pct": 20.1,
+      "hs2": "03"
+    },
+    {
+      "hs4": "1006",
+      "name_cn": "稻米",
+      "name_en": "1006 - Rice",
+      "export_value_usd": 638710.0,
+      "export_value_cny": 4548687.59,
+      "share_pct": 14.1,
+      "hs2": "10"
+    },
+    {
+      "hs4": "2106",
+      "name_cn": "其他食品调制品",
+      "name_en": "2106 - Food preparations not elsewhere specified or included",
+      "export_value_usd": 591291.0,
+      "export_value_cny": 4210984.7,
+      "share_pct": 13.0,
+      "hs2": "21"
+    },
+    {
+      "hs4": "1604",
+      "name_cn": "调制或保藏鱼；鱼子酱",
+      "name_en": "1604 - Prepared or preserved fish; caviar and caviar substitutes prepared from fish eggs",
+      "export_value_usd": 416240.0,
+      "export_value_cny": 2964327.67,
+      "share_pct": 9.2,
+      "hs2": "16"
+    },
+    {
+      "hs4": "0703",
+      "name_cn": "洋葱、青葱、大蒜及其他葱属蔬菜",
+      "name_en": "0703 - Onions, shallots, garlic, leeks and other alliaceous vegetables; fresh or chilled",
+      "export_value_usd": 295900.0,
+      "export_value_cny": 2107304.82,
+      "share_pct": 6.5,
+      "hs2": "07"
+    },
+    {
+      "hs4": "1209",
+      "name_cn": "播种用种子、果实及孢子",
+      "name_en": "1209 - Seeds, fruit and spores; of a kind used for sowing",
+      "export_value_usd": 63423.0,
+      "export_value_cny": 451678.25,
+      "share_pct": 1.4,
+      "hs2": "12"
+    },
+    {
+      "hs4": "2002",
+      "name_cn": "调制或保藏番茄",
+      "name_en": "2002 - Tomatoes; prepared or preserved otherwise than by vinegar or acetic acid",
+      "export_value_usd": 16020.0,
+      "export_value_cny": 114089.3,
+      "share_pct": 0.4,
+      "hs2": "20"
+    },
+    {
+      "hs4": "0301",
+      "name_cn": "活鱼",
+      "name_en": "0301 - Fish; live",
+      "export_value_usd": 2000.0,
+      "export_value_cny": 14243.36,
+      "share_pct": 0.0,
+      "hs2": "03"
+    },
+    {
+      "hs4": "1207",
+      "name_cn": "其他含油子仁及果实",
+      "name_en": "1207 - Oil seeds and oleaginous fruits, n.e.c. in chapter 12; whether or not broken",
+      "export_value_usd": 967.0,
+      "export_value_cny": 6886.66,
+      "share_pct": 0.0,
+      "hs2": "12"
+    }
+  ]
+}

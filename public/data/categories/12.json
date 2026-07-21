@@ -1,0 +1,4673 @@
+{
+  "year": 2024,
+  "fetched_at": "2026-07-21 03:47 UTC",
+  "hs2": "12",
+  "name": "油籽、种子及植物材料",
+  "export_value_usd": 3560142654.0,
+  "export_value_cny": 25354193176.0,
+  "hs4_children": [
+    {
+      "hs4": "1201",
+      "name_en": "1201 - Soya beans, whether or not broken",
+      "name_cn": "大豆",
+      "export_value_usd": 67331473.0,
+      "export_value_cny": 479513137.3,
+      "partner_count": 42,
+      "top15_partners": [
+        {
+          "partner_code": 410,
+          "partner_name": "韩国",
+          "export_value_usd": 35346655.0,
+          "export_value_cny": 251727530.63,
+          "share_pct": 52.5
+        },
+        {
+          "partner_code": 392,
+          "partner_name": "日本",
+          "export_value_usd": 16455040.0,
+          "export_value_cny": 117187512.81,
+          "share_pct": 24.4
+        },
+        {
+          "partner_code": 704,
+          "partner_name": "越南",
+          "export_value_usd": 4551432.0,
+          "export_value_cny": 32413837.69,
+          "share_pct": 6.8
+        },
+        {
+          "partner_code": 344,
+          "partner_name": "香港",
+          "export_value_usd": 1866933.0,
+          "export_value_cny": 13295697.54,
+          "share_pct": 2.8
+        },
+        {
+          "partner_code": 826,
+          "partner_name": "英国",
+          "export_value_usd": 1743391.0,
+          "export_value_cny": 12415871.07,
+          "share_pct": 2.6
+        },
+        {
+          "partner_code": 490,
+          "partner_name": "亚洲其他地区（未另列明）",
+          "export_value_usd": 1207453.0,
+          "export_value_cny": 8599092.67,
+          "share_pct": 1.8
+        },
+        {
+          "partner_code": 458,
+          "partner_name": "马来西亚",
+          "export_value_usd": 973149.0,
+          "export_value_cny": 6930454.8,
+          "share_pct": 1.4
+        },
+        {
+          "partner_code": 36,
+          "partner_name": "澳大利亚",
+          "export_value_usd": 832951.0,
+          "export_value_cny": 5932009.64,
+          "share_pct": 1.2
+        },
+        {
+          "partner_code": 842,
+          "partner_name": "美国",
+          "export_value_usd": 759605.0,
+          "export_value_cny": 5409662.98,
+          "share_pct": 1.1
+        },
+        {
+          "partner_code": 608,
+          "partner_name": "菲律宾",
+          "export_value_usd": 636817.0,
+          "export_value_cny": 4535206.26,
+          "share_pct": 0.9
+        },
+        {
+          "partner_code": 764,
+          "partner_name": "泰国",
+          "export_value_usd": 546916.0,
+          "export_value_cny": 3894960.19,
+          "share_pct": 0.8
+        },
+        {
+          "partner_code": 702,
+          "partner_name": "新加坡",
+          "export_value_usd": 504110.0,
+          "export_value_cny": 3590109.6,
+          "share_pct": 0.7
+        },
+        {
+          "partner_code": 554,
+          "partner_name": "新西兰",
+          "export_value_usd": 459749.0,
+          "export_value_cny": 3274184.8,
+          "share_pct": 0.7
+        },
+        {
+          "partner_code": 528,
+          "partner_name": "荷兰",
+          "export_value_usd": 388527.0,
+          "export_value_cny": 2766964.58,
+          "share_pct": 0.6
+        },
+        {
+          "partner_code": 643,
+          "partner_name": "俄罗斯",
+          "export_value_usd": 247909.0,
+          "export_value_cny": 1765528.32,
+          "share_pct": 0.4
+        }
+      ],
+      "hs6_children": [
+        {
+          "hs6": "120100",
+          "name_en": "120100 - Soya beans, whether or not broken.",
+          "name_cn": "",
+          "export_value_usd": 0.0,
+          "export_value_cny": 0.0,
+          "partner_count": 0,
+          "top15_partners": []
+        },
+        {
+          "hs6": "120110",
+          "name_en": "120110 - Soya beans; seed, whether or not broken",
+          "name_cn": "",
+          "export_value_usd": 426560.0,
+          "export_value_cny": 3037823.39,
+          "partner_count": 10,
+          "top15_partners": [
+            {
+              "partner_code": 704,
+              "partner_name": "越南",
+              "export_value_usd": 179410.0,
+              "export_value_cny": 1277700.43,
+              "share_pct": 42.1
+            },
+            {
+              "partner_code": 764,
+              "partner_name": "泰国",
+              "export_value_usd": 127925.0,
+              "export_value_cny": 911040.79,
+              "share_pct": 30.0
+            },
+            {
+              "partner_code": 643,
+              "partner_name": "俄罗斯",
+              "export_value_usd": 41931.0,
+              "export_value_cny": 298619.12,
+              "share_pct": 9.8
+            },
+            {
+              "partner_code": 392,
+              "partner_name": "日本",
+              "export_value_usd": 41115.0,
+              "export_value_cny": 292807.83,
+              "share_pct": 9.6
+            },
+            {
+              "partner_code": 276,
+              "partner_name": "德国",
+              "export_value_usd": 16455.0,
+              "export_value_cny": 117187.23,
+              "share_pct": 3.9
+            },
+            {
+              "partner_code": 380,
+              "partner_name": "意大利",
+              "export_value_usd": 12657.0,
+              "export_value_cny": 90139.09,
+              "share_pct": 3.0
+            },
+            {
+              "partner_code": 842,
+              "partner_name": "美国",
+              "export_value_usd": 6865.0,
+              "export_value_cny": 48890.33,
+              "share_pct": 1.6
+            },
+            {
+              "partner_code": 398,
+              "partner_name": "哈萨克斯坦",
+              "export_value_usd": 118.0,
+              "export_value_cny": 840.36,
+              "share_pct": 0.0
+            },
+            {
+              "partner_code": 826,
+              "partner_name": "英国",
+              "export_value_usd": 51.0,
+              "export_value_cny": 363.21,
+              "share_pct": 0.0
+            },
+            {
+              "partner_code": 76,
+              "partner_name": "巴西",
+              "export_value_usd": 33.0,
+              "export_value_cny": 235.02,
+              "share_pct": 0.0
+            }
+          ]
+        },
+        {
+          "hs6": "120190",
+          "name_en": "120190 - Soya beans; other than seed, whether or not broken",
+          "name_cn": "",
+          "export_value_usd": 66904913.0,
+          "export_value_cny": 476475313.91,
+          "partner_count": 40,
+          "top15_partners": [
+            {
+              "partner_code": 410,
+              "partner_name": "韩国",
+              "export_value_usd": 35346655.0,
+              "export_value_cny": 251727530.63,
+              "share_pct": 52.8
+            },
+            {
+              "partner_code": 392,
+              "partner_name": "日本",
+              "export_value_usd": 16413925.0,
+              "export_value_cny": 116894704.98,
+              "share_pct": 24.5
+            },
+            {
+              "partner_code": 704,
+              "partner_name": "越南",
+              "export_value_usd": 4372022.0,
+              "export_value_cny": 31136137.26,
+              "share_pct": 6.5
+            },
+            {
+              "partner_code": 344,
+              "partner_name": "香港",
+              "export_value_usd": 1866933.0,
+              "export_value_cny": 13295697.54,
+              "share_pct": 2.8
+            },
+            {
+              "partner_code": 826,
+              "partner_name": "英国",
+              "export_value_usd": 1743340.0,
+              "export_value_cny": 12415507.87,
+              "share_pct": 2.6
+            },
+            {
+              "partner_code": 490,
+              "partner_name": "亚洲其他地区（未另列明）",
+              "export_value_usd": 1207453.0,
+              "export_value_cny": 8599092.67,
+              "share_pct": 1.8
+            },
+            {
+              "partner_code": 458,
+              "partner_name": "马来西亚",
+              "export_value_usd": 973149.0,
+              "export_value_cny": 6930454.8,
+              "share_pct": 1.5
+            },
+            {
+              "partner_code": 36,
+              "partner_name": "澳大利亚",
+              "export_value_usd": 832951.0,
+              "export_value_cny": 5932009.64,
+              "share_pct": 1.2
+            },
+            {
+              "partner_code": 842,
+              "partner_name": "美国",
+              "export_value_usd": 752740.0,
+              "export_value_cny": 5360772.65,
+              "share_pct": 1.1
+            },
+            {
+              "partner_code": 608,
+              "partner_name": "菲律宾",
+              "export_value_usd": 636817.0,
+              "export_value_cny": 4535206.26,
+              "share_pct": 1.0
+            },
+            {
+              "partner_code": 702,
+              "partner_name": "新加坡",
+              "export_value_usd": 504110.0,
+              "export_value_cny": 3590109.6,
+              "share_pct": 0.8
+            },
+            {
+              "partner_code": 554,
+              "partner_name": "新西兰",
+              "export_value_usd": 459749.0,
+              "export_value_cny": 3274184.8,
+              "share_pct": 0.7
+            },
+            {
+              "partner_code": 764,
+              "partner_name": "泰国",
+              "export_value_usd": 418991.0,
+              "export_value_cny": 2983919.41,
+              "share_pct": 0.6
+            },
+            {
+              "partner_code": 528,
+              "partner_name": "荷兰",
+              "export_value_usd": 388527.0,
+              "export_value_cny": 2766964.58,
+              "share_pct": 0.6
+            },
+            {
+              "partner_code": 124,
+              "partner_name": "加拿大",
+              "export_value_usd": 226483.0,
+              "export_value_cny": 1612939.22,
+              "share_pct": 0.3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "hs4": "1202",
+      "name_en": "1202 - Ground-nuts; not roasted or otherwise cooked, whether or not shelled or broken",
+      "name_cn": "花生",
+      "export_value_usd": 231200810.0,
+      "export_value_cny": 1646537953.36,
+      "partner_count": 82,
+      "top15_partners": [
+        {
+          "partner_code": 392,
+          "partner_name": "日本",
+          "export_value_usd": 26814891.0,
+          "export_value_cny": 190967046.12,
+          "share_pct": 11.6
+        },
+        {
+          "partner_code": 704,
+          "partner_name": "越南",
+          "export_value_usd": 24616650.0,
+          "export_value_cny": 175311879.36,
+          "share_pct": 10.6
+        },
+        {
+          "partner_code": 724,
+          "partner_name": "西班牙",
+          "export_value_usd": 22334015.0,
+          "export_value_cny": 159055685.61,
+          "share_pct": 9.7
+        },
+        {
+          "partner_code": 764,
+          "partner_name": "泰国",
+          "export_value_usd": 18442789.0,
+          "export_value_cny": 131343623.12,
+          "share_pct": 8.0
+        },
+        {
+          "partner_code": 528,
+          "partner_name": "荷兰",
+          "export_value_usd": 14561313.0,
+          "export_value_cny": 103700997.0,
+          "share_pct": 6.3
+        },
+        {
+          "partner_code": 458,
+          "partner_name": "马来西亚",
+          "export_value_usd": 13945382.0,
+          "export_value_cny": 99314534.14,
+          "share_pct": 6.0
+        },
+        {
+          "partner_code": 124,
+          "partner_name": "加拿大",
+          "export_value_usd": 12850178.0,
+          "export_value_cny": 91514842.81,
+          "share_pct": 5.6
+        },
+        {
+          "partner_code": 826,
+          "partner_name": "英国",
+          "export_value_usd": 10562455.0,
+          "export_value_cny": 75222413.96,
+          "share_pct": 4.6
+        },
+        {
+          "partner_code": 608,
+          "partner_name": "菲律宾",
+          "export_value_usd": 9965842.0,
+          "export_value_cny": 70973527.69,
+          "share_pct": 4.3
+        },
+        {
+          "partner_code": 422,
+          "partner_name": "黎巴嫩",
+          "export_value_usd": 7830623.0,
+          "export_value_cny": 55767183.38,
+          "share_pct": 3.4
+        },
+        {
+          "partner_code": 400,
+          "partner_name": "约旦",
+          "export_value_usd": 7779374.0,
+          "export_value_cny": 55402204.45,
+          "share_pct": 3.4
+        },
+        {
+          "partner_code": 434,
+          "partner_name": "利比亚",
+          "export_value_usd": 6510674.0,
+          "export_value_cny": 46366930.3,
+          "share_pct": 2.8
+        },
+        {
+          "partner_code": 702,
+          "partner_name": "新加坡",
+          "export_value_usd": 5744921.0,
+          "export_value_cny": 40913483.24,
+          "share_pct": 2.5
+        },
+        {
+          "partner_code": 484,
+          "partner_name": "墨西哥",
+          "export_value_usd": 4767649.0,
+          "export_value_cny": 33953665.76,
+          "share_pct": 2.1
+        },
+        {
+          "partner_code": 784,
+          "partner_name": "阿联酋",
+          "export_value_usd": 4562355.0,
+          "export_value_cny": 32491627.79,
+          "share_pct": 2.0
+        }
+      ],
+      "hs6_children": [
+        {
+          "hs6": "120210",
+          "name_en": "120210 - -  In shell",
+          "name_cn": "",
+          "export_value_usd": 0.0,
+          "export_value_cny": 0.0,
+          "partner_count": 0,
+          "top15_partners": []
+        },
+        {
+          "hs6": "120220",
+          "name_en": "120220 - -  Shelled, whether or not broken",
+          "name_cn": "",
+          "export_value_usd": 0.0,
+          "export_value_cny": 0.0,
+          "partner_count": 0,
+          "top15_partners": []
+        },
+        {
+          "hs6": "120230",
+          "name_en": "120230 - Ground-nuts; seed, not roasted or otherwise cooked, whether or not shelled or broken",
+          "name_cn": "",
+          "export_value_usd": 817.0,
+          "export_value_cny": 5818.41,
+          "partner_count": 1,
+          "top15_partners": [
+            {
+              "partner_code": 392,
+              "partner_name": "日本",
+              "export_value_usd": 817.0,
+              "export_value_cny": 5818.41,
+              "share_pct": 100.0
+            }
+          ]
+        },
+        {
+          "hs6": "120241",
+          "name_en": "120241 - Ground-nuts; other than seed, not roasted or otherwise cooked, in shell",
+          "name_cn": "",
+          "export_value_usd": 37482542.0,
+          "export_value_cny": 266938632.23,
+          "partner_count": 57,
+          "top15_partners": [
+            {
+              "partner_code": 724,
+              "partner_name": "西班牙",
+              "export_value_usd": 15590620.0,
+              "export_value_cny": 111031391.05,
+              "share_pct": 41.6
+            },
+            {
+              "partner_code": 484,
+              "partner_name": "墨西哥",
+              "export_value_usd": 4767649.0,
+              "export_value_cny": 33953665.76,
+              "share_pct": 12.7
+            },
+            {
+              "partner_code": 360,
+              "partner_name": "印度尼西亚",
+              "export_value_usd": 1717410.0,
+              "export_value_cny": 12230842.73,
+              "share_pct": 4.6
+            },
+            {
+              "partner_code": 528,
+              "partner_name": "荷兰",
+              "export_value_usd": 1582326.0,
+              "export_value_cny": 11268817.85,
+              "share_pct": 4.2
+            },
+            {
+              "partner_code": 620,
+              "partner_name": "葡萄牙",
+              "export_value_usd": 1525004.0,
+              "export_value_cny": 10860588.96,
+              "share_pct": 4.1
+            },
+            {
+              "partner_code": 826,
+              "partner_name": "英国",
+              "export_value_usd": 1416172.0,
+              "export_value_cny": 10085522.39,
+              "share_pct": 3.8
+            },
+            {
+              "partner_code": 364,
+              "partner_name": "伊朗",
+              "export_value_usd": 1146425.0,
+              "export_value_cny": 8164470.85,
+              "share_pct": 3.1
+            },
+            {
+              "partner_code": 251,
+              "partner_name": "法国",
+              "export_value_usd": 1048391.0,
+              "export_value_cny": 7466304.17,
+              "share_pct": 2.8
+            },
+            {
+              "partner_code": 764,
+              "partner_name": "泰国",
+              "export_value_usd": 867494.0,
+              "export_value_cny": 6178013.8,
+              "share_pct": 2.3
+            },
+            {
+              "partner_code": 704,
+              "partner_name": "越南",
+              "export_value_usd": 821017.0,
+              "export_value_cny": 5847019.53,
+              "share_pct": 2.2
+            },
+            {
+              "partner_code": 458,
+              "partner_name": "马来西亚",
+              "export_value_usd": 644034.0,
+              "export_value_cny": 4586603.41,
+              "share_pct": 1.7
+            },
+            {
+              "partner_code": 784,
+              "partner_name": "阿联酋",
+              "export_value_usd": 574788.0,
+              "export_value_cny": 4093455.63,
+              "share_pct": 1.5
+            },
+            {
+              "partner_code": 642,
+              "partner_name": "罗马尼亚",
+              "export_value_usd": 458113.0,
+              "export_value_cny": 3262533.73,
+              "share_pct": 1.2
+            },
+            {
+              "partner_code": 682,
+              "partner_name": "沙特阿拉伯",
+              "export_value_usd": 428415.0,
+              "export_value_cny": 3051034.11,
+              "share_pct": 1.1
+            },
+            {
+              "partner_code": 414,
+              "partner_name": "科威特",
+              "export_value_usd": 353985.0,
+              "export_value_cny": 2520967.54,
+              "share_pct": 0.9
+            }
+          ]
+        },
+        {
+          "hs6": "120242",
+          "name_en": "120242 - Ground-nuts; other than seed, not roasted or otherwise cooked, shelled, whether or not broken,",
+          "name_cn": "",
+          "export_value_usd": 193717451.0,
+          "export_value_cny": 1379593502.72,
+          "partner_count": 72,
+          "top15_partners": [
+            {
+              "partner_code": 392,
+              "partner_name": "日本",
+              "export_value_usd": 26814074.0,
+              "export_value_cny": 190961227.71,
+              "share_pct": 13.8
+            },
+            {
+              "partner_code": 704,
+              "partner_name": "越南",
+              "export_value_usd": 23795633.0,
+              "export_value_cny": 169464859.83,
+              "share_pct": 12.3
+            },
+            {
+              "partner_code": 764,
+              "partner_name": "泰国",
+              "export_value_usd": 17575295.0,
+              "export_value_cny": 125165609.32,
+              "share_pct": 9.1
+            },
+            {
+              "partner_code": 458,
+              "partner_name": "马来西亚",
+              "export_value_usd": 13301348.0,
+              "export_value_cny": 94727930.72,
+              "share_pct": 6.9
+            },
+            {
+              "partner_code": 528,
+              "partner_name": "荷兰",
+              "export_value_usd": 12978987.0,
+              "export_value_cny": 92432179.16,
+              "share_pct": 6.7
+            },
+            {
+              "partner_code": 124,
+              "partner_name": "加拿大",
+              "export_value_usd": 12728880.0,
+              "export_value_cny": 90650997.39,
+              "share_pct": 6.6
+            },
+            {
+              "partner_code": 608,
+              "partner_name": "菲律宾",
+              "export_value_usd": 9965842.0,
+              "export_value_cny": 70973527.69,
+              "share_pct": 5.1
+            },
+            {
+              "partner_code": 826,
+              "partner_name": "英国",
+              "export_value_usd": 9146283.0,
+              "export_value_cny": 65136891.57,
+              "share_pct": 4.7
+            },
+            {
+              "partner_code": 422,
+              "partner_name": "黎巴嫩",
+              "export_value_usd": 7756995.0,
+              "export_value_cny": 55242828.39,
+              "share_pct": 4.0
+            },
+            {
+              "partner_code": 400,
+              "partner_name": "约旦",
+              "export_value_usd": 7529028.0,
+              "export_value_cny": 53619320.6,
+              "share_pct": 3.9
+            },
+            {
+              "partner_code": 724,
+              "partner_name": "西班牙",
+              "export_value_usd": 6743395.0,
+              "export_value_cny": 48024294.56,
+              "share_pct": 3.5
+            },
+            {
+              "partner_code": 434,
+              "partner_name": "利比亚",
+              "export_value_usd": 6510674.0,
+              "export_value_cny": 46366930.3,
+              "share_pct": 3.4
+            },
+            {
+              "partner_code": 702,
+              "partner_name": "新加坡",
+              "export_value_usd": 5536495.0,
+              "export_value_cny": 39429140.18,
+              "share_pct": 2.9
+            },
+            {
+              "partner_code": 784,
+              "partner_name": "阿联酋",
+              "export_value_usd": 3987567.0,
+              "export_value_cny": 28398172.16,
+              "share_pct": 2.1
+            },
+            {
+              "partner_code": 300,
+              "partner_name": "希腊",
+              "export_value_usd": 3276676.0,
+              "export_value_cny": 23335434.66,
+              "share_pct": 1.7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "hs4": "1203",
+      "name_en": "1203 - Copra",
+      "name_cn": "椰干",
+      "export_value_usd": 6456.0,
+      "export_value_cny": 45977.56,
+      "partner_count": 3,
+      "top15_partners": [
+        {
+          "partner_code": 344,
+          "partner_name": "香港",
+          "export_value_usd": 3310.0,
+          "export_value_cny": 23572.76,
+          "share_pct": 51.3
+        },
+        {
+          "partner_code": 784,
+          "partner_name": "阿联酋",
+          "export_value_usd": 2250.0,
+          "export_value_cny": 16023.78,
+          "share_pct": 34.9
+        },
+        {
+          "partner_code": 458,
+          "partner_name": "马来西亚",
+          "export_value_usd": 896.0,
+          "export_value_cny": 6381.02,
+          "share_pct": 13.9
+        }
+      ],
+      "hs6_children": [
+        {
+          "hs6": "120300",
+          "name_en": "120300 - Copra",
+          "name_cn": "",
+          "export_value_usd": 6456.0,
+          "export_value_cny": 45977.56,
+          "partner_count": 3,
+          "top15_partners": [
+            {
+              "partner_code": 344,
+              "partner_name": "香港",
+              "export_value_usd": 3310.0,
+              "export_value_cny": 23572.76,
+              "share_pct": 51.3
+            },
+            {
+              "partner_code": 784,
+              "partner_name": "阿联酋",
+              "export_value_usd": 2250.0,
+              "export_value_cny": 16023.78,
+              "share_pct": 34.9
+            },
+            {
+              "partner_code": 458,
+              "partner_name": "马来西亚",
+              "export_value_usd": 896.0,
+              "export_value_cny": 6381.02,
+              "share_pct": 13.9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "hs4": "1204",
+      "name_en": "1204 - Oil seeds; linseed, whether or not broken",
+      "name_cn": "亚麻籽",
+      "export_value_usd": 755186.0,
+      "export_value_cny": 5378192.28,
+      "partner_count": 19,
+      "top15_partners": [
+        {
+          "partner_code": 490,
+          "partner_name": "亚洲其他地区（未另列明）",
+          "export_value_usd": 217525.0,
+          "export_value_cny": 1549143.22,
+          "share_pct": 28.8
+        },
+        {
+          "partner_code": 458,
+          "partner_name": "马来西亚",
+          "export_value_usd": 148803.0,
+          "export_value_cny": 1059727.2,
+          "share_pct": 19.7
+        },
+        {
+          "partner_code": 764,
+          "partner_name": "泰国",
+          "export_value_usd": 97471.0,
+          "export_value_cny": 694157.17,
+          "share_pct": 12.9
+        },
+        {
+          "partner_code": 410,
+          "partner_name": "韩国",
+          "export_value_usd": 89528.0,
+          "export_value_cny": 637589.68,
+          "share_pct": 11.9
+        },
+        {
+          "partner_code": 360,
+          "partner_name": "印度尼西亚",
+          "export_value_usd": 56504.0,
+          "export_value_cny": 402403.35,
+          "share_pct": 7.5
+        },
+        {
+          "partner_code": 702,
+          "partner_name": "新加坡",
+          "export_value_usd": 32197.0,
+          "export_value_cny": 229296.7,
+          "share_pct": 4.3
+        },
+        {
+          "partner_code": 376,
+          "partner_name": "以色列",
+          "export_value_usd": 23848.0,
+          "export_value_cny": 169837.8,
+          "share_pct": 3.2
+        },
+        {
+          "partner_code": 36,
+          "partner_name": "澳大利亚",
+          "export_value_usd": 23380.0,
+          "export_value_cny": 166504.86,
+          "share_pct": 3.1
+        },
+        {
+          "partner_code": 784,
+          "partner_name": "阿联酋",
+          "export_value_usd": 19300.0,
+          "export_value_cny": 137448.4,
+          "share_pct": 2.6
+        },
+        {
+          "partner_code": 124,
+          "partner_name": "加拿大",
+          "export_value_usd": 12406.0,
+          "export_value_cny": 88351.55,
+          "share_pct": 1.6
+        },
+        {
+          "partner_code": 608,
+          "partner_name": "菲律宾",
+          "export_value_usd": 10682.0,
+          "export_value_cny": 76073.78,
+          "share_pct": 1.4
+        },
+        {
+          "partner_code": 710,
+          "partner_name": "南非",
+          "export_value_usd": 10311.0,
+          "export_value_cny": 73431.63,
+          "share_pct": 1.4
+        },
+        {
+          "partner_code": 704,
+          "partner_name": "越南",
+          "export_value_usd": 7996.0,
+          "export_value_cny": 56944.95,
+          "share_pct": 1.1
+        },
+        {
+          "partner_code": 554,
+          "partner_name": "新西兰",
+          "export_value_usd": 1870.0,
+          "export_value_cny": 13317.54,
+          "share_pct": 0.2
+        },
+        {
+          "partner_code": 344,
+          "partner_name": "香港",
+          "export_value_usd": 1574.0,
+          "export_value_cny": 11209.52,
+          "share_pct": 0.2
+        }
+      ],
+      "hs6_children": [
+        {
+          "hs6": "120400",
+          "name_en": "120400 - Oil seeds; linseed, whether or not broken",
+          "name_cn": "",
+          "export_value_usd": 755186.0,
+          "export_value_cny": 5378192.28,
+          "partner_count": 19,
+          "top15_partners": [
+            {
+              "partner_code": 490,
+              "partner_name": "亚洲其他地区（未另列明）",
+              "export_value_usd": 217525.0,
+              "export_value_cny": 1549143.22,
+              "share_pct": 28.8
+            },
+            {
+              "partner_code": 458,
+              "partner_name": "马来西亚",
+              "export_value_usd": 148803.0,
+              "export_value_cny": 1059727.2,
+              "share_pct": 19.7
+            },
+            {
+              "partner_code": 764,
+              "partner_name": "泰国",
+              "export_value_usd": 97471.0,
+              "export_value_cny": 694157.17,
+              "share_pct": 12.9
+            },
+            {
+              "partner_code": 410,
+              "partner_name": "韩国",
+              "export_value_usd": 89528.0,
+              "export_value_cny": 637589.68,
+              "share_pct": 11.9
+            },
+            {
+              "partner_code": 360,
+              "partner_name": "印度尼西亚",
+              "export_value_usd": 56504.0,
+              "export_value_cny": 402403.35,
+              "share_pct": 7.5
+            },
+            {
+              "partner_code": 702,
+              "partner_name": "新加坡",
+              "export_value_usd": 32197.0,
+              "export_value_cny": 229296.7,
+              "share_pct": 4.3
+            },
+            {
+              "partner_code": 376,
+              "partner_name": "以色列",
+              "export_value_usd": 23848.0,
+              "export_value_cny": 169837.8,
+              "share_pct": 3.2
+            },
+            {
+              "partner_code": 36,
+              "partner_name": "澳大利亚",
+              "export_value_usd": 23380.0,
+              "export_value_cny": 166504.86,
+              "share_pct": 3.1
+            },
+            {
+              "partner_code": 784,
+              "partner_name": "阿联酋",
+              "export_value_usd": 19300.0,
+              "export_value_cny": 137448.4,
+              "share_pct": 2.6
+            },
+            {
+              "partner_code": 124,
+              "partner_name": "加拿大",
+              "export_value_usd": 12406.0,
+              "export_value_cny": 88351.55,
+              "share_pct": 1.6
+            },
+            {
+              "partner_code": 608,
+              "partner_name": "菲律宾",
+              "export_value_usd": 10682.0,
+              "export_value_cny": 76073.78,
+              "share_pct": 1.4
+            },
+            {
+              "partner_code": 710,
+              "partner_name": "南非",
+              "export_value_usd": 10311.0,
+              "export_value_cny": 73431.63,
+              "share_pct": 1.4
+            },
+            {
+              "partner_code": 704,
+              "partner_name": "越南",
+              "export_value_usd": 7996.0,
+              "export_value_cny": 56944.95,
+              "share_pct": 1.1
+            },
+            {
+              "partner_code": 554,
+              "partner_name": "新西兰",
+              "export_value_usd": 1870.0,
+              "export_value_cny": 13317.54,
+              "share_pct": 0.2
+            },
+            {
+              "partner_code": 344,
+              "partner_name": "香港",
+              "export_value_usd": 1574.0,
+              "export_value_cny": 11209.52,
+              "share_pct": 0.2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "hs4": "1205",
+      "name_en": "1205 - Rape or colza seeds; whether or not broken",
+      "name_cn": "油菜籽",
+      "export_value_usd": 405468.0,
+      "export_value_cny": 2887612.94,
+      "partner_count": 4,
+      "top15_partners": [
+        {
+          "partner_code": 586,
+          "partner_name": "巴基斯坦",
+          "export_value_usd": 302720.0,
+          "export_value_cny": 2155874.67,
+          "share_pct": 74.7
+        },
+        {
+          "partner_code": 410,
+          "partner_name": "韩国",
+          "export_value_usd": 97245.0,
+          "export_value_cny": 692547.67,
+          "share_pct": 24.0
+        },
+        {
+          "partner_code": 704,
+          "partner_name": "越南",
+          "export_value_usd": 5500.0,
+          "export_value_cny": 39169.23,
+          "share_pct": 1.4
+        },
+        {
+          "partner_code": 710,
+          "partner_name": "南非",
+          "export_value_usd": 3.0,
+          "export_value_cny": 21.37,
+          "share_pct": 0.0
+        }
+      ],
+      "hs6_children": [
+        {
+          "hs6": "120500",
+          "name_en": "120500 - Rape or colza seeds, whether or not broken.",
+          "name_cn": "",
+          "export_value_usd": 0.0,
+          "export_value_cny": 0.0,
+          "partner_count": 0,
+          "top15_partners": []
+        },
+        {
+          "hs6": "120510",
+          "name_en": "120510 - Oil seeds; low erucic acid rape or colza seeds, whether or not broken",
+          "name_cn": "",
+          "export_value_usd": 302723.0,
+          "export_value_cny": 2155896.03,
+          "partner_count": 2,
+          "top15_partners": [
+            {
+              "partner_code": 586,
+              "partner_name": "巴基斯坦",
+              "export_value_usd": 302720.0,
+              "export_value_cny": 2155874.67,
+              "share_pct": 100.0
+            },
+            {
+              "partner_code": 710,
+              "partner_name": "南非",
+              "export_value_usd": 3.0,
+              "export_value_cny": 21.37,
+              "share_pct": 0.0
+            }
+          ]
+        },
+        {
+          "hs6": "120590",
+          "name_en": "120590 - Oil seeds; rape or colza seeds, other than low erucic, whether or not broken",
+          "name_cn": "",
+          "export_value_usd": 102745.0,
+          "export_value_cny": 731716.91,
+          "partner_count": 2,
+          "top15_partners": [
+            {
+              "partner_code": 410,
+              "partner_name": "韩国",
+              "export_value_usd": 97245.0,
+              "export_value_cny": 692547.67,
+              "share_pct": 94.6
+            },
+            {
+              "partner_code": 704,
+              "partner_name": "越南",
+              "export_value_usd": 5500.0,
+              "export_value_cny": 39169.23,
+              "share_pct": 5.4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "hs4": "1206",
+      "name_en": "1206 - Sunflower seeds; whether or not broken",
+      "name_cn": "葵花籽",
+      "export_value_usd": 819334055.0,
+      "export_value_cny": 5835034133.48,
+      "partner_count": 80,
+      "top15_partners": [
+        {
+          "partner_code": 364,
+          "partner_name": "伊朗",
+          "export_value_usd": 131067654.0,
+          "export_value_cny": 933421759.07,
+          "share_pct": 16.0
+        },
+        {
+          "partner_code": 368,
+          "partner_name": "伊拉克",
+          "export_value_usd": 106756703.0,
+          "export_value_cny": 760286969.86,
+          "share_pct": 13.0
+        },
+        {
+          "partner_code": 643,
+          "partner_name": "俄罗斯",
+          "export_value_usd": 82205605.0,
+          "export_value_cny": 585441930.81,
+          "share_pct": 10.0
+        },
+        {
+          "partner_code": 724,
+          "partner_name": "西班牙",
+          "export_value_usd": 75462771.0,
+          "export_value_cny": 537421631.51,
+          "share_pct": 9.2
+        },
+        {
+          "partner_code": 860,
+          "partner_name": "乌兹别克斯坦",
+          "export_value_usd": 53865406.0,
+          "export_value_cny": 383612130.74,
+          "share_pct": 6.6
+        },
+        {
+          "partner_code": 704,
+          "partner_name": "越南",
+          "export_value_usd": 45911761.0,
+          "export_value_cny": 326968824.17,
+          "share_pct": 5.6
+        },
+        {
+          "partner_code": 792,
+          "partner_name": "土耳其",
+          "export_value_usd": 36833245.0,
+          "export_value_cny": 262314547.42,
+          "share_pct": 4.5
+        },
+        {
+          "partner_code": 784,
+          "partner_name": "阿联酋",
+          "export_value_usd": 27662296.0,
+          "export_value_cny": 197001992.51,
+          "share_pct": 3.4
+        },
+        {
+          "partner_code": 276,
+          "partner_name": "德国",
+          "export_value_usd": 23001375.0,
+          "export_value_cny": 163808409.31,
+          "share_pct": 2.8
+        },
+        {
+          "partner_code": 764,
+          "partner_name": "泰国",
+          "export_value_usd": 22776067.0,
+          "export_value_cny": 162203838.06,
+          "share_pct": 2.8
+        },
+        {
+          "partner_code": 504,
+          "partner_name": "摩洛哥",
+          "export_value_usd": 22074088.0,
+          "export_value_cny": 157204568.95,
+          "share_pct": 2.7
+        },
+        {
+          "partner_code": 682,
+          "partner_name": "沙特阿拉伯",
+          "export_value_usd": 19706815.0,
+          "export_value_cny": 140345610.54,
+          "share_pct": 2.4
+        },
+        {
+          "partner_code": 376,
+          "partner_name": "以色列",
+          "export_value_usd": 19102329.0,
+          "export_value_cny": 136040655.29,
+          "share_pct": 2.3
+        },
+        {
+          "partner_code": 818,
+          "partner_name": "埃及",
+          "export_value_usd": 16833212.0,
+          "export_value_cny": 119880732.4,
+          "share_pct": 2.1
+        },
+        {
+          "partner_code": 400,
+          "partner_name": "约旦",
+          "export_value_usd": 14051768.0,
+          "export_value_cny": 100072181.08,
+          "share_pct": 1.7
+        }
+      ],
+      "hs6_children": [
+        {
+          "hs6": "120600",
+          "name_en": "120600 - Oil seeds; sunflower seeds, whether or not broken",
+          "name_cn": "",
+          "export_value_usd": 819334055.0,
+          "export_value_cny": 5835034133.48,
+          "partner_count": 80,
+          "top15_partners": [
+            {
+              "partner_code": 364,
+              "partner_name": "伊朗",
+              "export_value_usd": 131067654.0,
+              "export_value_cny": 933421759.07,
+              "share_pct": 16.0
+            },
+            {
+              "partner_code": 368,
+              "partner_name": "伊拉克",
+              "export_value_usd": 106756703.0,
+              "export_value_cny": 760286969.86,
+              "share_pct": 13.0
+            },
+            {
+              "partner_code": 643,
+              "partner_name": "俄罗斯",
+              "export_value_usd": 82205605.0,
+              "export_value_cny": 585441930.81,
+              "share_pct": 10.0
+            },
+            {
+              "partner_code": 724,
+              "partner_name": "西班牙",
+              "export_value_usd": 75462771.0,
+              "export_value_cny": 537421631.51,
+              "share_pct": 9.2
+            },
+            {
+              "partner_code": 860,
+              "partner_name": "乌兹别克斯坦",
+              "export_value_usd": 53865406.0,
+              "export_value_cny": 383612130.74,
+              "share_pct": 6.6
+            },
+            {
+              "partner_code": 704,
+              "partner_name": "越南",
+              "export_value_usd": 45911761.0,
+              "export_value_cny": 326968824.17,
+              "share_pct": 5.6
+            },
+            {
+              "partner_code": 792,
+              "partner_name": "土耳其",
+              "export_value_usd": 36833245.0,
+              "export_value_cny": 262314547.42,
+              "share_pct": 4.5
+            },
+            {
+              "partner_code": 784,
+              "partner_name": "阿联酋",
+              "export_value_usd": 27662296.0,
+              "export_value_cny": 197001992.51,
+              "share_pct": 3.4
+            },
+            {
+              "partner_code": 276,
+              "partner_name": "德国",
+              "export_value_usd": 23001375.0,
+              "export_value_cny": 163808409.31,
+              "share_pct": 2.8
+            },
+            {
+              "partner_code": 764,
+              "partner_name": "泰国",
+              "export_value_usd": 22776067.0,
+              "export_value_cny": 162203838.06,
+              "share_pct": 2.8
+            },
+            {
+              "partner_code": 504,
+              "partner_name": "摩洛哥",
+              "export_value_usd": 22074088.0,
+              "export_value_cny": 157204568.95,
+              "share_pct": 2.7
+            },
+            {
+              "partner_code": 682,
+              "partner_name": "沙特阿拉伯",
+              "export_value_usd": 19706815.0,
+              "export_value_cny": 140345610.54,
+              "share_pct": 2.4
+            },
+            {
+              "partner_code": 376,
+              "partner_name": "以色列",
+              "export_value_usd": 19102329.0,
+              "export_value_cny": 136040655.29,
+              "share_pct": 2.3
+            },
+            {
+              "partner_code": 818,
+              "partner_name": "埃及",
+              "export_value_usd": 16833212.0,
+              "export_value_cny": 119880732.4,
+              "share_pct": 2.1
+            },
+            {
+              "partner_code": 400,
+              "partner_name": "约旦",
+              "export_value_usd": 14051768.0,
+              "export_value_cny": 100072181.08,
+              "share_pct": 1.7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "hs4": "1207",
+      "name_en": "1207 - Oil seeds and oleaginous fruits, n.e.c. in chapter 12; whether or not broken",
+      "name_cn": "其他含油子仁及果实",
+      "export_value_usd": 254310807.0,
+      "export_value_cny": 1811119933.68,
+      "partner_count": 84,
+      "top15_partners": [
+        {
+          "partner_code": 410,
+          "partner_name": "韩国",
+          "export_value_usd": 108401808.0,
+          "export_value_cny": 772002879.6,
+          "share_pct": 42.6
+        },
+        {
+          "partner_code": 704,
+          "partner_name": "越南",
+          "export_value_usd": 36224995.0,
+          "export_value_cny": 257982786.17,
+          "share_pct": 14.2
+        },
+        {
+          "partner_code": 490,
+          "partner_name": "亚洲其他地区（未另列明）",
+          "export_value_usd": 25321861.0,
+          "export_value_cny": 180334165.72,
+          "share_pct": 10.0
+        },
+        {
+          "partner_code": 392,
+          "partner_name": "日本",
+          "export_value_usd": 12280024.0,
+          "export_value_cny": 87454389.04,
+          "share_pct": 4.8
+        },
+        {
+          "partner_code": 528,
+          "partner_name": "荷兰",
+          "export_value_usd": 11576310.0,
+          "export_value_cny": 82442763.82,
+          "share_pct": 4.6
+        },
+        {
+          "partner_code": 276,
+          "partner_name": "德国",
+          "export_value_usd": 9239357.0,
+          "export_value_cny": 65799734.72,
+          "share_pct": 3.6
+        },
+        {
+          "partner_code": 724,
+          "partner_name": "西班牙",
+          "export_value_usd": 6907093.0,
+          "export_value_cny": 49190099.17,
+          "share_pct": 2.7
+        },
+        {
+          "partner_code": 842,
+          "partner_name": "美国",
+          "export_value_usd": 6690473.0,
+          "export_value_cny": 47647401.06,
+          "share_pct": 2.6
+        },
+        {
+          "partner_code": 860,
+          "partner_name": "乌兹别克斯坦",
+          "export_value_usd": 4438308.0,
+          "export_value_cny": 31608204.88,
+          "share_pct": 1.7
+        },
+        {
+          "partner_code": 764,
+          "partner_name": "泰国",
+          "export_value_usd": 3698162.0,
+          "export_value_cny": 26337122.65,
+          "share_pct": 1.5
+        },
+        {
+          "partner_code": 826,
+          "partner_name": "英国",
+          "export_value_usd": 3363868.0,
+          "export_value_cny": 23956388.09,
+          "share_pct": 1.3
+        },
+        {
+          "partner_code": 36,
+          "partner_name": "澳大利亚",
+          "export_value_usd": 2907805.0,
+          "export_value_cny": 20708453.8,
+          "share_pct": 1.1
+        },
+        {
+          "partner_code": 400,
+          "partner_name": "约旦",
+          "export_value_usd": 2394767.0,
+          "export_value_cny": 17054761.85,
+          "share_pct": 0.9
+        },
+        {
+          "partner_code": 458,
+          "partner_name": "马来西亚",
+          "export_value_usd": 2260992.0,
+          "export_value_cny": 16102059.25,
+          "share_pct": 0.9
+        },
+        {
+          "partner_code": 608,
+          "partner_name": "菲律宾",
+          "export_value_usd": 1995088.0,
+          "export_value_cny": 14208376.31,
+          "share_pct": 0.8
+        }
+      ],
+      "hs6_children": [
+        {
+          "hs6": "120710",
+          "name_en": "120710 - Oil seeds; palm nuts and kernels, whether or not broken",
+          "name_cn": "",
+          "export_value_usd": 17044.0,
+          "export_value_cny": 121381.9,
+          "partner_count": 1,
+          "top15_partners": [
+            {
+              "partner_code": 842,
+              "partner_name": "美国",
+              "export_value_usd": 17044.0,
+              "export_value_cny": 121381.9,
+              "share_pct": 100.0
+            }
+          ]
+        },
+        {
+          "hs6": "120720",
+          "name_en": "120720 - -  Cotton seeds",
+          "name_cn": "",
+          "export_value_usd": 0.0,
+          "export_value_cny": 0.0,
+          "partner_count": 0,
+          "top15_partners": []
+        },
+        {
+          "hs6": "120721",
+          "name_en": "120721 - Oil seeds; cotton seeds, seed, whether or not broken",
+          "name_cn": "",
+          "export_value_usd": 5290720.0,
+          "export_value_cny": 37678809.52,
+          "partner_count": 4,
+          "top15_partners": [
+            {
+              "partner_code": 860,
+              "partner_name": "乌兹别克斯坦",
+              "export_value_usd": 4438308.0,
+              "export_value_cny": 31608204.88,
+              "share_pct": 83.9
+            },
+            {
+              "partner_code": 398,
+              "partner_name": "哈萨克斯坦",
+              "export_value_usd": 535812.0,
+              "export_value_cny": 3815881.07,
+              "share_pct": 10.1
+            },
+            {
+              "partner_code": 50,
+              "partner_name": "孟加拉国",
+              "export_value_usd": 201025.0,
+              "export_value_cny": 1431635.52,
+              "share_pct": 3.8
+            },
+            {
+              "partner_code": 417,
+              "partner_name": "吉尔吉斯斯坦",
+              "export_value_usd": 115575.0,
+              "export_value_cny": 823088.05,
+              "share_pct": 2.2
+            }
+          ]
+        },
+        {
+          "hs6": "120729",
+          "name_en": "120729 - Oil seeds; cotton seeds, other than seed, whether or not broken",
+          "name_cn": "",
+          "export_value_usd": 0.0,
+          "export_value_cny": 0.0,
+          "partner_count": 0,
+          "top15_partners": []
+        },
+        {
+          "hs6": "120730",
+          "name_en": "120730 - Oil seeds; castor oil seeds, whether or not broken",
+          "name_cn": "",
+          "export_value_usd": 754.0,
+          "export_value_cny": 5369.75,
+          "partner_count": 1,
+          "top15_partners": [
+            {
+              "partner_code": 231,
+              "partner_name": "埃塞俄比亚",
+              "export_value_usd": 754.0,
+              "export_value_cny": 5369.75,
+              "share_pct": 100.0
+            }
+          ]
+        },
+        {
+          "hs6": "120740",
+          "name_en": "120740 - Oil seeds; sesamum seeds, whether or not broken",
+          "name_cn": "",
+          "export_value_usd": 96835955.0,
+          "export_value_cny": 689634587.17,
+          "partner_count": 39,
+          "top15_partners": [
+            {
+              "partner_code": 410,
+              "partner_name": "韩国",
+              "export_value_usd": 68659040.0,
+              "export_value_cny": 488967643.33,
+              "share_pct": 70.9
+            },
+            {
+              "partner_code": 392,
+              "partner_name": "日本",
+              "export_value_usd": 11187263.0,
+              "export_value_cny": 79672095.97,
+              "share_pct": 11.6
+            },
+            {
+              "partner_code": 276,
+              "partner_name": "德国",
+              "export_value_usd": 6631024.0,
+              "export_value_cny": 47224024.37,
+              "share_pct": 6.8
+            },
+            {
+              "partner_code": 36,
+              "partner_name": "澳大利亚",
+              "export_value_usd": 2525977.0,
+              "export_value_cny": 17989197.36,
+              "share_pct": 2.6
+            },
+            {
+              "partner_code": 490,
+              "partner_name": "亚洲其他地区（未另列明）",
+              "export_value_usd": 1974993.0,
+              "export_value_cny": 14065266.17,
+              "share_pct": 2.0
+            },
+            {
+              "partner_code": 528,
+              "partner_name": "荷兰",
+              "export_value_usd": 1024781.0,
+              "export_value_cny": 7298161.33,
+              "share_pct": 1.1
+            },
+            {
+              "partner_code": 702,
+              "partner_name": "新加坡",
+              "export_value_usd": 699605.0,
+              "export_value_cny": 4982362.24,
+              "share_pct": 0.7
+            },
+            {
+              "partner_code": 398,
+              "partner_name": "哈萨克斯坦",
+              "export_value_usd": 684083.0,
+              "export_value_cny": 4871819.54,
+              "share_pct": 0.7
+            },
+            {
+              "partner_code": 842,
+              "partner_name": "美国",
+              "export_value_usd": 546429.0,
+              "export_value_cny": 3891491.93,
+              "share_pct": 0.6
+            },
+            {
+              "partner_code": 704,
+              "partner_name": "越南",
+              "export_value_usd": 545268.0,
+              "export_value_cny": 3883223.66,
+              "share_pct": 0.6
+            },
+            {
+              "partner_code": 344,
+              "partner_name": "香港",
+              "export_value_usd": 479142.0,
+              "export_value_cny": 3412295.52,
+              "share_pct": 0.5
+            },
+            {
+              "partner_code": 360,
+              "partner_name": "印度尼西亚",
+              "export_value_usd": 424836.0,
+              "export_value_cny": 3025545.62,
+              "share_pct": 0.4
+            },
+            {
+              "partner_code": 764,
+              "partner_name": "泰国",
+              "export_value_usd": 309204.0,
+              "export_value_cny": 2202051.63,
+              "share_pct": 0.3
+            },
+            {
+              "partner_code": 124,
+              "partner_name": "加拿大",
+              "export_value_usd": 199254.0,
+              "export_value_cny": 1419023.03,
+              "share_pct": 0.2
+            },
+            {
+              "partner_code": 554,
+              "partner_name": "新西兰",
+              "export_value_usd": 174674.0,
+              "export_value_cny": 1243972.16,
+              "share_pct": 0.2
+            }
+          ]
+        },
+        {
+          "hs6": "120750",
+          "name_en": "120750 - Oil seeds; mustard seeds, whether or not broken",
+          "name_cn": "",
+          "export_value_usd": 194793.0,
+          "export_value_cny": 1387253.22,
+          "partner_count": 12,
+          "top15_partners": [
+            {
+              "partner_code": 410,
+              "partner_name": "韩国",
+              "export_value_usd": 75528.0,
+              "export_value_cny": 537886.17,
+              "share_pct": 38.8
+            },
+            {
+              "partner_code": 392,
+              "partner_name": "日本",
+              "export_value_usd": 62571.0,
+              "export_value_cny": 445610.58,
+              "share_pct": 32.1
+            },
+            {
+              "partner_code": 764,
+              "partner_name": "泰国",
+              "export_value_usd": 26948.0,
+              "export_value_cny": 191915.01,
+              "share_pct": 13.8
+            },
+            {
+              "partner_code": 36,
+              "partner_name": "澳大利亚",
+              "export_value_usd": 14415.0,
+              "export_value_cny": 102659.0,
+              "share_pct": 7.4
+            },
+            {
+              "partner_code": 344,
+              "partner_name": "香港",
+              "export_value_usd": 8147.0,
+              "export_value_cny": 58020.32,
+              "share_pct": 4.2
+            },
+            {
+              "partner_code": 792,
+              "partner_name": "土耳其",
+              "export_value_usd": 3835.0,
+              "export_value_cny": 27311.64,
+              "share_pct": 2.0
+            },
+            {
+              "partner_code": 458,
+              "partner_name": "马来西亚",
+              "export_value_usd": 1433.0,
+              "export_value_cny": 10205.37,
+              "share_pct": 0.7
+            },
+            {
+              "partner_code": 124,
+              "partner_name": "加拿大",
+              "export_value_usd": 644.0,
+              "export_value_cny": 4586.36,
+              "share_pct": 0.3
+            },
+            {
+              "partner_code": 490,
+              "partner_name": "亚洲其他地区（未另列明）",
+              "export_value_usd": 464.0,
+              "export_value_cny": 3304.46,
+              "share_pct": 0.2
+            },
+            {
+              "partner_code": 704,
+              "partner_name": "越南",
+              "export_value_usd": 332.0,
+              "export_value_cny": 2364.4,
+              "share_pct": 0.2
+            },
+            {
+              "partner_code": 842,
+              "partner_name": "美国",
+              "export_value_usd": 292.0,
+              "export_value_cny": 2079.53,
+              "share_pct": 0.1
+            },
+            {
+              "partner_code": 528,
+              "partner_name": "荷兰",
+              "export_value_usd": 184.0,
+              "export_value_cny": 1310.39,
+              "share_pct": 0.1
+            }
+          ]
+        },
+        {
+          "hs6": "120760",
+          "name_en": "120760 - Oil seeds; safflower (Carthamus tinctorius) seeds, whether or not broken",
+          "name_cn": "",
+          "export_value_usd": 742869.0,
+          "export_value_cny": 5290474.56,
+          "partner_count": 7,
+          "top15_partners": [
+            {
+              "partner_code": 490,
+              "partner_name": "亚洲其他地区（未另列明）",
+              "export_value_usd": 636012.0,
+              "export_value_cny": 4529473.3,
+              "share_pct": 85.6
+            },
+            {
+              "partner_code": 410,
+              "partner_name": "韩国",
+              "export_value_usd": 61065.0,
+              "export_value_cny": 434885.33,
+              "share_pct": 8.2
+            },
+            {
+              "partner_code": 764,
+              "partner_name": "泰国",
+              "export_value_usd": 38117.0,
+              "export_value_cny": 271457.04,
+              "share_pct": 5.1
+            },
+            {
+              "partner_code": 392,
+              "partner_name": "日本",
+              "export_value_usd": 4003.0,
+              "export_value_cny": 28508.08,
+              "share_pct": 0.5
+            },
+            {
+              "partner_code": 124,
+              "partner_name": "加拿大",
+              "export_value_usd": 2004.0,
+              "export_value_cny": 14271.84,
+              "share_pct": 0.3
+            },
+            {
+              "partner_code": 702,
+              "partner_name": "新加坡",
+              "export_value_usd": 1639.0,
+              "export_value_cny": 11672.43,
+              "share_pct": 0.2
+            },
+            {
+              "partner_code": 50,
+              "partner_name": "孟加拉国",
+              "export_value_usd": 29.0,
+              "export_value_cny": 206.53,
+              "share_pct": 0.0
+            }
+          ]
+        },
+        {
+          "hs6": "120770",
+          "name_en": "120770 - Oil seeds; melon seeds, whether or not broken",
+          "name_cn": "",
+          "export_value_usd": 68140627.0,
+          "export_value_cny": 485275672.35,
+          "partner_count": 62,
+          "top15_partners": [
+            {
+              "partner_code": 704,
+              "partner_name": "越南",
+              "export_value_usd": 32793030.0,
+              "export_value_cny": 233541433.1,
+              "share_pct": 48.1
+            },
+            {
+              "partner_code": 528,
+              "partner_name": "荷兰",
+              "export_value_usd": 8041390.0,
+              "export_value_cny": 57268198.29,
+              "share_pct": 11.8
+            },
+            {
+              "partner_code": 842,
+              "partner_name": "美国",
+              "export_value_usd": 4805486.0,
+              "export_value_cny": 34223128.73,
+              "share_pct": 7.1
+            },
+            {
+              "partner_code": 764,
+              "partner_name": "泰国",
+              "export_value_usd": 3026788.0,
+              "export_value_cny": 21555812.54,
+              "share_pct": 4.4
+            },
+            {
+              "partner_code": 490,
+              "partner_name": "亚洲其他地区（未另列明）",
+              "export_value_usd": 2477551.0,
+              "export_value_cny": 17644322.93,
+              "share_pct": 3.6
+            },
+            {
+              "partner_code": 400,
+              "partner_name": "约旦",
+              "export_value_usd": 2334078.0,
+              "export_value_cny": 16622554.28,
+              "share_pct": 3.4
+            },
+            {
+              "partner_code": 458,
+              "partner_name": "马来西亚",
+              "export_value_usd": 2132993.0,
+              "export_value_cny": 15190491.46,
+              "share_pct": 3.1
+            },
+            {
+              "partner_code": 608,
+              "partner_name": "菲律宾",
+              "export_value_usd": 1975304.0,
+              "export_value_cny": 14067481.02,
+              "share_pct": 2.9
+            },
+            {
+              "partner_code": 251,
+              "partner_name": "法国",
+              "export_value_usd": 1750971.0,
+              "export_value_cny": 12469853.4,
+              "share_pct": 2.6
+            },
+            {
+              "partner_code": 586,
+              "partner_name": "巴基斯坦",
+              "export_value_usd": 1064759.0,
+              "export_value_cny": 7582871.81,
+              "share_pct": 1.6
+            },
+            {
+              "partner_code": 702,
+              "partner_name": "新加坡",
+              "export_value_usd": 896822.0,
+              "export_value_cny": 6386878.4,
+              "share_pct": 1.3
+            },
+            {
+              "partner_code": 392,
+              "partner_name": "日本",
+              "export_value_usd": 768252.0,
+              "export_value_cny": 5471244.14,
+              "share_pct": 1.1
+            },
+            {
+              "partner_code": 410,
+              "partner_name": "韩国",
+              "export_value_usd": 738747.0,
+              "export_value_cny": 5261119.0,
+              "share_pct": 1.1
+            },
+            {
+              "partner_code": 376,
+              "partner_name": "以色列",
+              "export_value_usd": 687830.0,
+              "export_value_cny": 4898504.47,
+              "share_pct": 1.0
+            },
+            {
+              "partner_code": 792,
+              "partner_name": "土耳其",
+              "export_value_usd": 673791.0,
+              "export_value_cny": 4798523.22,
+              "share_pct": 1.0
+            }
+          ]
+        },
+        {
+          "hs6": "120791",
+          "name_en": "120791 - Oil seeds; poppy seeds, whether or not broken",
+          "name_cn": "",
+          "export_value_usd": 4404915.0,
+          "export_value_cny": 31370390.65,
+          "partner_count": 9,
+          "top15_partners": [
+            {
+              "partner_code": 276,
+              "partner_name": "德国",
+              "export_value_usd": 1821906.0,
+              "export_value_cny": 12975029.7,
+              "share_pct": 41.4
+            },
+            {
+              "partner_code": 826,
+              "partner_name": "英国",
+              "export_value_usd": 1295744.0,
+              "export_value_cny": 9227872.83,
+              "share_pct": 29.4
+            },
+            {
+              "partner_code": 616,
+              "partner_name": "波兰",
+              "export_value_usd": 419900.0,
+              "export_value_cny": 2990393.01,
+              "share_pct": 9.5
+            },
+            {
+              "partner_code": 376,
+              "partner_name": "以色列",
+              "export_value_usd": 292476.0,
+              "export_value_cny": 2082920.19,
+              "share_pct": 6.6
+            },
+            {
+              "partner_code": 528,
+              "partner_name": "荷兰",
+              "export_value_usd": 279300.0,
+              "export_value_cny": 1989084.94,
+              "share_pct": 6.3
+            },
+            {
+              "partner_code": 372,
+              "partner_name": "爱尔兰",
+              "export_value_usd": 154331.0,
+              "export_value_cny": 1099095.84,
+              "share_pct": 3.5
+            },
+            {
+              "partner_code": 524,
+              "partner_name": "尼泊尔",
+              "export_value_usd": 73775.0,
+              "export_value_cny": 525401.87,
+              "share_pct": 1.7
+            },
+            {
+              "partner_code": 32,
+              "partner_name": "阿根廷",
+              "export_value_usd": 67304.0,
+              "export_value_cny": 479317.48,
+              "share_pct": 1.5
+            },
+            {
+              "partner_code": 40,
+              "partner_name": "奥地利",
+              "export_value_usd": 179.0,
+              "export_value_cny": 1274.78,
+              "share_pct": 0.0
+            }
+          ]
+        },
+        {
+          "hs6": "120792",
+          "name_en": "120792 - Other :-- Shea nuts (karite nuts)",
+          "name_cn": "",
+          "export_value_usd": 0.0,
+          "export_value_cny": 0.0,
+          "partner_count": 0,
+          "top15_partners": []
+        },
+        {
+          "hs6": "120799",
+          "name_en": "120799 - Oil seeds and oleaginous fruits; n.e.c. in heading no. 1207, whether or not broken",
+          "name_cn": "",
+          "export_value_usd": 78683130.0,
+          "export_value_cny": 560355994.58,
+          "partner_count": 37,
+          "top15_partners": [
+            {
+              "partner_code": 410,
+              "partner_name": "韩国",
+              "export_value_usd": 38867428.0,
+              "export_value_cny": 276801345.77,
+              "share_pct": 49.4
+            },
+            {
+              "partner_code": 490,
+              "partner_name": "亚洲其他地区（未另列明）",
+              "export_value_usd": 20232841.0,
+              "export_value_cny": 144091798.86,
+              "share_pct": 25.7
+            },
+            {
+              "partner_code": 724,
+              "partner_name": "西班牙",
+              "export_value_usd": 6390704.0,
+              "export_value_cny": 45512542.47,
+              "share_pct": 8.1
+            },
+            {
+              "partner_code": 704,
+              "partner_name": "越南",
+              "export_value_usd": 2886365.0,
+              "export_value_cny": 20555765.01,
+              "share_pct": 3.7
+            },
+            {
+              "partner_code": 528,
+              "partner_name": "荷兰",
+              "export_value_usd": 2230655.0,
+              "export_value_cny": 15886008.87,
+              "share_pct": 2.8
+            },
+            {
+              "partner_code": 826,
+              "partner_name": "英国",
+              "export_value_usd": 1943300.0,
+              "export_value_cny": 13839558.8,
+              "share_pct": 2.5
+            },
+            {
+              "partner_code": 842,
+              "partner_name": "美国",
+              "export_value_usd": 1321222.0,
+              "export_value_cny": 9409318.97,
+              "share_pct": 1.7
+            },
+            {
+              "partner_code": 56,
+              "partner_name": "比利时",
+              "export_value_usd": 779425.0,
+              "export_value_cny": 5550814.65,
+              "share_pct": 1.0
+            },
+            {
+              "partner_code": 484,
+              "partner_name": "墨西哥",
+              "export_value_usd": 752831.0,
+              "export_value_cny": 5361420.72,
+              "share_pct": 1.0
+            },
+            {
+              "partner_code": 246,
+              "partner_name": "芬兰",
+              "export_value_usd": 557773.0,
+              "export_value_cny": 3972280.26,
+              "share_pct": 0.7
+            },
+            {
+              "partner_code": 12,
+              "partner_name": "阿尔及利亚",
+              "export_value_usd": 379730.0,
+              "export_value_cny": 2704315.17,
+              "share_pct": 0.5
+            },
+            {
+              "partner_code": 36,
+              "partner_name": "澳大利亚",
+              "export_value_usd": 356260.0,
+              "export_value_cny": 2537169.36,
+              "share_pct": 0.5
+            },
+            {
+              "partner_code": 764,
+              "partner_name": "泰国",
+              "export_value_usd": 297105.0,
+              "export_value_cny": 2115886.44,
+              "share_pct": 0.4
+            },
+            {
+              "partner_code": 276,
+              "partner_name": "德国",
+              "export_value_usd": 279604.0,
+              "export_value_cny": 1991249.94,
+              "share_pct": 0.4
+            },
+            {
+              "partner_code": 392,
+              "partner_name": "日本",
+              "export_value_usd": 257935.0,
+              "export_value_cny": 1836930.27,
+              "share_pct": 0.3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "hs4": "1208",
+      "name_en": "1208 - Flours and meals of oil seeds or oleaginous fruits; other than those of mustard",
+      "name_cn": "油子仁或果实粉末",
+      "export_value_usd": 29842050.0,
+      "export_value_cny": 212525500.8,
+      "partner_count": 18,
+      "top15_partners": [
+        {
+          "partner_code": 410,
+          "partner_name": "韩国",
+          "export_value_usd": 26938990.0,
+          "export_value_cny": 191850839.36,
+          "share_pct": 90.3
+        },
+        {
+          "partner_code": 344,
+          "partner_name": "香港",
+          "export_value_usd": 1284864.0,
+          "export_value_cny": 9150388.97,
+          "share_pct": 4.3
+        },
+        {
+          "partner_code": 842,
+          "partner_name": "美国",
+          "export_value_usd": 431768.0,
+          "export_value_cny": 3074913.1,
+          "share_pct": 1.4
+        },
+        {
+          "partner_code": 764,
+          "partner_name": "泰国",
+          "export_value_usd": 352206.0,
+          "export_value_cny": 2508298.07,
+          "share_pct": 1.2
+        },
+        {
+          "partner_code": 724,
+          "partner_name": "西班牙",
+          "export_value_usd": 162969.0,
+          "export_value_cny": 1160612.9,
+          "share_pct": 0.5
+        },
+        {
+          "partner_code": 608,
+          "partner_name": "菲律宾",
+          "export_value_usd": 127868.0,
+          "export_value_cny": 910634.85,
+          "share_pct": 0.4
+        },
+        {
+          "partner_code": 251,
+          "partner_name": "法国",
+          "export_value_usd": 119252.0,
+          "export_value_cny": 849274.46,
+          "share_pct": 0.4
+        },
+        {
+          "partner_code": 528,
+          "partner_name": "荷兰",
+          "export_value_usd": 116853.0,
+          "export_value_cny": 832189.56,
+          "share_pct": 0.4
+        },
+        {
+          "partner_code": 380,
+          "partner_name": "意大利",
+          "export_value_usd": 89617.0,
+          "export_value_cny": 638223.51,
+          "share_pct": 0.3
+        },
+        {
+          "partner_code": 36,
+          "partner_name": "澳大利亚",
+          "export_value_usd": 69141.0,
+          "export_value_cny": 492400.01,
+          "share_pct": 0.2
+        },
+        {
+          "partner_code": 704,
+          "partner_name": "越南",
+          "export_value_usd": 65613.0,
+          "export_value_cny": 467274.72,
+          "share_pct": 0.2
+        },
+        {
+          "partner_code": 76,
+          "partner_name": "巴西",
+          "export_value_usd": 32115.0,
+          "export_value_cny": 228712.72,
+          "share_pct": 0.1
+        },
+        {
+          "partner_code": 124,
+          "partner_name": "加拿大",
+          "export_value_usd": 26339.0,
+          "export_value_cny": 187577.9,
+          "share_pct": 0.1
+        },
+        {
+          "partner_code": 392,
+          "partner_name": "日本",
+          "export_value_usd": 12605.0,
+          "export_value_cny": 89768.76,
+          "share_pct": 0.0
+        },
+        {
+          "partner_code": 458,
+          "partner_name": "马来西亚",
+          "export_value_usd": 5349.0,
+          "export_value_cny": 38093.86,
+          "share_pct": 0.0
+        }
+      ],
+      "hs6_children": [
+        {
+          "hs6": "120810",
+          "name_en": "120810 - Flours and meals; of soya beans",
+          "name_cn": "",
+          "export_value_usd": 3913301.0,
+          "export_value_cny": 27869273.55,
+          "partner_count": 12,
+          "top15_partners": [
+            {
+              "partner_code": 410,
+              "partner_name": "韩国",
+              "export_value_usd": 2529004.0,
+              "export_value_cny": 18010754.68,
+              "share_pct": 64.6
+            },
+            {
+              "partner_code": 344,
+              "partner_name": "香港",
+              "export_value_usd": 1163917.0,
+              "export_value_cny": 8289043.26,
+              "share_pct": 29.7
+            },
+            {
+              "partner_code": 608,
+              "partner_name": "菲律宾",
+              "export_value_usd": 127868.0,
+              "export_value_cny": 910634.85,
+              "share_pct": 3.3
+            },
+            {
+              "partner_code": 842,
+              "partner_name": "美国",
+              "export_value_usd": 67439.0,
+              "export_value_cny": 480278.91,
+              "share_pct": 1.7
+            },
+            {
+              "partner_code": 124,
+              "partner_name": "加拿大",
+              "export_value_usd": 9300.0,
+              "export_value_cny": 66231.61,
+              "share_pct": 0.2
+            },
+            {
+              "partner_code": 36,
+              "partner_name": "澳大利亚",
+              "export_value_usd": 8826.0,
+              "export_value_cny": 62855.94,
+              "share_pct": 0.2
+            },
+            {
+              "partner_code": 704,
+              "partner_name": "越南",
+              "export_value_usd": 3120.0,
+              "export_value_cny": 22219.64,
+              "share_pct": 0.1
+            },
+            {
+              "partner_code": 458,
+              "partner_name": "马来西亚",
+              "export_value_usd": 1182.0,
+              "export_value_cny": 8417.82,
+              "share_pct": 0.0
+            },
+            {
+              "partner_code": 764,
+              "partner_name": "泰国",
+              "export_value_usd": 996.0,
+              "export_value_cny": 7093.19,
+              "share_pct": 0.0
+            },
+            {
+              "partner_code": 392,
+              "partner_name": "日本",
+              "export_value_usd": 970.0,
+              "export_value_cny": 6908.03,
+              "share_pct": 0.0
+            },
+            {
+              "partner_code": 380,
+              "partner_name": "意大利",
+              "export_value_usd": 678.0,
+              "export_value_cny": 4828.5,
+              "share_pct": 0.0
+            },
+            {
+              "partner_code": 170,
+              "partner_name": "哥伦比亚",
+              "export_value_usd": 1.0,
+              "export_value_cny": 7.12,
+              "share_pct": 0.0
+            }
+          ]
+        },
+        {
+          "hs6": "120890",
+          "name_en": "120890 - Flours and meals of oil seeds or oleaginous fruits; excluding soya beans and mustard seeds",
+          "name_cn": "",
+          "export_value_usd": 25928749.0,
+          "export_value_cny": 184656227.25,
+          "partner_count": 16,
+          "top15_partners": [
+            {
+              "partner_code": 410,
+              "partner_name": "韩国",
+              "export_value_usd": 24409986.0,
+              "export_value_cny": 173840084.69,
+              "share_pct": 94.1
+            },
+            {
+              "partner_code": 842,
+              "partner_name": "美国",
+              "export_value_usd": 364329.0,
+              "export_value_cny": 2594634.19,
+              "share_pct": 1.4
+            },
+            {
+              "partner_code": 764,
+              "partner_name": "泰国",
+              "export_value_usd": 351210.0,
+              "export_value_cny": 2501204.88,
+              "share_pct": 1.4
+            },
+            {
+              "partner_code": 724,
+              "partner_name": "西班牙",
+              "export_value_usd": 162969.0,
+              "export_value_cny": 1160612.9,
+              "share_pct": 0.6
+            },
+            {
+              "partner_code": 344,
+              "partner_name": "香港",
+              "export_value_usd": 120947.0,
+              "export_value_cny": 861345.71,
+              "share_pct": 0.5
+            },
+            {
+              "partner_code": 251,
+              "partner_name": "法国",
+              "export_value_usd": 119252.0,
+              "export_value_cny": 849274.46,
+              "share_pct": 0.5
+            },
+            {
+              "partner_code": 528,
+              "partner_name": "荷兰",
+              "export_value_usd": 116853.0,
+              "export_value_cny": 832189.56,
+              "share_pct": 0.5
+            },
+            {
+              "partner_code": 380,
+              "partner_name": "意大利",
+              "export_value_usd": 88939.0,
+              "export_value_cny": 633395.01,
+              "share_pct": 0.3
+            },
+            {
+              "partner_code": 704,
+              "partner_name": "越南",
+              "export_value_usd": 62493.0,
+              "export_value_cny": 445055.09,
+              "share_pct": 0.2
+            },
+            {
+              "partner_code": 36,
+              "partner_name": "澳大利亚",
+              "export_value_usd": 60315.0,
+              "export_value_cny": 429544.07,
+              "share_pct": 0.2
+            },
+            {
+              "partner_code": 76,
+              "partner_name": "巴西",
+              "export_value_usd": 32115.0,
+              "export_value_cny": 228712.72,
+              "share_pct": 0.1
+            },
+            {
+              "partner_code": 124,
+              "partner_name": "加拿大",
+              "export_value_usd": 17039.0,
+              "export_value_cny": 121346.29,
+              "share_pct": 0.1
+            },
+            {
+              "partner_code": 392,
+              "partner_name": "日本",
+              "export_value_usd": 11635.0,
+              "export_value_cny": 82860.74,
+              "share_pct": 0.0
+            },
+            {
+              "partner_code": 826,
+              "partner_name": "英国",
+              "export_value_usd": 4580.0,
+              "export_value_cny": 32617.29,
+              "share_pct": 0.0
+            },
+            {
+              "partner_code": 458,
+              "partner_name": "马来西亚",
+              "export_value_usd": 4167.0,
+              "export_value_cny": 29676.04,
+              "share_pct": 0.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "hs4": "1209",
+      "name_en": "1209 - Seeds, fruit and spores; of a kind used for sowing",
+      "name_cn": "播种用种子、果实及孢子",
+      "export_value_usd": 191882423.0,
+      "export_value_cny": 1366525022.35,
+      "partner_count": 82,
+      "top15_partners": [
+        {
+          "partner_code": 842,
+          "partner_name": "美国",
+          "export_value_usd": 34165781.0,
+          "export_value_cny": 243317725.07,
+          "share_pct": 17.8
+        },
+        {
+          "partner_code": 528,
+          "partner_name": "荷兰",
+          "export_value_usd": 32094396.0,
+          "export_value_cny": 228565986.01,
+          "share_pct": 16.7
+        },
+        {
+          "partner_code": 410,
+          "partner_name": "韩国",
+          "export_value_usd": 19905477.0,
+          "export_value_cny": 141760417.54,
+          "share_pct": 10.4
+        },
+        {
+          "partner_code": 392,
+          "partner_name": "日本",
+          "export_value_usd": 17973350.0,
+          "export_value_cny": 128000429.25,
+          "share_pct": 9.4
+        },
+        {
+          "partner_code": 380,
+          "partner_name": "意大利",
+          "export_value_usd": 13561952.0,
+          "export_value_cny": 96583868.76,
+          "share_pct": 7.1
+        },
+        {
+          "partner_code": 400,
+          "partner_name": "约旦",
+          "export_value_usd": 8747850.0,
+          "export_value_cny": 62299379.64,
+          "share_pct": 4.6
+        },
+        {
+          "partner_code": 251,
+          "partner_name": "法国",
+          "export_value_usd": 6672651.0,
+          "export_value_cny": 47520478.5,
+          "share_pct": 3.5
+        },
+        {
+          "partner_code": 699,
+          "partner_name": "印度",
+          "export_value_usd": 6423368.0,
+          "export_value_cny": 45745164.99,
+          "share_pct": 3.3
+        },
+        {
+          "partner_code": 792,
+          "partner_name": "土耳其",
+          "export_value_usd": 5704431.0,
+          "export_value_cny": 40625126.46,
+          "share_pct": 3.0
+        },
+        {
+          "partner_code": 490,
+          "partner_name": "亚洲其他地区（未另列明）",
+          "export_value_usd": 5496391.0,
+          "export_value_cny": 39143532.36,
+          "share_pct": 2.9
+        },
+        {
+          "partner_code": 586,
+          "partner_name": "巴基斯坦",
+          "export_value_usd": 4554833.0,
+          "export_value_cny": 32438058.52,
+          "share_pct": 2.4
+        },
+        {
+          "partner_code": 764,
+          "partner_name": "泰国",
+          "export_value_usd": 3466937.0,
+          "export_value_cny": 24690412.43,
+          "share_pct": 1.8
+        },
+        {
+          "partner_code": 724,
+          "partner_name": "西班牙",
+          "export_value_usd": 3333182.0,
+          "export_value_cny": 23737852.25,
+          "share_pct": 1.7
+        },
+        {
+          "partner_code": 704,
+          "partner_name": "越南",
+          "export_value_usd": 3308677.0,
+          "export_value_cny": 23563335.51,
+          "share_pct": 1.7
+        },
+        {
+          "partner_code": 643,
+          "partner_name": "俄罗斯",
+          "export_value_usd": 3044172.0,
+          "export_value_cny": 21679615.8,
+          "share_pct": 1.6
+        }
+      ],
+      "hs6_children": [
+        {
+          "hs6": "120910",
+          "name_en": "120910 - Seed; sugar beet seeds, of a kind used for sowing",
+          "name_cn": "",
+          "export_value_usd": 0.0,
+          "export_value_cny": 0.0,
+          "partner_count": 0,
+          "top15_partners": []
+        },
+        {
+          "hs6": "120911",
+          "name_en": "120911 - Beet seed :-- Sugar beet seed",
+          "name_cn": "",
+          "export_value_usd": 0.0,
+          "export_value_cny": 0.0,
+          "partner_count": 0,
+          "top15_partners": []
+        },
+        {
+          "hs6": "120919",
+          "name_en": "120919 - Beet seed :-- Other",
+          "name_cn": "",
+          "export_value_usd": 0.0,
+          "export_value_cny": 0.0,
+          "partner_count": 0,
+          "top15_partners": []
+        },
+        {
+          "hs6": "120921",
+          "name_en": "120921 - Seeds of forage plants; lucerne (alfalfa) seeds, of a kind used for sowing",
+          "name_cn": "",
+          "export_value_usd": 91176.0,
+          "export_value_cny": 649326.2,
+          "partner_count": 3,
+          "top15_partners": [
+            {
+              "partner_code": 392,
+              "partner_name": "日本",
+              "export_value_usd": 69600.0,
+              "export_value_cny": 495668.86,
+              "share_pct": 76.3
+            },
+            {
+              "partner_code": 410,
+              "partner_name": "韩国",
+              "export_value_usd": 21319.0,
+              "export_value_cny": 151827.07,
+              "share_pct": 23.4
+            },
+            {
+              "partner_code": 842,
+              "partner_name": "美国",
+              "export_value_usd": 257.0,
+              "export_value_cny": 1830.27,
+              "share_pct": 0.3
+            }
+          ]
+        },
+        {
+          "hs6": "120922",
+          "name_en": "120922 - Seeds of forage plants; clover (Trifolium spp.) seeds, of a kind used for sowing",
+          "name_cn": "",
+          "export_value_usd": 31786.0,
+          "export_value_cny": 226369.69,
+          "partner_count": 3,
+          "top15_partners": [
+            {
+              "partner_code": 826,
+              "partner_name": "英国",
+              "export_value_usd": 23324.0,
+              "export_value_cny": 166106.04,
+              "share_pct": 73.4
+            },
+            {
+              "partner_code": 842,
+              "partner_name": "美国",
+              "export_value_usd": 4536.0,
+              "export_value_cny": 32303.94,
+              "share_pct": 14.3
+            },
+            {
+              "partner_code": 410,
+              "partner_name": "韩国",
+              "export_value_usd": 3926.0,
+              "export_value_cny": 27959.71,
+              "share_pct": 12.4
+            }
+          ]
+        },
+        {
+          "hs6": "120923",
+          "name_en": "120923 - Seeds of forage plants; fescue seeds, of a kind used for sowing",
+          "name_cn": "",
+          "export_value_usd": 13110.0,
+          "export_value_cny": 93365.21,
+          "partner_count": 1,
+          "top15_partners": [
+            {
+              "partner_code": 528,
+              "partner_name": "荷兰",
+              "export_value_usd": 13110.0,
+              "export_value_cny": 93365.21,
+              "share_pct": 100.0
+            }
+          ]
+        },
+        {
+          "hs6": "120924",
+          "name_en": "120924 - Seeds of forage plants; Kentucky blue grass (Poa pratensis L.) seeds, of a kind used for sowing",
+          "name_cn": "",
+          "export_value_usd": 0.0,
+          "export_value_cny": 0.0,
+          "partner_count": 0,
+          "top15_partners": []
+        },
+        {
+          "hs6": "120925",
+          "name_en": "120925 - Seeds of forage plants; rye grass (Lolium multiflorum Lam., Lolium perenne L.) seeds, of a kind used for sowing",
+          "name_cn": "",
+          "export_value_usd": 28076.0,
+          "export_value_cny": 199948.26,
+          "partner_count": 6,
+          "top15_partners": [
+            {
+              "partner_code": 842,
+              "partner_name": "美国",
+              "export_value_usd": 13385.0,
+              "export_value_cny": 95323.67,
+              "share_pct": 47.7
+            },
+            {
+              "partner_code": 410,
+              "partner_name": "韩国",
+              "export_value_usd": 7040.0,
+              "export_value_cny": 50136.62,
+              "share_pct": 25.1
+            },
+            {
+              "partner_code": 554,
+              "partner_name": "新西兰",
+              "export_value_usd": 3840.0,
+              "export_value_cny": 27347.25,
+              "share_pct": 13.7
+            },
+            {
+              "partner_code": 208,
+              "partner_name": "丹麦",
+              "export_value_usd": 3141.0,
+              "export_value_cny": 22369.19,
+              "share_pct": 11.2
+            },
+            {
+              "partner_code": 826,
+              "partner_name": "英国",
+              "export_value_usd": 666.0,
+              "export_value_cny": 4743.04,
+              "share_pct": 2.4
+            },
+            {
+              "partner_code": 380,
+              "partner_name": "意大利",
+              "export_value_usd": 4.0,
+              "export_value_cny": 28.49,
+              "share_pct": 0.0
+            }
+          ]
+        },
+        {
+          "hs6": "120926",
+          "name_en": "120926 - -- Timothy grass Seed",
+          "name_cn": "",
+          "export_value_usd": 0.0,
+          "export_value_cny": 0.0,
+          "partner_count": 0,
+          "top15_partners": []
+        },
+        {
+          "hs6": "120929",
+          "name_en": "120929 - Seeds of forage plants; other than lucerne, clover, fescue, Kentucky blue grass, and rye grass seeds, of a kind used for sowing",
+          "name_cn": "",
+          "export_value_usd": 868678.0,
+          "export_value_cny": 6186445.87,
+          "partner_count": 3,
+          "top15_partners": [
+            {
+              "partner_code": 392,
+              "partner_name": "日本",
+              "export_value_usd": 820948.0,
+              "export_value_cny": 5846528.13,
+              "share_pct": 94.5
+            },
+            {
+              "partner_code": 842,
+              "partner_name": "美国",
+              "export_value_usd": 36518.0,
+              "export_value_cny": 260069.47,
+              "share_pct": 4.2
+            },
+            {
+              "partner_code": 410,
+              "partner_name": "韩国",
+              "export_value_usd": 11212.0,
+              "export_value_cny": 79848.26,
+              "share_pct": 1.3
+            }
+          ]
+        },
+        {
+          "hs6": "120930",
+          "name_en": "120930 - Seeds of herbaceous plants; cultivated principally for their flowers, of a kind used for sowing",
+          "name_cn": "",
+          "export_value_usd": 20811373.0,
+          "export_value_cny": 148211918.06,
+          "partner_count": 17,
+          "top15_partners": [
+            {
+              "partner_code": 842,
+              "partner_name": "美国",
+              "export_value_usd": 5825983.0,
+              "export_value_cny": 41490780.79,
+              "share_pct": 28.0
+            },
+            {
+              "partner_code": 528,
+              "partner_name": "荷兰",
+              "export_value_usd": 4437910.0,
+              "export_value_cny": 31605370.45,
+              "share_pct": 21.3
+            },
+            {
+              "partner_code": 392,
+              "partner_name": "日本",
+              "export_value_usd": 4102149.0,
+              "export_value_cny": 29214188.39,
+              "share_pct": 19.7
+            },
+            {
+              "partner_code": 764,
+              "partner_name": "泰国",
+              "export_value_usd": 2053881.0,
+              "export_value_cny": 14627081.19,
+              "share_pct": 9.9
+            },
+            {
+              "partner_code": 410,
+              "partner_name": "韩国",
+              "export_value_usd": 2003856.0,
+              "export_value_cny": 14270819.19,
+              "share_pct": 9.6
+            },
+            {
+              "partner_code": 490,
+              "partner_name": "亚洲其他地区（未另列明）",
+              "export_value_usd": 900986.0,
+              "export_value_cny": 6416533.08,
+              "share_pct": 4.3
+            },
+            {
+              "partner_code": 826,
+              "partner_name": "英国",
+              "export_value_usd": 664610.0,
+              "export_value_cny": 4733139.08,
+              "share_pct": 3.2
+            },
+            {
+              "partner_code": 616,
+              "partner_name": "波兰",
+              "export_value_usd": 480165.0,
+              "export_value_cny": 3419581.0,
+              "share_pct": 2.3
+            },
+            {
+              "partner_code": 276,
+              "partner_name": "德国",
+              "export_value_usd": 174747.0,
+              "export_value_cny": 1244492.04,
+              "share_pct": 0.8
+            },
+            {
+              "partner_code": 380,
+              "partner_name": "意大利",
+              "export_value_usd": 127394.0,
+              "export_value_cny": 907259.17,
+              "share_pct": 0.6
+            },
+            {
+              "partner_code": 344,
+              "partner_name": "香港",
+              "export_value_usd": 14333.0,
+              "export_value_cny": 102075.03,
+              "share_pct": 0.1
+            },
+            {
+              "partner_code": 203,
+              "partner_name": "捷克",
+              "export_value_usd": 12088.0,
+              "export_value_cny": 86086.86,
+              "share_pct": 0.1
+            },
+            {
+              "partner_code": 376,
+              "partner_name": "以色列",
+              "export_value_usd": 8250.0,
+              "export_value_cny": 58753.85,
+              "share_pct": 0.0
+            },
+            {
+              "partner_code": 104,
+              "partner_name": "缅甸",
+              "export_value_usd": 2360.0,
+              "export_value_cny": 16807.16,
+              "share_pct": 0.0
+            },
+            {
+              "partner_code": 646,
+              "partner_name": "卢旺达",
+              "export_value_usd": 1748.0,
+              "export_value_cny": 12448.69,
+              "share_pct": 0.0
+            }
+          ]
+        },
+        {
+          "hs6": "120991",
+          "name_en": "120991 - Seeds; vegetable seeds, of a kind used for sowing",
+          "name_cn": "",
+          "export_value_usd": 167599785.0,
+          "export_value_cny": 1193591869.24,
+          "partner_count": 78,
+          "top15_partners": [
+            {
+              "partner_code": 842,
+              "partner_name": "美国",
+              "export_value_usd": 27904372.0,
+              "export_value_cny": 198725980.08,
+              "share_pct": 16.6
+            },
+            {
+              "partner_code": 528,
+              "partner_name": "荷兰",
+              "export_value_usd": 27592393.0,
+              "export_value_cny": 196504165.79,
+              "share_pct": 16.5
+            },
+            {
+              "partner_code": 410,
+              "partner_name": "韩国",
+              "export_value_usd": 16604750.0,
+              "export_value_cny": 118253699.38,
+              "share_pct": 9.9
+            },
+            {
+              "partner_code": 380,
+              "partner_name": "意大利",
+              "export_value_usd": 13431621.0,
+              "export_value_cny": 95655693.21,
+              "share_pct": 8.0
+            },
+            {
+              "partner_code": 392,
+              "partner_name": "日本",
+              "export_value_usd": 12317963.0,
+              "export_value_cny": 87724578.42,
+              "share_pct": 7.3
+            },
+            {
+              "partner_code": 400,
+              "partner_name": "约旦",
+              "export_value_usd": 8747850.0,
+              "export_value_cny": 62299379.64,
+              "share_pct": 5.2
+            },
+            {
+              "partner_code": 251,
+              "partner_name": "法国",
+              "export_value_usd": 6650207.0,
+              "export_value_cny": 47360639.54,
+              "share_pct": 4.0
+            },
+            {
+              "partner_code": 699,
+              "partner_name": "印度",
+              "export_value_usd": 6423368.0,
+              "export_value_cny": 45745164.99,
+              "share_pct": 3.8
+            },
+            {
+              "partner_code": 792,
+              "partner_name": "土耳其",
+              "export_value_usd": 5704431.0,
+              "export_value_cny": 40625126.46,
+              "share_pct": 3.4
+            },
+            {
+              "partner_code": 490,
+              "partner_name": "亚洲其他地区（未另列明）",
+              "export_value_usd": 4581887.0,
+              "export_value_cny": 32630728.43,
+              "share_pct": 2.7
+            },
+            {
+              "partner_code": 586,
+              "partner_name": "巴基斯坦",
+              "export_value_usd": 4554833.0,
+              "export_value_cny": 32438058.52,
+              "share_pct": 2.7
+            },
+            {
+              "partner_code": 724,
+              "partner_name": "西班牙",
+              "export_value_usd": 3333182.0,
+              "export_value_cny": 23737852.25,
+              "share_pct": 2.0
+            },
+            {
+              "partner_code": 704,
+              "partner_name": "越南",
+              "export_value_usd": 3308677.0,
+              "export_value_cny": 23563335.51,
+              "share_pct": 2.0
+            },
+            {
+              "partner_code": 643,
+              "partner_name": "俄罗斯",
+              "export_value_usd": 3044172.0,
+              "export_value_cny": 21679615.8,
+              "share_pct": 1.8
+            },
+            {
+              "partner_code": 50,
+              "partner_name": "孟加拉国",
+              "export_value_usd": 1663827.0,
+              "export_value_cny": 11849241.81,
+              "share_pct": 1.0
+            }
+          ]
+        },
+        {
+          "hs6": "120999",
+          "name_en": "120999 - Seeds; n.e.c. in heading 1209, of a kind used for sowing",
+          "name_cn": "",
+          "export_value_usd": 2438439.0,
+          "export_value_cny": 17365779.82,
+          "partner_count": 13,
+          "top15_partners": [
+            {
+              "partner_code": 410,
+              "partner_name": "韩国",
+              "export_value_usd": 1253374.0,
+              "export_value_cny": 8926127.29,
+              "share_pct": 51.4
+            },
+            {
+              "partner_code": 392,
+              "partner_name": "日本",
+              "export_value_usd": 662690.0,
+              "export_value_cny": 4719465.46,
+              "share_pct": 27.2
+            },
+            {
+              "partner_code": 842,
+              "partner_name": "美国",
+              "export_value_usd": 380730.0,
+              "export_value_cny": 2711436.85,
+              "share_pct": 15.6
+            },
+            {
+              "partner_code": 528,
+              "partner_name": "荷兰",
+              "export_value_usd": 50983.0,
+              "export_value_cny": 363084.56,
+              "share_pct": 2.1
+            },
+            {
+              "partner_code": 276,
+              "partner_name": "德国",
+              "export_value_usd": 31307.0,
+              "export_value_cny": 222958.4,
+              "share_pct": 1.3
+            },
+            {
+              "partner_code": 251,
+              "partner_name": "法国",
+              "export_value_usd": 22444.0,
+              "export_value_cny": 159838.96,
+              "share_pct": 0.9
+            },
+            {
+              "partner_code": 490,
+              "partner_name": "亚洲其他地区（未另列明）",
+              "export_value_usd": 13518.0,
+              "export_value_cny": 96270.86,
+              "share_pct": 0.6
+            },
+            {
+              "partner_code": 40,
+              "partner_name": "奥地利",
+              "export_value_usd": 5946.0,
+              "export_value_cny": 42345.5,
+              "share_pct": 0.2
+            },
+            {
+              "partner_code": 360,
+              "partner_name": "印度尼西亚",
+              "export_value_usd": 5066.0,
+              "export_value_cny": 36078.43,
+              "share_pct": 0.2
+            },
+            {
+              "partner_code": 348,
+              "partner_name": "匈牙利",
+              "export_value_usd": 4734.0,
+              "export_value_cny": 33714.03,
+              "share_pct": 0.2
+            },
+            {
+              "partner_code": 56,
+              "partner_name": "比利时",
+              "export_value_usd": 4713.0,
+              "export_value_cny": 33564.47,
+              "share_pct": 0.2
+            },
+            {
+              "partner_code": 380,
+              "partner_name": "意大利",
+              "export_value_usd": 2933.0,
+              "export_value_cny": 20887.88,
+              "share_pct": 0.1
+            },
+            {
+              "partner_code": 894,
+              "partner_name": "赞比亚",
+              "export_value_usd": 1.0,
+              "export_value_cny": 7.12,
+              "share_pct": 0.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "hs4": "1210",
+      "name_en": "1210 - Hop cones, fresh or dried, whether or not ground, powdered or in the form of pellets; lupulin",
+      "name_cn": "啤酒花",
+      "export_value_usd": 675912.0,
+      "export_value_cny": 4813628.3,
+      "partner_count": 9,
+      "top15_partners": [
+        {
+          "partner_code": 76,
+          "partner_name": "巴西",
+          "export_value_usd": 210722.0,
+          "export_value_cny": 1500694.44,
+          "share_pct": 31.2
+        },
+        {
+          "partner_code": 643,
+          "partner_name": "俄罗斯",
+          "export_value_usd": 205284.0,
+          "export_value_cny": 1461966.75,
+          "share_pct": 30.4
+        },
+        {
+          "partner_code": 276,
+          "partner_name": "德国",
+          "export_value_usd": 124035.0,
+          "export_value_cny": 883337.45,
+          "share_pct": 18.4
+        },
+        {
+          "partner_code": 642,
+          "partner_name": "罗马尼亚",
+          "export_value_usd": 68753.0,
+          "export_value_cny": 489636.8,
+          "share_pct": 10.2
+        },
+        {
+          "partner_code": 392,
+          "partner_name": "日本",
+          "export_value_usd": 31854.0,
+          "export_value_cny": 226853.96,
+          "share_pct": 4.7
+        },
+        {
+          "partner_code": 498,
+          "partner_name": "摩尔多瓦",
+          "export_value_usd": 23544.0,
+          "export_value_cny": 167672.81,
+          "share_pct": 3.5
+        },
+        {
+          "partner_code": 344,
+          "partner_name": "香港",
+          "export_value_usd": 10000.0,
+          "export_value_cny": 71216.79,
+          "share_pct": 1.5
+        },
+        {
+          "partner_code": 842,
+          "partner_name": "美国",
+          "export_value_usd": 1152.0,
+          "export_value_cny": 8204.17,
+          "share_pct": 0.2
+        },
+        {
+          "partner_code": 36,
+          "partner_name": "澳大利亚",
+          "export_value_usd": 568.0,
+          "export_value_cny": 4045.11,
+          "share_pct": 0.1
+        }
+      ],
+      "hs6_children": [
+        {
+          "hs6": "121010",
+          "name_en": "121010 - Hop cones; neither ground nor powdered nor in the form of pellets",
+          "name_cn": "",
+          "export_value_usd": 44393.0,
+          "export_value_cny": 316152.7,
+          "partner_count": 5,
+          "top15_partners": [
+            {
+              "partner_code": 392,
+              "partner_name": "日本",
+              "export_value_usd": 31115.0,
+              "export_value_cny": 221591.04,
+              "share_pct": 70.1
+            },
+            {
+              "partner_code": 643,
+              "partner_name": "俄罗斯",
+              "export_value_usd": 10986.0,
+              "export_value_cny": 78238.77,
+              "share_pct": 24.7
+            },
+            {
+              "partner_code": 842,
+              "partner_name": "美国",
+              "export_value_usd": 1152.0,
+              "export_value_cny": 8204.17,
+              "share_pct": 2.6
+            },
+            {
+              "partner_code": 76,
+              "partner_name": "巴西",
+              "export_value_usd": 572.0,
+              "export_value_cny": 4073.6,
+              "share_pct": 1.3
+            },
+            {
+              "partner_code": 36,
+              "partner_name": "澳大利亚",
+              "export_value_usd": 568.0,
+              "export_value_cny": 4045.11,
+              "share_pct": 1.3
+            }
+          ]
+        },
+        {
+          "hs6": "121020",
+          "name_en": "121020 - Hop cones; ground, powdered or in the form of pellets; lupulin",
+          "name_cn": "",
+          "export_value_usd": 631519.0,
+          "export_value_cny": 4497475.6,
+          "partner_count": 7,
+          "top15_partners": [
+            {
+              "partner_code": 76,
+              "partner_name": "巴西",
+              "export_value_usd": 210150.0,
+              "export_value_cny": 1496620.84,
+              "share_pct": 33.3
+            },
+            {
+              "partner_code": 643,
+              "partner_name": "俄罗斯",
+              "export_value_usd": 194298.0,
+              "export_value_cny": 1383727.99,
+              "share_pct": 30.8
+            },
+            {
+              "partner_code": 276,
+              "partner_name": "德国",
+              "export_value_usd": 124035.0,
+              "export_value_cny": 883337.45,
+              "share_pct": 19.6
+            },
+            {
+              "partner_code": 642,
+              "partner_name": "罗马尼亚",
+              "export_value_usd": 68753.0,
+              "export_value_cny": 489636.8,
+              "share_pct": 10.9
+            },
+            {
+              "partner_code": 498,
+              "partner_name": "摩尔多瓦",
+              "export_value_usd": 23544.0,
+              "export_value_cny": 167672.81,
+              "share_pct": 3.7
+            },
+            {
+              "partner_code": 344,
+              "partner_name": "香港",
+              "export_value_usd": 10000.0,
+              "export_value_cny": 71216.79,
+              "share_pct": 1.6
+            },
+            {
+              "partner_code": 392,
+              "partner_name": "日本",
+              "export_value_usd": 739.0,
+              "export_value_cny": 5262.92,
+              "share_pct": 0.1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "hs4": "1211",
+      "name_en": "1211 - Plants and parts of plants (including seeds and fruits), of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered",
+      "name_cn": "药用、香料及杀虫等用植物",
+      "export_value_usd": 977686482.0,
+      "export_value_cny": 6962769287.44,
+      "partner_count": 105,
+      "top15_partners": [
+        {
+          "partner_code": 392,
+          "partner_name": "日本",
+          "export_value_usd": 281688315.0,
+          "export_value_cny": 2006093757.48,
+          "share_pct": 28.8
+        },
+        {
+          "partner_code": 490,
+          "partner_name": "亚洲其他地区（未另列明）",
+          "export_value_usd": 127593345.0,
+          "export_value_cny": 908678845.63,
+          "share_pct": 13.1
+        },
+        {
+          "partner_code": 410,
+          "partner_name": "韩国",
+          "export_value_usd": 126274715.0,
+          "export_value_cny": 899287986.05,
+          "share_pct": 12.9
+        },
+        {
+          "partner_code": 344,
+          "partner_name": "香港",
+          "export_value_usd": 119993696.0,
+          "export_value_cny": 854556584.94,
+          "share_pct": 12.3
+        },
+        {
+          "partner_code": 704,
+          "partner_name": "越南",
+          "export_value_usd": 85011113.0,
+          "export_value_cny": 605421858.22,
+          "share_pct": 8.7
+        },
+        {
+          "partner_code": 458,
+          "partner_name": "马来西亚",
+          "export_value_usd": 42763819.0,
+          "export_value_cny": 304550191.73,
+          "share_pct": 4.4
+        },
+        {
+          "partner_code": 842,
+          "partner_name": "美国",
+          "export_value_usd": 31484352.0,
+          "export_value_cny": 224221448.47,
+          "share_pct": 3.2
+        },
+        {
+          "partner_code": 764,
+          "partner_name": "泰国",
+          "export_value_usd": 19746600.0,
+          "export_value_cny": 140628946.54,
+          "share_pct": 2.0
+        },
+        {
+          "partner_code": 276,
+          "partner_name": "德国",
+          "export_value_usd": 18917041.0,
+          "export_value_cny": 134721093.63,
+          "share_pct": 1.9
+        },
+        {
+          "partner_code": 702,
+          "partner_name": "新加坡",
+          "export_value_usd": 16942982.0,
+          "export_value_cny": 120662479.11,
+          "share_pct": 1.7
+        },
+        {
+          "partner_code": 251,
+          "partner_name": "法国",
+          "export_value_usd": 9298996.0,
+          "export_value_cny": 66224464.53,
+          "share_pct": 1.0
+        },
+        {
+          "partner_code": 36,
+          "partner_name": "澳大利亚",
+          "export_value_usd": 9101945.0,
+          "export_value_cny": 64821130.57,
+          "share_pct": 0.9
+        },
+        {
+          "partner_code": 372,
+          "partner_name": "爱尔兰",
+          "export_value_usd": 7674634.0,
+          "export_value_cny": 54656279.79,
+          "share_pct": 0.8
+        },
+        {
+          "partner_code": 724,
+          "partner_name": "西班牙",
+          "export_value_usd": 7483951.0,
+          "export_value_cny": 53298296.67,
+          "share_pct": 0.8
+        },
+        {
+          "partner_code": 699,
+          "partner_name": "印度",
+          "export_value_usd": 6575594.0,
+          "export_value_cny": 46829269.7,
+          "share_pct": 0.7
+        }
+      ],
+      "hs6_children": [
+        {
+          "hs6": "121110",
+          "name_en": "121110 - - Liquorice roots",
+          "name_cn": "",
+          "export_value_usd": 0.0,
+          "export_value_cny": 0.0,
+          "partner_count": 0,
+          "top15_partners": []
+        },
+        {
+          "hs6": "121120",
+          "name_en": "121120 - Ginseng roots, of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered",
+          "name_cn": "",
+          "export_value_usd": 87643009.0,
+          "export_value_cny": 624165376.69,
+          "partner_count": 46,
+          "top15_partners": [
+            {
+              "partner_code": 392,
+              "partner_name": "日本",
+              "export_value_usd": 42597345.0,
+              "export_value_cny": 303364617.34,
+              "share_pct": 48.6
+            },
+            {
+              "partner_code": 344,
+              "partner_name": "香港",
+              "export_value_usd": 15436704.0,
+              "export_value_cny": 109935250.71,
+              "share_pct": 17.6
+            },
+            {
+              "partner_code": 490,
+              "partner_name": "亚洲其他地区（未另列明）",
+              "export_value_usd": 14928584.0,
+              "export_value_cny": 106316583.17,
+              "share_pct": 17.0
+            },
+            {
+              "partner_code": 842,
+              "partner_name": "美国",
+              "export_value_usd": 3735314.0,
+              "export_value_cny": 26601707.27,
+              "share_pct": 4.3
+            },
+            {
+              "partner_code": 458,
+              "partner_name": "马来西亚",
+              "export_value_usd": 1960069.0,
+              "export_value_cny": 13958982.24,
+              "share_pct": 2.2
+            },
+            {
+              "partner_code": 380,
+              "partner_name": "意大利",
+              "export_value_usd": 1935434.0,
+              "export_value_cny": 13783539.67,
+              "share_pct": 2.2
+            },
+            {
+              "partner_code": 251,
+              "partner_name": "法国",
+              "export_value_usd": 1700347.0,
+              "export_value_cny": 12109325.52,
+              "share_pct": 1.9
+            },
+            {
+              "partner_code": 276,
+              "partner_name": "德国",
+              "export_value_usd": 912340.0,
+              "export_value_cny": 6497392.62,
+              "share_pct": 1.0
+            },
+            {
+              "partner_code": 724,
+              "partner_name": "西班牙",
+              "export_value_usd": 860545.0,
+              "export_value_cny": 6128525.26,
+              "share_pct": 1.0
+            },
+            {
+              "partner_code": 702,
+              "partner_name": "新加坡",
+              "export_value_usd": 839278.0,
+              "export_value_cny": 5977068.51,
+              "share_pct": 1.0
+            },
+            {
+              "partner_code": 704,
+              "partner_name": "越南",
+              "export_value_usd": 617504.0,
+              "export_value_cny": 4397665.27,
+              "share_pct": 0.7
+            },
+            {
+              "partner_code": 364,
+              "partner_name": "伊朗",
+              "export_value_usd": 390464.0,
+              "export_value_cny": 2780759.27,
+              "share_pct": 0.4
+            },
+            {
+              "partner_code": 36,
+              "partner_name": "澳大利亚",
+              "export_value_usd": 190575.0,
+              "export_value_cny": 1357213.98,
+              "share_pct": 0.2
+            },
+            {
+              "partner_code": 410,
+              "partner_name": "韩国",
+              "export_value_usd": 163083.0,
+              "export_value_cny": 1161424.78,
+              "share_pct": 0.2
+            },
+            {
+              "partner_code": 699,
+              "partner_name": "印度",
+              "export_value_usd": 152103.0,
+              "export_value_cny": 1083228.74,
+              "share_pct": 0.2
+            }
+          ]
+        },
+        {
+          "hs6": "121130",
+          "name_en": "121130 - Coca leaf; of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered",
+          "name_cn": "",
+          "export_value_usd": 0.0,
+          "export_value_cny": 0.0,
+          "partner_count": 0,
+          "top15_partners": []
+        },
+        {
+          "hs6": "121140",
+          "name_en": "121140 - Poppy straw; of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered",
+          "name_cn": "",
+          "export_value_usd": 0.0,
+          "export_value_cny": 0.0,
+          "partner_count": 0,
+          "top15_partners": []
+        },
+        {
+          "hs6": "121150",
+          "name_en": "121150 - Ephedra, of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered",
+          "name_cn": "",
+          "export_value_usd": 3520122.0,
+          "export_value_cny": 25069178.92,
+          "partner_count": 3,
+          "top15_partners": [
+            {
+              "partner_code": 392,
+              "partner_name": "日本",
+              "export_value_usd": 2062355.0,
+              "export_value_cny": 14687430.29,
+              "share_pct": 58.6
+            },
+            {
+              "partner_code": 410,
+              "partner_name": "韩国",
+              "export_value_usd": 1159300.0,
+              "export_value_cny": 8256162.46,
+              "share_pct": 32.9
+            },
+            {
+              "partner_code": 490,
+              "partner_name": "亚洲其他地区（未另列明）",
+              "export_value_usd": 298467.0,
+              "export_value_cny": 2125586.17,
+              "share_pct": 8.5
+            }
+          ]
+        },
+        {
+          "hs6": "121160",
+          "name_en": "121160 - Bark of African cherry (Prunus africana); of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered",
+          "name_cn": "",
+          "export_value_usd": 0.0,
+          "export_value_cny": 0.0,
+          "partner_count": 0,
+          "top15_partners": []
+        },
+        {
+          "hs6": "121190",
+          "name_en": "121190 - Plants and parts (including seeds and fruits) n.e.c. in heading no. 1211, of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered",
+          "name_cn": "",
+          "export_value_usd": 886523351.0,
+          "export_value_cny": 6313534731.83,
+          "partner_count": 104,
+          "top15_partners": [
+            {
+              "partner_code": 392,
+              "partner_name": "日本",
+              "export_value_usd": 237028615.0,
+              "export_value_cny": 1688041709.84,
+              "share_pct": 26.7
+            },
+            {
+              "partner_code": 410,
+              "partner_name": "韩国",
+              "export_value_usd": 124952332.0,
+              "export_value_cny": 889870398.81,
+              "share_pct": 14.1
+            },
+            {
+              "partner_code": 490,
+              "partner_name": "亚洲其他地区（未另列明）",
+              "export_value_usd": 112366294.0,
+              "export_value_cny": 800236676.29,
+              "share_pct": 12.7
+            },
+            {
+              "partner_code": 344,
+              "partner_name": "香港",
+              "export_value_usd": 104556992.0,
+              "export_value_cny": 744621334.23,
+              "share_pct": 11.8
+            },
+            {
+              "partner_code": 704,
+              "partner_name": "越南",
+              "export_value_usd": 84393609.0,
+              "export_value_cny": 601024192.95,
+              "share_pct": 9.5
+            },
+            {
+              "partner_code": 458,
+              "partner_name": "马来西亚",
+              "export_value_usd": 40803750.0,
+              "export_value_cny": 290591209.5,
+              "share_pct": 4.6
+            },
+            {
+              "partner_code": 842,
+              "partner_name": "美国",
+              "export_value_usd": 27749038.0,
+              "export_value_cny": 197619741.19,
+              "share_pct": 3.1
+            },
+            {
+              "partner_code": 764,
+              "partner_name": "泰国",
+              "export_value_usd": 19691023.0,
+              "export_value_cny": 140233144.99,
+              "share_pct": 2.2
+            },
+            {
+              "partner_code": 276,
+              "partner_name": "德国",
+              "export_value_usd": 18004701.0,
+              "export_value_cny": 128223701.01,
+              "share_pct": 2.0
+            },
+            {
+              "partner_code": 702,
+              "partner_name": "新加坡",
+              "export_value_usd": 16103704.0,
+              "export_value_cny": 114685410.6,
+              "share_pct": 1.8
+            },
+            {
+              "partner_code": 36,
+              "partner_name": "澳大利亚",
+              "export_value_usd": 8911370.0,
+              "export_value_cny": 63463916.59,
+              "share_pct": 1.0
+            },
+            {
+              "partner_code": 372,
+              "partner_name": "爱尔兰",
+              "export_value_usd": 7674634.0,
+              "export_value_cny": 54656279.79,
+              "share_pct": 0.9
+            },
+            {
+              "partner_code": 251,
+              "partner_name": "法国",
+              "export_value_usd": 7598649.0,
+              "export_value_cny": 54115139.01,
+              "share_pct": 0.9
+            },
+            {
+              "partner_code": 724,
+              "partner_name": "西班牙",
+              "export_value_usd": 6623406.0,
+              "export_value_cny": 47169771.42,
+              "share_pct": 0.7
+            },
+            {
+              "partner_code": 699,
+              "partner_name": "印度",
+              "export_value_usd": 6423491.0,
+              "export_value_cny": 45746040.96,
+              "share_pct": 0.7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "hs4": "1212",
+      "name_en": "1212 - Locust beans, seaweeds and other algae, sugar beet, sugar cane, fresh, chilled, frozen or dried, whether or not ground; fruit stones, kernels and other vegetable products (including unroasted chicory roots) used primarily for human consumption, n.e.c.",
+      "name_cn": "角豆、海藻及其他食用植物产品",
+      "export_value_usd": 984468019.0,
+      "export_value_cny": 7011065217.08,
+      "partner_count": 116,
+      "top15_partners": [
+        {
+          "partner_code": 842,
+          "partner_name": "美国",
+          "export_value_usd": 99516771.0,
+          "export_value_cny": 708726498.18,
+          "share_pct": 10.1
+        },
+        {
+          "partner_code": 392,
+          "partner_name": "日本",
+          "export_value_usd": 61629255.0,
+          "export_value_cny": 438903771.12,
+          "share_pct": 6.3
+        },
+        {
+          "partner_code": 364,
+          "partner_name": "伊朗",
+          "export_value_usd": 57814376.0,
+          "export_value_cny": 411735427.46,
+          "share_pct": 5.9
+        },
+        {
+          "partner_code": 276,
+          "partner_name": "德国",
+          "export_value_usd": 54214598.0,
+          "export_value_cny": 386098964.07,
+          "share_pct": 5.5
+        },
+        {
+          "partner_code": 484,
+          "partner_name": "墨西哥",
+          "export_value_usd": 54012693.0,
+          "export_value_cny": 384661061.47,
+          "share_pct": 5.5
+        },
+        {
+          "partner_code": 528,
+          "partner_name": "荷兰",
+          "export_value_usd": 47257601.0,
+          "export_value_cny": 336553464.63,
+          "share_pct": 4.8
+        },
+        {
+          "partner_code": 124,
+          "partner_name": "加拿大",
+          "export_value_usd": 46108311.0,
+          "export_value_cny": 328368590.17,
+          "share_pct": 4.7
+        },
+        {
+          "partner_code": 704,
+          "partner_name": "越南",
+          "export_value_usd": 37650766.0,
+          "export_value_cny": 268136669.56,
+          "share_pct": 3.8
+        },
+        {
+          "partner_code": 368,
+          "partner_name": "伊拉克",
+          "export_value_usd": 36943744.0,
+          "export_value_cny": 263101485.83,
+          "share_pct": 3.8
+        },
+        {
+          "partner_code": 490,
+          "partner_name": "亚洲其他地区（未另列明）",
+          "export_value_usd": 34382505.0,
+          "export_value_cny": 244861163.83,
+          "share_pct": 3.5
+        },
+        {
+          "partner_code": 792,
+          "partner_name": "土耳其",
+          "export_value_usd": 28800441.0,
+          "export_value_cny": 205107495.86,
+          "share_pct": 2.9
+        },
+        {
+          "partner_code": 826,
+          "partner_name": "英国",
+          "export_value_usd": 26728363.0,
+          "export_value_cny": 190350821.48,
+          "share_pct": 2.7
+        },
+        {
+          "partner_code": 784,
+          "partner_name": "阿联酋",
+          "export_value_usd": 24335410.0,
+          "export_value_cny": 173308978.35,
+          "share_pct": 2.5
+        },
+        {
+          "partner_code": 643,
+          "partner_name": "俄罗斯",
+          "export_value_usd": 24259421.0,
+          "export_value_cny": 172767809.09,
+          "share_pct": 2.5
+        },
+        {
+          "partner_code": 398,
+          "partner_name": "哈萨克斯坦",
+          "export_value_usd": 22229109.0,
+          "export_value_cny": 158308578.75,
+          "share_pct": 2.3
+        }
+      ],
+      "hs6_children": [
+        {
+          "hs6": "121210",
+          "name_en": "121210 - - Locust Beans, including Locust bean Seeds",
+          "name_cn": "",
+          "export_value_usd": 0.0,
+          "export_value_cny": 0.0,
+          "partner_count": 0,
+          "top15_partners": []
+        },
+        {
+          "hs6": "121220",
+          "name_en": "121220 - -  Seaweeds and other algae",
+          "name_cn": "",
+          "export_value_usd": 0.0,
+          "export_value_cny": 0.0,
+          "partner_count": 0,
+          "top15_partners": []
+        },
+        {
+          "hs6": "121221",
+          "name_en": "121221 - Seaweeds and other algae; fit for human consumption, fresh, chilled, frozen or dried, whether or not ground",
+          "name_cn": "",
+          "export_value_usd": 98956383.0,
+          "export_value_cny": 704735594.73,
+          "partner_count": 70,
+          "top15_partners": [
+            {
+              "partner_code": 392,
+              "partner_name": "日本",
+              "export_value_usd": 50912198.0,
+              "export_value_cny": 362580331.34,
+              "share_pct": 51.4
+            },
+            {
+              "partner_code": 490,
+              "partner_name": "亚洲其他地区（未另列明）",
+              "export_value_usd": 10444311.0,
+              "export_value_cny": 74381030.32,
+              "share_pct": 10.6
+            },
+            {
+              "partner_code": 410,
+              "partner_name": "韩国",
+              "export_value_usd": 8516907.0,
+              "export_value_cny": 60654677.73,
+              "share_pct": 8.6
+            },
+            {
+              "partner_code": 764,
+              "partner_name": "泰国",
+              "export_value_usd": 7719150.0,
+              "export_value_cny": 54973308.45,
+              "share_pct": 7.8
+            },
+            {
+              "partner_code": 484,
+              "partner_name": "墨西哥",
+              "export_value_usd": 4341470.0,
+              "export_value_cny": 30918555.73,
+              "share_pct": 4.4
+            },
+            {
+              "partner_code": 643,
+              "partner_name": "俄罗斯",
+              "export_value_usd": 3857566.0,
+              "export_value_cny": 27472346.77,
+              "share_pct": 3.9
+            },
+            {
+              "partner_code": 616,
+              "partner_name": "波兰",
+              "export_value_usd": 2916827.0,
+              "export_value_cny": 20772705.59,
+              "share_pct": 2.9
+            },
+            {
+              "partner_code": 842,
+              "partner_name": "美国",
+              "export_value_usd": 2386076.0,
+              "export_value_cny": 16992867.34,
+              "share_pct": 2.4
+            },
+            {
+              "partner_code": 360,
+              "partner_name": "印度尼西亚",
+              "export_value_usd": 1705581.0,
+              "export_value_cny": 12146600.39,
+              "share_pct": 1.7
+            },
+            {
+              "partner_code": 704,
+              "partner_name": "越南",
+              "export_value_usd": 836459.0,
+              "export_value_cny": 5956992.49,
+              "share_pct": 0.8
+            },
+            {
+              "partner_code": 440,
+              "partner_name": "立陶宛",
+              "export_value_usd": 776250.0,
+              "export_value_cny": 5528203.32,
+              "share_pct": 0.8
+            },
+            {
+              "partner_code": 458,
+              "partner_name": "马来西亚",
+              "export_value_usd": 503835.0,
+              "export_value_cny": 3588151.14,
+              "share_pct": 0.5
+            },
+            {
+              "partner_code": 152,
+              "partner_name": "智利",
+              "export_value_usd": 482497.0,
+              "export_value_cny": 3436188.75,
+              "share_pct": 0.5
+            },
+            {
+              "partner_code": 344,
+              "partner_name": "香港",
+              "export_value_usd": 444937.0,
+              "export_value_cny": 3168698.49,
+              "share_pct": 0.4
+            },
+            {
+              "partner_code": 124,
+              "partner_name": "加拿大",
+              "export_value_usd": 386571.0,
+              "export_value_cny": 2753034.57,
+              "share_pct": 0.4
+            }
+          ]
+        },
+        {
+          "hs6": "121229",
+          "name_en": "121229 - Seaweeds and other algae; not fit for human consumption, fresh, chilled, frozen or dried, whether or not ground",
+          "name_cn": "",
+          "export_value_usd": 3816263.0,
+          "export_value_cny": 27178200.07,
+          "partner_count": 13,
+          "top15_partners": [
+            {
+              "partner_code": 392,
+              "partner_name": "日本",
+              "export_value_usd": 1475153.0,
+              "export_value_cny": 10505566.14,
+              "share_pct": 38.7
+            },
+            {
+              "partner_code": 490,
+              "partner_name": "亚洲其他地区（未另列明）",
+              "export_value_usd": 1399735.0,
+              "export_value_cny": 9968463.36,
+              "share_pct": 36.7
+            },
+            {
+              "partner_code": 554,
+              "partner_name": "新西兰",
+              "export_value_usd": 299255.0,
+              "export_value_cny": 2131198.05,
+              "share_pct": 7.8
+            },
+            {
+              "partner_code": 410,
+              "partner_name": "韩国",
+              "export_value_usd": 249714.0,
+              "export_value_cny": 1778382.95,
+              "share_pct": 6.5
+            },
+            {
+              "partner_code": 724,
+              "partner_name": "西班牙",
+              "export_value_usd": 108112.0,
+              "export_value_cny": 769938.96,
+              "share_pct": 2.8
+            },
+            {
+              "partner_code": 842,
+              "partner_name": "美国",
+              "export_value_usd": 101424.0,
+              "export_value_cny": 722309.17,
+              "share_pct": 2.7
+            },
+            {
+              "partner_code": 643,
+              "partner_name": "俄罗斯",
+              "export_value_usd": 78013.0,
+              "export_value_cny": 555583.54,
+              "share_pct": 2.0
+            },
+            {
+              "partner_code": 458,
+              "partner_name": "马来西亚",
+              "export_value_usd": 45177.0,
+              "export_value_cny": 321736.09,
+              "share_pct": 1.2
+            },
+            {
+              "partner_code": 704,
+              "partner_name": "越南",
+              "export_value_usd": 37933.0,
+              "export_value_cny": 270146.65,
+              "share_pct": 1.0
+            },
+            {
+              "partner_code": 826,
+              "partner_name": "英国",
+              "export_value_usd": 11045.0,
+              "export_value_cny": 78658.94,
+              "share_pct": 0.3
+            },
+            {
+              "partner_code": 36,
+              "partner_name": "澳大利亚",
+              "export_value_usd": 9542.0,
+              "export_value_cny": 67955.06,
+              "share_pct": 0.3
+            },
+            {
+              "partner_code": 112,
+              "partner_name": "白俄罗斯",
+              "export_value_usd": 1035.0,
+              "export_value_cny": 7370.94,
+              "share_pct": 0.0
+            },
+            {
+              "partner_code": 344,
+              "partner_name": "香港",
+              "export_value_usd": 125.0,
+              "export_value_cny": 890.21,
+              "share_pct": 0.0
+            }
+          ]
+        },
+        {
+          "hs6": "121230",
+          "name_en": "121230 - - Apricot, peach (including nectarine) or plum stones and kernels",
+          "name_cn": "",
+          "export_value_usd": 0.0,
+          "export_value_cny": 0.0,
+          "partner_count": 0,
+          "top15_partners": []
+        },
+        {
+          "hs6": "121291",
+          "name_en": "121291 - Sugar beet; fit for human consumption, fresh, chilled, frozen or dried, whether or not ground",
+          "name_cn": "",
+          "export_value_usd": 731931.0,
+          "export_value_cny": 5212577.63,
+          "partner_count": 5,
+          "top15_partners": [
+            {
+              "partner_code": 643,
+              "partner_name": "俄罗斯",
+              "export_value_usd": 530462.0,
+              "export_value_cny": 3777780.09,
+              "share_pct": 72.5
+            },
+            {
+              "partner_code": 842,
+              "partner_name": "美国",
+              "export_value_usd": 144493.0,
+              "export_value_cny": 1029032.76,
+              "share_pct": 19.7
+            },
+            {
+              "partner_code": 76,
+              "partner_name": "巴西",
+              "export_value_usd": 54250.0,
+              "export_value_cny": 386351.09,
+              "share_pct": 7.4
+            },
+            {
+              "partner_code": 410,
+              "partner_name": "韩国",
+              "export_value_usd": 2423.0,
+              "export_value_cny": 17255.83,
+              "share_pct": 0.3
+            },
+            {
+              "partner_code": 496,
+              "partner_name": "蒙古",
+              "export_value_usd": 303.0,
+              "export_value_cny": 2157.87,
+              "share_pct": 0.0
+            }
+          ]
+        },
+        {
+          "hs6": "121292",
+          "name_en": "121292 - Locust beans (carob); fit for human consumption, fresh, chilled, frozen or dried, whether or not ground",
+          "name_cn": "",
+          "export_value_usd": 0.0,
+          "export_value_cny": 0.0,
+          "partner_count": 0,
+          "top15_partners": []
+        },
+        {
+          "hs6": "121293",
+          "name_en": "121293 - Sugar cane; fit for human consumption, fresh, chilled, frozen or dried, whether or not ground",
+          "name_cn": "",
+          "export_value_usd": 500255.0,
+          "export_value_cny": 3562655.53,
+          "partner_count": 12,
+          "top15_partners": [
+            {
+              "partner_code": 458,
+              "partner_name": "马来西亚",
+              "export_value_usd": 103601.0,
+              "export_value_cny": 737813.07,
+              "share_pct": 20.7
+            },
+            {
+              "partner_code": 446,
+              "partner_name": "澳门",
+              "export_value_usd": 99622.0,
+              "export_value_cny": 709475.91,
+              "share_pct": 19.9
+            },
+            {
+              "partner_code": 104,
+              "partner_name": "缅甸",
+              "export_value_usd": 94336.0,
+              "export_value_cny": 671830.71,
+              "share_pct": 18.9
+            },
+            {
+              "partner_code": 124,
+              "partner_name": "加拿大",
+              "export_value_usd": 84995.0,
+              "export_value_cny": 605307.11,
+              "share_pct": 17.0
+            },
+            {
+              "partner_code": 344,
+              "partner_name": "香港",
+              "export_value_usd": 44931.0,
+              "export_value_cny": 319984.16,
+              "share_pct": 9.0
+            },
+            {
+              "partner_code": 392,
+              "partner_name": "日本",
+              "export_value_usd": 32243.0,
+              "export_value_cny": 229624.3,
+              "share_pct": 6.4
+            },
+            {
+              "partner_code": 704,
+              "partner_name": "越南",
+              "export_value_usd": 22577.0,
+              "export_value_cny": 160786.15,
+              "share_pct": 4.5
+            },
+            {
+              "partner_code": 410,
+              "partner_name": "韩国",
+              "export_value_usd": 8013.0,
+              "export_value_cny": 57066.01,
+              "share_pct": 1.6
+            },
+            {
+              "partner_code": 784,
+              "partner_name": "阿联酋",
+              "export_value_usd": 7454.0,
+              "export_value_cny": 53085.0,
+              "share_pct": 1.5
+            },
+            {
+              "partner_code": 152,
+              "partner_name": "智利",
+              "export_value_usd": 929.0,
+              "export_value_cny": 6616.04,
+              "share_pct": 0.2
+            },
+            {
+              "partner_code": 682,
+              "partner_name": "沙特阿拉伯",
+              "export_value_usd": 877.0,
+              "export_value_cny": 6245.71,
+              "share_pct": 0.2
+            },
+            {
+              "partner_code": 36,
+              "partner_name": "澳大利亚",
+              "export_value_usd": 677.0,
+              "export_value_cny": 4821.38,
+              "share_pct": 0.1
+            }
+          ]
+        },
+        {
+          "hs6": "121294",
+          "name_en": "121294 - Chicory roots (Chicorium intybus sativum); fit for human consumption, fresh, chilled, frozen or dried, whether or not ground",
+          "name_cn": "",
+          "export_value_usd": 1193.0,
+          "export_value_cny": 8496.16,
+          "partner_count": 2,
+          "top15_partners": [
+            {
+              "partner_code": 344,
+              "partner_name": "香港",
+              "export_value_usd": 1109.0,
+              "export_value_cny": 7897.94,
+              "share_pct": 93.0
+            },
+            {
+              "partner_code": 458,
+              "partner_name": "马来西亚",
+              "export_value_usd": 84.0,
+              "export_value_cny": 598.22,
+              "share_pct": 7.0
+            }
+          ]
+        },
+        {
+          "hs6": "121299",
+          "name_en": "121299 - Vegetable products; fit for human consumption, n.e.c. in heading no. 1212, fresh, chilled, frozen or dried, whether or not ground",
+          "name_cn": "",
+          "export_value_usd": 880461994.0,
+          "export_value_cny": 6270367692.97,
+          "partner_count": 112,
+          "top15_partners": [
+            {
+              "partner_code": 842,
+              "partner_name": "美国",
+              "export_value_usd": 96884778.0,
+              "export_value_cny": 689982288.9,
+              "share_pct": 11.0
+            },
+            {
+              "partner_code": 364,
+              "partner_name": "伊朗",
+              "export_value_usd": 57814376.0,
+              "export_value_cny": 411735427.46,
+              "share_pct": 6.6
+            },
+            {
+              "partner_code": 276,
+              "partner_name": "德国",
+              "export_value_usd": 54181428.0,
+              "export_value_cny": 385862737.98,
+              "share_pct": 6.2
+            },
+            {
+              "partner_code": 484,
+              "partner_name": "墨西哥",
+              "export_value_usd": 49671223.0,
+              "export_value_cny": 353742505.74,
+              "share_pct": 5.6
+            },
+            {
+              "partner_code": 528,
+              "partner_name": "荷兰",
+              "export_value_usd": 47121132.0,
+              "export_value_cny": 335581576.22,
+              "share_pct": 5.4
+            },
+            {
+              "partner_code": 124,
+              "partner_name": "加拿大",
+              "export_value_usd": 45636745.0,
+              "export_value_cny": 325010248.49,
+              "share_pct": 5.2
+            },
+            {
+              "partner_code": 368,
+              "partner_name": "伊拉克",
+              "export_value_usd": 36943744.0,
+              "export_value_cny": 263101485.83,
+              "share_pct": 4.2
+            },
+            {
+              "partner_code": 704,
+              "partner_name": "越南",
+              "export_value_usd": 36753797.0,
+              "export_value_cny": 261748744.27,
+              "share_pct": 4.2
+            },
+            {
+              "partner_code": 792,
+              "partner_name": "土耳其",
+              "export_value_usd": 28786341.0,
+              "export_value_cny": 205007080.19,
+              "share_pct": 3.3
+            },
+            {
+              "partner_code": 826,
+              "partner_name": "英国",
+              "export_value_usd": 26694458.0,
+              "export_value_cny": 190109360.95,
+              "share_pct": 3.0
+            },
+            {
+              "partner_code": 784,
+              "partner_name": "阿联酋",
+              "export_value_usd": 24234914.0,
+              "export_value_cny": 172593278.1,
+              "share_pct": 2.8
+            },
+            {
+              "partner_code": 490,
+              "partner_name": "亚洲其他地区（未另列明）",
+              "export_value_usd": 22538459.0,
+              "export_value_cny": 160511670.15,
+              "share_pct": 2.6
+            },
+            {
+              "partner_code": 398,
+              "partner_name": "哈萨克斯坦",
+              "export_value_usd": 21971416.0,
+              "export_value_cny": 156473371.93,
+              "share_pct": 2.5
+            },
+            {
+              "partner_code": 643,
+              "partner_name": "俄罗斯",
+              "export_value_usd": 19793380.0,
+              "export_value_cny": 140962098.69,
+              "share_pct": 2.2
+            },
+            {
+              "partner_code": 344,
+              "partner_name": "香港",
+              "export_value_usd": 16439910.0,
+              "export_value_cny": 117079761.81,
+              "share_pct": 1.9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "hs4": "1213",
+      "name_en": "1213 - Cereal straw and husks, unprepared; whether or not chopped, ground, pressed or in the form of pellets",
+      "name_cn": "谷物秸秆及谷壳",
+      "export_value_usd": 958584.0,
+      "export_value_cny": 6826727.54,
+      "partner_count": 11,
+      "top15_partners": [
+        {
+          "partner_code": 392,
+          "partner_name": "日本",
+          "export_value_usd": 468358.0,
+          "export_value_cny": 3335495.33,
+          "share_pct": 48.9
+        },
+        {
+          "partner_code": 410,
+          "partner_name": "韩国",
+          "export_value_usd": 411487.0,
+          "export_value_cny": 2930478.33,
+          "share_pct": 42.9
+        },
+        {
+          "partner_code": 458,
+          "partner_name": "马来西亚",
+          "export_value_usd": 27990.0,
+          "export_value_cny": 199335.8,
+          "share_pct": 2.9
+        },
+        {
+          "partner_code": 704,
+          "partner_name": "越南",
+          "export_value_usd": 22600.0,
+          "export_value_cny": 160949.95,
+          "share_pct": 2.4
+        },
+        {
+          "partner_code": 76,
+          "partner_name": "巴西",
+          "export_value_usd": 11480.0,
+          "export_value_cny": 81756.87,
+          "share_pct": 1.2
+        },
+        {
+          "partner_code": 380,
+          "partner_name": "意大利",
+          "export_value_usd": 9548.0,
+          "export_value_cny": 67997.79,
+          "share_pct": 1.0
+        },
+        {
+          "partner_code": 276,
+          "partner_name": "德国",
+          "export_value_usd": 5829.0,
+          "export_value_cny": 41512.27,
+          "share_pct": 0.6
+        },
+        {
+          "partner_code": 344,
+          "partner_name": "香港",
+          "export_value_usd": 491.0,
+          "export_value_cny": 3496.74,
+          "share_pct": 0.1
+        },
+        {
+          "partner_code": 496,
+          "partner_name": "蒙古",
+          "export_value_usd": 351.0,
+          "export_value_cny": 2499.71,
+          "share_pct": 0.0
+        },
+        {
+          "partner_code": 446,
+          "partner_name": "澳门",
+          "export_value_usd": 300.0,
+          "export_value_cny": 2136.5,
+          "share_pct": 0.0
+        },
+        {
+          "partner_code": 36,
+          "partner_name": "澳大利亚",
+          "export_value_usd": 150.0,
+          "export_value_cny": 1068.25,
+          "share_pct": 0.0
+        }
+      ],
+      "hs6_children": [
+        {
+          "hs6": "121300",
+          "name_en": "121300 - Cereal straw and husks; unprepared, whether or not chopped, ground, pressed or in the form of pellets",
+          "name_cn": "",
+          "export_value_usd": 958584.0,
+          "export_value_cny": 6826727.54,
+          "partner_count": 11,
+          "top15_partners": [
+            {
+              "partner_code": 392,
+              "partner_name": "日本",
+              "export_value_usd": 468358.0,
+              "export_value_cny": 3335495.33,
+              "share_pct": 48.9
+            },
+            {
+              "partner_code": 410,
+              "partner_name": "韩国",
+              "export_value_usd": 411487.0,
+              "export_value_cny": 2930478.33,
+              "share_pct": 42.9
+            },
+            {
+              "partner_code": 458,
+              "partner_name": "马来西亚",
+              "export_value_usd": 27990.0,
+              "export_value_cny": 199335.8,
+              "share_pct": 2.9
+            },
+            {
+              "partner_code": 704,
+              "partner_name": "越南",
+              "export_value_usd": 22600.0,
+              "export_value_cny": 160949.95,
+              "share_pct": 2.4
+            },
+            {
+              "partner_code": 76,
+              "partner_name": "巴西",
+              "export_value_usd": 11480.0,
+              "export_value_cny": 81756.87,
+              "share_pct": 1.2
+            },
+            {
+              "partner_code": 380,
+              "partner_name": "意大利",
+              "export_value_usd": 9548.0,
+              "export_value_cny": 67997.79,
+              "share_pct": 1.0
+            },
+            {
+              "partner_code": 276,
+              "partner_name": "德国",
+              "export_value_usd": 5829.0,
+              "export_value_cny": 41512.27,
+              "share_pct": 0.6
+            },
+            {
+              "partner_code": 344,
+              "partner_name": "香港",
+              "export_value_usd": 491.0,
+              "export_value_cny": 3496.74,
+              "share_pct": 0.1
+            },
+            {
+              "partner_code": 496,
+              "partner_name": "蒙古",
+              "export_value_usd": 351.0,
+              "export_value_cny": 2499.71,
+              "share_pct": 0.0
+            },
+            {
+              "partner_code": 446,
+              "partner_name": "澳门",
+              "export_value_usd": 300.0,
+              "export_value_cny": 2136.5,
+              "share_pct": 0.0
+            },
+            {
+              "partner_code": 36,
+              "partner_name": "澳大利亚",
+              "export_value_usd": 150.0,
+              "export_value_cny": 1068.25,
+              "share_pct": 0.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "hs4": "1214",
+      "name_en": "1214 - Swedes, mangolds, fodder roots, hay, lucerne (alfalfa), clover, sainfoin, forage kale, lupines, vetches and similar forage products, whether or not in the form of pellets",
+      "name_cn": "饲料用植物产品",
+      "export_value_usd": 1284929.0,
+      "export_value_cny": 9150851.88,
+      "partner_count": 8,
+      "top15_partners": [
+        {
+          "partner_code": 446,
+          "partner_name": "澳门",
+          "export_value_usd": 849205.0,
+          "export_value_cny": 6047765.42,
+          "share_pct": 66.1
+        },
+        {
+          "partner_code": 490,
+          "partner_name": "亚洲其他地区（未另列明）",
+          "export_value_usd": 144544.0,
+          "export_value_cny": 1029395.97,
+          "share_pct": 11.2
+        },
+        {
+          "partner_code": 36,
+          "partner_name": "澳大利亚",
+          "export_value_usd": 125487.0,
+          "export_value_cny": 893678.13,
+          "share_pct": 9.8
+        },
+        {
+          "partner_code": 344,
+          "partner_name": "香港",
+          "export_value_usd": 114631.0,
+          "export_value_cny": 816365.19,
+          "share_pct": 8.9
+        },
+        {
+          "partner_code": 643,
+          "partner_name": "俄罗斯",
+          "export_value_usd": 23155.0,
+          "export_value_cny": 164902.48,
+          "share_pct": 1.8
+        },
+        {
+          "partner_code": 360,
+          "partner_name": "印度尼西亚",
+          "export_value_usd": 13400.0,
+          "export_value_cny": 95430.5,
+          "share_pct": 1.0
+        },
+        {
+          "partner_code": 458,
+          "partner_name": "马来西亚",
+          "export_value_usd": 11626.0,
+          "export_value_cny": 82796.64,
+          "share_pct": 0.9
+        },
+        {
+          "partner_code": 826,
+          "partner_name": "英国",
+          "export_value_usd": 2881.0,
+          "export_value_cny": 20517.56,
+          "share_pct": 0.2
+        }
+      ],
+      "hs6_children": [
+        {
+          "hs6": "121410",
+          "name_en": "121410 - Lucerne (alfalfa) meal and pellets",
+          "name_cn": "",
+          "export_value_usd": 140001.0,
+          "export_value_cny": 997042.18,
+          "partner_count": 4,
+          "top15_partners": [
+            {
+              "partner_code": 36,
+              "partner_name": "澳大利亚",
+              "export_value_usd": 125487.0,
+              "export_value_cny": 893678.13,
+              "share_pct": 89.6
+            },
+            {
+              "partner_code": 458,
+              "partner_name": "马来西亚",
+              "export_value_usd": 11626.0,
+              "export_value_cny": 82796.64,
+              "share_pct": 8.3
+            },
+            {
+              "partner_code": 826,
+              "partner_name": "英国",
+              "export_value_usd": 2881.0,
+              "export_value_cny": 20517.56,
+              "share_pct": 2.1
+            },
+            {
+              "partner_code": 344,
+              "partner_name": "香港",
+              "export_value_usd": 7.0,
+              "export_value_cny": 49.85,
+              "share_pct": 0.0
+            }
+          ]
+        },
+        {
+          "hs6": "121490",
+          "name_en": "121490 - Forage products including swedes, mangolds, fodder roots, hay, sainfoin, clover, forage kale, lupines, vetches etc., pelletised or otherwise",
+          "name_cn": "",
+          "export_value_usd": 1144928.0,
+          "export_value_cny": 8153809.69,
+          "partner_count": 5,
+          "top15_partners": [
+            {
+              "partner_code": 446,
+              "partner_name": "澳门",
+              "export_value_usd": 849205.0,
+              "export_value_cny": 6047765.42,
+              "share_pct": 74.2
+            },
+            {
+              "partner_code": 490,
+              "partner_name": "亚洲其他地区（未另列明）",
+              "export_value_usd": 144544.0,
+              "export_value_cny": 1029395.97,
+              "share_pct": 12.6
+            },
+            {
+              "partner_code": 344,
+              "partner_name": "香港",
+              "export_value_usd": 114624.0,
+              "export_value_cny": 816315.33,
+              "share_pct": 10.0
+            },
+            {
+              "partner_code": 643,
+              "partner_name": "俄罗斯",
+              "export_value_usd": 23155.0,
+              "export_value_cny": 164902.48,
+              "share_pct": 2.0
+            },
+            {
+              "partner_code": 360,
+              "partner_name": "印度尼西亚",
+              "export_value_usd": 13400.0,
+              "export_value_cny": 95430.5,
+              "share_pct": 1.2
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

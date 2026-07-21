@@ -1,0 +1,81 @@
+{
+  "year": 2024,
+  "partner_code": 426,
+  "partner_name": "莱索托",
+  "total_export_value_usd": 1105667.0,
+  "total_export_value_cny": 7874205.45,
+  "hs4_products": [
+    {
+      "hs4": "2102",
+      "name_cn": "酵母及其他发酵粉",
+      "name_en": "2102 - Yeasts (active or inactive); other single-cell micro-organisms, dead (but not including vaccines of heading no. 3002); prepared baking powders",
+      "export_value_usd": 669238.0,
+      "export_value_cny": 4766098.21,
+      "share_pct": 60.5,
+      "hs2": "21"
+    },
+    {
+      "hs4": "1006",
+      "name_cn": "稻米",
+      "name_en": "1006 - Rice",
+      "export_value_usd": 280362.0,
+      "export_value_cny": 1996648.17,
+      "share_pct": 25.4,
+      "hs2": "10"
+    },
+    {
+      "hs4": "1001",
+      "name_cn": "小麦及混合麦",
+      "name_en": "1001 - Wheat and meslin",
+      "export_value_usd": 120517.0,
+      "export_value_cny": 858283.39,
+      "share_pct": 10.9,
+      "hs2": "10"
+    },
+    {
+      "hs4": "0904",
+      "name_cn": "胡椒、辣椒及甜椒",
+      "name_en": "0904 - Pepper of the genus piper; dried or crushed or ground fruits of the genus capsicum or of the genus pimenta",
+      "export_value_usd": 13600.0,
+      "export_value_cny": 96854.83,
+      "share_pct": 1.2,
+      "hs2": "09"
+    },
+    {
+      "hs4": "0712",
+      "name_cn": "干制蔬菜",
+      "name_en": "0712 - Vegetables, dried; whole, cut, sliced, broken or in powder, but not further prepared",
+      "export_value_usd": 9750.0,
+      "export_value_cny": 69436.37,
+      "share_pct": 0.9,
+      "hs2": "07"
+    },
+    {
+      "hs4": "2106",
+      "name_cn": "其他食品调制品",
+      "name_en": "2106 - Food preparations not elsewhere specified or included",
+      "export_value_usd": 7600.0,
+      "export_value_cny": 54124.76,
+      "share_pct": 0.7,
+      "hs2": "21"
+    },
+    {
+      "hs4": "0909",
+      "name_cn": "孜然、茴香等香辛料种子",
+      "name_en": "0909 - Seeds of anise, badian, fennel, coriander, cumin, caraway or juniper",
+      "export_value_usd": 3000.0,
+      "export_value_cny": 21365.04,
+      "share_pct": 0.3,
+      "hs2": "09"
+    },
+    {
+      "hs4": "2103",
+      "name_cn": "调味汁、调味品及芥子粉",
+      "name_en": "2103 - Sauces and preparations therefor; mixed condiments and mixed seasonings, mustard flour and meal and prepared mustard",
+      "export_value_usd": 1600.0,
+      "export_value_cny": 11394.69,
+      "share_pct": 0.1,
+      "hs2": "21"
+    }
+  ]
+}

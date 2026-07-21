@@ -1,0 +1,72 @@
+{
+  "year": 2024,
+  "partner_code": 624,
+  "partner_name": "几内亚比绍",
+  "total_export_value_usd": 18439800.0,
+  "total_export_value_cny": 131322336.42,
+  "hs4_products": [
+    {
+      "hs4": "1006",
+      "name_cn": "稻米",
+      "name_en": "1006 - Rice",
+      "export_value_usd": 17469752.0,
+      "export_value_cny": 124413965.95,
+      "share_pct": 94.7,
+      "hs2": "10"
+    },
+    {
+      "hs4": "1904",
+      "name_cn": "谷物制品及膨化谷物食品",
+      "name_en": "1904 - Prepared foods obtained by swelling or roasting cereals or cereal products (e.g. corn flakes); cereals (other than maize (corn)) in grain form or in the form of flakes or other worked grains (not flour and meal), pre-cooked or otherwise prepared, n.e.c.",
+      "export_value_usd": 544320.0,
+      "export_value_cny": 3876472.31,
+      "share_pct": 3.0,
+      "hs2": "19"
+    },
+    {
+      "hs4": "0902",
+      "name_cn": "茶",
+      "name_en": "0902 - Tea",
+      "export_value_usd": 293202.0,
+      "export_value_cny": 2088090.53,
+      "share_pct": 1.6,
+      "hs2": "09"
+    },
+    {
+      "hs4": "1604",
+      "name_cn": "调制或保藏鱼；鱼子酱",
+      "name_en": "1604 - Prepared or preserved fish; caviar and caviar substitutes prepared from fish eggs",
+      "export_value_usd": 49419.0,
+      "export_value_cny": 351946.25,
+      "share_pct": 0.3,
+      "hs2": "16"
+    },
+    {
+      "hs4": "0703",
+      "name_cn": "洋葱、青葱、大蒜及其他葱属蔬菜",
+      "name_en": "0703 - Onions, shallots, garlic, leeks and other alliaceous vegetables; fresh or chilled",
+      "export_value_usd": 45447.0,
+      "export_value_cny": 323658.95,
+      "share_pct": 0.2,
+      "hs2": "07"
+    },
+    {
+      "hs4": "2002",
+      "name_cn": "调制或保藏番茄",
+      "name_en": "2002 - Tomatoes; prepared or preserved otherwise than by vinegar or acetic acid",
+      "export_value_usd": 36546.0,
+      "export_value_cny": 260268.88,
+      "share_pct": 0.2,
+      "hs2": "20"
+    },
+    {
+      "hs4": "2103",
+      "name_cn": "调味汁、调味品及芥子粉",
+      "name_en": "2103 - Sauces and preparations therefor; mixed condiments and mixed seasonings, mustard flour and meal and prepared mustard",
+      "export_value_usd": 1114.0,
+      "export_value_cny": 7933.55,
+      "share_pct": 0.0,
+      "hs2": "21"
+    }
+  ]
+}

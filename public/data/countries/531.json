@@ -1,0 +1,117 @@
+{
+  "year": 2024,
+  "partner_code": 531,
+  "partner_name": "CN531",
+  "total_export_value_usd": 1391995.0,
+  "total_export_value_cny": 9913341.56,
+  "hs4_products": [
+    {
+      "hs4": "2008",
+      "name_cn": "其他调制或保藏水果、坚果及植物食用部分",
+      "name_en": "2008 - Fruit, nuts and other edible parts of plants; prepared or preserved in ways n.e.c., whether or not containing added sugar or other sweetening matter or spirit, not elsewhere specified or included",
+      "export_value_usd": 317059.0,
+      "export_value_cny": 2257992.42,
+      "share_pct": 22.8,
+      "hs2": "20"
+    },
+    {
+      "hs4": "0305",
+      "name_cn": "干、盐腌、熏制或盐水浸渍鱼",
+      "name_en": "0305 - Fish, dried, salted or in brine; smoked fish, whether or not cooked before, or during the smoking process",
+      "export_value_usd": 312611.0,
+      "export_value_cny": 2226315.19,
+      "share_pct": 22.5,
+      "hs2": "03"
+    },
+    {
+      "hs4": "2009",
+      "name_cn": "水果、坚果或蔬菜汁",
+      "name_en": "2009 - Fruit or nut juices (including grape must and coconut water) and vegetable juices, unfermented, not containing added spirit, whether or not containing added sugar or other sweetening matter",
+      "export_value_usd": 287460.0,
+      "export_value_cny": 2047197.85,
+      "share_pct": 20.7,
+      "hs2": "20"
+    },
+    {
+      "hs4": "0409",
+      "name_cn": "天然蜂蜜",
+      "name_en": "0409 - Honey; natural",
+      "export_value_usd": 126929.0,
+      "export_value_cny": 903947.59,
+      "share_pct": 9.1,
+      "hs2": "04"
+    },
+    {
+      "hs4": "0307",
+      "name_cn": "软体动物",
+      "name_en": "0307 - Molluscs; whether in shell or not, live, fresh, chilled, frozen, dried, salted or in brine; smoked molluscs, whether in shell or not, whether or not cooked before or during the smoking process",
+      "export_value_usd": 86905.0,
+      "export_value_cny": 618909.51,
+      "share_pct": 6.2,
+      "hs2": "03"
+    },
+    {
+      "hs4": "2005",
+      "name_cn": "其他调制或保藏蔬菜",
+      "name_en": "2005 - Vegetables preparations n.e.c.; prepared or preserved otherwise than by vinegar or acetic acid, not frozen, other than products of heading no. 2006",
+      "export_value_usd": 59358.0,
+      "export_value_cny": 422728.62,
+      "share_pct": 4.3,
+      "hs2": "20"
+    },
+    {
+      "hs4": "1604",
+      "name_cn": "调制或保藏鱼；鱼子酱",
+      "name_en": "1604 - Prepared or preserved fish; caviar and caviar substitutes prepared from fish eggs",
+      "export_value_usd": 52474.0,
+      "export_value_cny": 373702.98,
+      "share_pct": 3.8,
+      "hs2": "16"
+    },
+    {
+      "hs4": "2002",
+      "name_cn": "调制或保藏番茄",
+      "name_en": "2002 - Tomatoes; prepared or preserved otherwise than by vinegar or acetic acid",
+      "export_value_usd": 44663.0,
+      "export_value_cny": 318075.55,
+      "share_pct": 3.2,
+      "hs2": "20"
+    },
+    {
+      "hs4": "0811",
+      "name_cn": "冷冻水果及坚果",
+      "name_en": "0811 - Fruit and nuts; uncooked or cooked by steaming or boiling in water, frozen, whether or not containing added sugar or other sweetening matter",
+      "export_value_usd": 41379.0,
+      "export_value_cny": 294687.96,
+      "share_pct": 3.0,
+      "hs2": "08"
+    },
+    {
+      "hs4": "2103",
+      "name_cn": "调味汁、调味品及芥子粉",
+      "name_en": "2103 - Sauces and preparations therefor; mixed condiments and mixed seasonings, mustard flour and meal and prepared mustard",
+      "export_value_usd": 37643.0,
+      "export_value_cny": 268081.36,
+      "share_pct": 2.7,
+      "hs2": "21"
+    },
+    {
+      "hs4": "0710",
+      "name_cn": "冷冻蔬菜",
+      "name_en": "0710 - Vegetables (uncooked or cooked by steaming or boiling in water); frozen",
+      "export_value_usd": 14732.0,
+      "export_value_cny": 104916.58,
+      "share_pct": 1.1,
+      "hs2": "07"
+    },
+    {
+      "hs4": "1905",
+      "name_cn": "面包、糕点、饼干等烘焙食品",
+      "name_en": "1905 - Bread, pastry, cakes, biscuits, other bakers' wares, whether or not containing cocoa; communion wafers, empty cachets suitable for pharmaceutical use, sealing wafers, rice paper and similar products",
+      "export_value_usd": 10782.0,
+      "export_value_cny": 76785.94,
+      "share_pct": 0.8,
+      "hs2": "19"
+    }
+  ]
+}

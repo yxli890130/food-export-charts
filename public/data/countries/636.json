@@ -1,0 +1,99 @@
+{
+  "year": 2024,
+  "partner_code": 636,
+  "partner_name": "CN636",
+  "total_export_value_usd": 379369.0,
+  "total_export_value_cny": 2701744.24,
+  "hs4_products": [
+    {
+      "hs4": "0304",
+      "name_cn": "鱼片及其他鱼肉",
+      "name_en": "0304 - Fish fillets and other fish meat (whether or not minced); fresh, chilled or frozen",
+      "export_value_usd": 104744.0,
+      "export_value_cny": 745953.15,
+      "share_pct": 27.6,
+      "hs2": "03"
+    },
+    {
+      "hs4": "0305",
+      "name_cn": "干、盐腌、熏制或盐水浸渍鱼",
+      "name_en": "0305 - Fish, dried, salted or in brine; smoked fish, whether or not cooked before, or during the smoking process",
+      "export_value_usd": 69582.0,
+      "export_value_cny": 495540.67,
+      "share_pct": 18.3,
+      "hs2": "03"
+    },
+    {
+      "hs4": "0811",
+      "name_cn": "冷冻水果及坚果",
+      "name_en": "0811 - Fruit and nuts; uncooked or cooked by steaming or boiling in water, frozen, whether or not containing added sugar or other sweetening matter",
+      "export_value_usd": 47688.0,
+      "export_value_cny": 339618.63,
+      "share_pct": 12.6,
+      "hs2": "08"
+    },
+    {
+      "hs4": "2008",
+      "name_cn": "其他调制或保藏水果、坚果及植物食用部分",
+      "name_en": "2008 - Fruit, nuts and other edible parts of plants; prepared or preserved in ways n.e.c., whether or not containing added sugar or other sweetening matter or spirit, not elsewhere specified or included",
+      "export_value_usd": 45760.0,
+      "export_value_cny": 325888.03,
+      "share_pct": 12.1,
+      "hs2": "20"
+    },
+    {
+      "hs4": "0303",
+      "name_cn": "冷冻的非鱼片鱼类",
+      "name_en": "0303 - Fish; frozen, excluding fish fillets and other fish meat of heading 0304",
+      "export_value_usd": 39456.0,
+      "export_value_cny": 280992.97,
+      "share_pct": 10.4,
+      "hs2": "03"
+    },
+    {
+      "hs4": "1604",
+      "name_cn": "调制或保藏鱼；鱼子酱",
+      "name_en": "1604 - Prepared or preserved fish; caviar and caviar substitutes prepared from fish eggs",
+      "export_value_usd": 35500.0,
+      "export_value_cny": 252819.6,
+      "share_pct": 9.4,
+      "hs2": "16"
+    },
+    {
+      "hs4": "0710",
+      "name_cn": "冷冻蔬菜",
+      "name_en": "0710 - Vegetables (uncooked or cooked by steaming or boiling in water); frozen",
+      "export_value_usd": 20770.0,
+      "export_value_cny": 147917.27,
+      "share_pct": 5.5,
+      "hs2": "07"
+    },
+    {
+      "hs4": "1202",
+      "name_cn": "花生",
+      "name_en": "1202 - Ground-nuts; not roasted or otherwise cooked, whether or not shelled or broken",
+      "export_value_usd": 5970.0,
+      "export_value_cny": 42516.42,
+      "share_pct": 1.6,
+      "hs2": "12"
+    },
+    {
+      "hs4": "0701",
+      "name_cn": "马铃薯",
+      "name_en": "0701 - Potatoes; fresh or chilled",
+      "export_value_usd": 5592.0,
+      "export_value_cny": 39824.43,
+      "share_pct": 1.5,
+      "hs2": "07"
+    },
+    {
+      "hs4": "0703",
+      "name_cn": "洋葱、青葱、大蒜及其他葱属蔬菜",
+      "name_en": "0703 - Onions, shallots, garlic, leeks and other alliaceous vegetables; fresh or chilled",
+      "export_value_usd": 4307.0,
+      "export_value_cny": 30673.07,
+      "share_pct": 1.1,
+      "hs2": "07"
+    }
+  ]
+}

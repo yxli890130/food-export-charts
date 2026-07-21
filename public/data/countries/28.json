@@ -1,0 +1,63 @@
+{
+  "year": 2024,
+  "partner_code": 28,
+  "partner_name": "安提瓜和巴布达",
+  "total_export_value_usd": 702533.0,
+  "total_export_value_cny": 5003214.51,
+  "hs4_products": [
+    {
+      "hs4": "0305",
+      "name_cn": "干、盐腌、熏制或盐水浸渍鱼",
+      "name_en": "0305 - Fish, dried, salted or in brine; smoked fish, whether or not cooked before, or during the smoking process",
+      "export_value_usd": 582662.0,
+      "export_value_cny": 4149531.73,
+      "share_pct": 82.9,
+      "hs2": "03"
+    },
+    {
+      "hs4": "1604",
+      "name_cn": "调制或保藏鱼；鱼子酱",
+      "name_en": "1604 - Prepared or preserved fish; caviar and caviar substitutes prepared from fish eggs",
+      "export_value_usd": 41920.0,
+      "export_value_cny": 298540.78,
+      "share_pct": 6.0,
+      "hs2": "16"
+    },
+    {
+      "hs4": "1704",
+      "name_cn": "糖食",
+      "name_en": "1704 - Sugar confectionery (including white chocolate), not containing cocoa",
+      "export_value_usd": 23157.0,
+      "export_value_cny": 164916.72,
+      "share_pct": 3.3,
+      "hs2": "17"
+    },
+    {
+      "hs4": "2106",
+      "name_cn": "其他食品调制品",
+      "name_en": "2106 - Food preparations not elsewhere specified or included",
+      "export_value_usd": 21177.0,
+      "export_value_cny": 150815.8,
+      "share_pct": 3.0,
+      "hs2": "21"
+    },
+    {
+      "hs4": "0710",
+      "name_cn": "冷冻蔬菜",
+      "name_en": "0710 - Vegetables (uncooked or cooked by steaming or boiling in water); frozen",
+      "export_value_usd": 19919.0,
+      "export_value_cny": 141856.72,
+      "share_pct": 2.8,
+      "hs2": "07"
+    },
+    {
+      "hs4": "0811",
+      "name_cn": "冷冻水果及坚果",
+      "name_en": "0811 - Fruit and nuts; uncooked or cooked by steaming or boiling in water, frozen, whether or not containing added sugar or other sweetening matter",
+      "export_value_usd": 13698.0,
+      "export_value_cny": 97552.76,
+      "share_pct": 1.9,
+      "hs2": "08"
+    }
+  ]
+}

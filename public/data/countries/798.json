@@ -1,0 +1,90 @@
+{
+  "year": 2024,
+  "partner_code": 798,
+  "partner_name": "CN798",
+  "total_export_value_usd": 343603.0,
+  "total_export_value_cny": 2447030.27,
+  "hs4_products": [
+    {
+      "hs4": "1006",
+      "name_cn": "稻米",
+      "name_en": "1006 - Rice",
+      "export_value_usd": 97729.0,
+      "export_value_cny": 695994.57,
+      "share_pct": 28.4,
+      "hs2": "10"
+    },
+    {
+      "hs4": "1602",
+      "name_cn": "其他调制或保藏肉、杂碎或血",
+      "name_en": "1602 - Prepared or preserved meat, meat offal, blood or insects",
+      "export_value_usd": 97375.0,
+      "export_value_cny": 693473.49,
+      "share_pct": 28.3,
+      "hs2": "16"
+    },
+    {
+      "hs4": "1604",
+      "name_cn": "调制或保藏鱼；鱼子酱",
+      "name_en": "1604 - Prepared or preserved fish; caviar and caviar substitutes prepared from fish eggs",
+      "export_value_usd": 53817.0,
+      "export_value_cny": 383267.4,
+      "share_pct": 15.7,
+      "hs2": "16"
+    },
+    {
+      "hs4": "0710",
+      "name_cn": "冷冻蔬菜",
+      "name_en": "0710 - Vegetables (uncooked or cooked by steaming or boiling in water); frozen",
+      "export_value_usd": 32500.0,
+      "export_value_cny": 231454.57,
+      "share_pct": 9.5,
+      "hs2": "07"
+    },
+    {
+      "hs4": "2103",
+      "name_cn": "调味汁、调味品及芥子粉",
+      "name_en": "2103 - Sauces and preparations therefor; mixed condiments and mixed seasonings, mustard flour and meal and prepared mustard",
+      "export_value_usd": 26740.0,
+      "export_value_cny": 190433.7,
+      "share_pct": 7.8,
+      "hs2": "21"
+    },
+    {
+      "hs4": "0407",
+      "name_cn": "带壳禽蛋及蛋黄",
+      "name_en": "0407 - Birds' eggs, in shell; fresh, preserved or cooked",
+      "export_value_usd": 21025.0,
+      "export_value_cny": 149733.3,
+      "share_pct": 6.1,
+      "hs2": "04"
+    },
+    {
+      "hs4": "1902",
+      "name_cn": "面食",
+      "name_en": "1902 - Pasta; whether or not cooked or stuffed with meat or other substance, or otherwise prepared, egg spaghetti, macaroni, noodles, lasagne, gnocchi, ravioli, cannelloni; couscous, whether or not prepared",
+      "export_value_usd": 11678.0,
+      "export_value_cny": 83166.97,
+      "share_pct": 3.4,
+      "hs2": "19"
+    },
+    {
+      "hs4": "2004",
+      "name_cn": "其他冷冻蔬菜",
+      "name_en": "2004 - Vegetables preparations n.e.c.; prepared or preserved otherwise than by vinegar or acetic acid, frozen, other than products of heading no. 2006",
+      "export_value_usd": 2550.0,
+      "export_value_cny": 18160.28,
+      "share_pct": 0.7,
+      "hs2": "20"
+    },
+    {
+      "hs4": "2106",
+      "name_cn": "其他食品调制品",
+      "name_en": "2106 - Food preparations not elsewhere specified or included",
+      "export_value_usd": 189.0,
+      "export_value_cny": 1346.0,
+      "share_pct": 0.1,
+      "hs2": "21"
+    }
+  ]
+}

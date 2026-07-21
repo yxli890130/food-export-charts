@@ -1,0 +1,117 @@
+{
+  "year": 2024,
+  "partner_code": 716,
+  "partner_name": "津巴布韦",
+  "total_export_value_usd": 3484119.0,
+  "total_export_value_cny": 24812777.12,
+  "hs4_products": [
+    {
+      "hs4": "1006",
+      "name_cn": "稻米",
+      "name_en": "1006 - Rice",
+      "export_value_usd": 1644928.0,
+      "export_value_cny": 11714649.19,
+      "share_pct": 47.2,
+      "hs2": "10"
+    },
+    {
+      "hs4": "2106",
+      "name_cn": "其他食品调制品",
+      "name_en": "2106 - Food preparations not elsewhere specified or included",
+      "export_value_usd": 694260.0,
+      "export_value_cny": 4944296.86,
+      "share_pct": 19.9,
+      "hs2": "21"
+    },
+    {
+      "hs4": "1604",
+      "name_cn": "调制或保藏鱼；鱼子酱",
+      "name_en": "1604 - Prepared or preserved fish; caviar and caviar substitutes prepared from fish eggs",
+      "export_value_usd": 293251.0,
+      "export_value_cny": 2088439.49,
+      "share_pct": 8.4,
+      "hs2": "16"
+    },
+    {
+      "hs4": "0303",
+      "name_cn": "冷冻的非鱼片鱼类",
+      "name_en": "0303 - Fish; frozen, excluding fish fillets and other fish meat of heading 0304",
+      "export_value_usd": 188668.0,
+      "export_value_cny": 1343632.93,
+      "share_pct": 5.4,
+      "hs2": "03"
+    },
+    {
+      "hs4": "1209",
+      "name_cn": "播种用种子、果实及孢子",
+      "name_en": "1209 - Seeds, fruit and spores; of a kind used for sowing",
+      "export_value_usd": 184142.0,
+      "export_value_cny": 1311400.21,
+      "share_pct": 5.3,
+      "hs2": "12"
+    },
+    {
+      "hs4": "0402",
+      "name_cn": "浓缩乳及奶油",
+      "name_en": "0402 - Milk and cream; concentrated or containing added sugar or other sweetening matter",
+      "export_value_usd": 136031.0,
+      "export_value_cny": 968769.12,
+      "share_pct": 3.9,
+      "hs2": "04"
+    },
+    {
+      "hs4": "1702",
+      "name_cn": "其他糖及糖浆",
+      "name_en": "1702 - Sugars, including lactose, maltose, glucose or fructose in solid form; sugar syrups without added flavouring or colouring matter; artificial honey, whether or not mixed with natural honey; caramel",
+      "export_value_usd": 109431.0,
+      "export_value_cny": 779332.45,
+      "share_pct": 3.1,
+      "hs2": "17"
+    },
+    {
+      "hs4": "2103",
+      "name_cn": "调味汁、调味品及芥子粉",
+      "name_en": "2103 - Sauces and preparations therefor; mixed condiments and mixed seasonings, mustard flour and meal and prepared mustard",
+      "export_value_usd": 106263.0,
+      "export_value_cny": 756770.98,
+      "share_pct": 3.0,
+      "hs2": "21"
+    },
+    {
+      "hs4": "0910",
+      "name_cn": "其他香辛料",
+      "name_en": "0910 - Ginger, saffron, tumeric (curcuma), thyme, bay leaves, curry and other spices",
+      "export_value_usd": 71429.0,
+      "export_value_cny": 508694.41,
+      "share_pct": 2.1,
+      "hs2": "09"
+    },
+    {
+      "hs4": "2002",
+      "name_cn": "调制或保藏番茄",
+      "name_en": "2002 - Tomatoes; prepared or preserved otherwise than by vinegar or acetic acid",
+      "export_value_usd": 47033.0,
+      "export_value_cny": 334953.93,
+      "share_pct": 1.3,
+      "hs2": "20"
+    },
+    {
+      "hs4": "1207",
+      "name_cn": "其他含油子仁及果实",
+      "name_en": "1207 - Oil seeds and oleaginous fruits, n.e.c. in chapter 12; whether or not broken",
+      "export_value_usd": 4409.0,
+      "export_value_cny": 31399.48,
+      "share_pct": 0.1,
+      "hs2": "12"
+    },
+    {
+      "hs4": "2101",
+      "name_cn": "咖啡、茶及马黛茶提取物等",
+      "name_en": "2101 - Extracts, essences, concentrates of coffee, tea or mate; preparations with a basis of these products or with a basis of coffee, tea or mate; roasted chicory and other roasted coffee substitutes and extracts, essences and concentrates thereof",
+      "export_value_usd": 4274.0,
+      "export_value_cny": 30438.06,
+      "share_pct": 0.1,
+      "hs2": "21"
+    }
+  ]
+}

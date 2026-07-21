@@ -1,0 +1,216 @@
+{
+  "year": 2024,
+  "partner_code": 328,
+  "partner_name": "圭亚那",
+  "total_export_value_usd": 10957845.0,
+  "total_export_value_cny": 78038254.62,
+  "hs4_products": [
+    {
+      "hs4": "0703",
+      "name_cn": "洋葱、青葱、大蒜及其他葱属蔬菜",
+      "name_en": "0703 - Onions, shallots, garlic, leeks and other alliaceous vegetables; fresh or chilled",
+      "export_value_usd": 4193002.0,
+      "export_value_cny": 29861214.29,
+      "share_pct": 38.3,
+      "hs2": "07"
+    },
+    {
+      "hs4": "1604",
+      "name_cn": "调制或保藏鱼；鱼子酱",
+      "name_en": "1604 - Prepared or preserved fish; caviar and caviar substitutes prepared from fish eggs",
+      "export_value_usd": 1857041.0,
+      "export_value_cny": 13225249.89,
+      "share_pct": 16.9,
+      "hs2": "16"
+    },
+    {
+      "hs4": "2005",
+      "name_cn": "其他调制或保藏蔬菜",
+      "name_en": "2005 - Vegetables preparations n.e.c.; prepared or preserved otherwise than by vinegar or acetic acid, not frozen, other than products of heading no. 2006",
+      "export_value_usd": 1707976.0,
+      "export_value_cny": 12163656.81,
+      "share_pct": 15.6,
+      "hs2": "20"
+    },
+    {
+      "hs4": "1704",
+      "name_cn": "糖食",
+      "name_en": "1704 - Sugar confectionery (including white chocolate), not containing cocoa",
+      "export_value_usd": 1066434.0,
+      "export_value_cny": 7594800.62,
+      "share_pct": 9.7,
+      "hs2": "17"
+    },
+    {
+      "hs4": "2008",
+      "name_cn": "其他调制或保藏水果、坚果及植物食用部分",
+      "name_en": "2008 - Fruit, nuts and other edible parts of plants; prepared or preserved in ways n.e.c., whether or not containing added sugar or other sweetening matter or spirit, not elsewhere specified or included",
+      "export_value_usd": 623103.0,
+      "export_value_cny": 4437539.55,
+      "share_pct": 5.7,
+      "hs2": "20"
+    },
+    {
+      "hs4": "1902",
+      "name_cn": "面食",
+      "name_en": "1902 - Pasta; whether or not cooked or stuffed with meat or other substance, or otherwise prepared, egg spaghetti, macaroni, noodles, lasagne, gnocchi, ravioli, cannelloni; couscous, whether or not prepared",
+      "export_value_usd": 491575.0,
+      "export_value_cny": 3500839.35,
+      "share_pct": 4.5,
+      "hs2": "19"
+    },
+    {
+      "hs4": "2002",
+      "name_cn": "调制或保藏番茄",
+      "name_en": "2002 - Tomatoes; prepared or preserved otherwise than by vinegar or acetic acid",
+      "export_value_usd": 378370.0,
+      "export_value_cny": 2694629.68,
+      "share_pct": 3.5,
+      "hs2": "20"
+    },
+    {
+      "hs4": "2106",
+      "name_cn": "其他食品调制品",
+      "name_en": "2106 - Food preparations not elsewhere specified or included",
+      "export_value_usd": 163871.0,
+      "export_value_cny": 1167036.66,
+      "share_pct": 1.5,
+      "hs2": "21"
+    },
+    {
+      "hs4": "2103",
+      "name_cn": "调味汁、调味品及芥子粉",
+      "name_en": "2103 - Sauces and preparations therefor; mixed condiments and mixed seasonings, mustard flour and meal and prepared mustard",
+      "export_value_usd": 128691.0,
+      "export_value_cny": 916495.99,
+      "share_pct": 1.2,
+      "hs2": "21"
+    },
+    {
+      "hs4": "2102",
+      "name_cn": "酵母及其他发酵粉",
+      "name_en": "2102 - Yeasts (active or inactive); other single-cell micro-organisms, dead (but not including vaccines of heading no. 3002); prepared baking powders",
+      "export_value_usd": 80580.0,
+      "export_value_cny": 573864.89,
+      "share_pct": 0.7,
+      "hs2": "21"
+    },
+    {
+      "hs4": "1905",
+      "name_cn": "面包、糕点、饼干等烘焙食品",
+      "name_en": "1905 - Bread, pastry, cakes, biscuits, other bakers' wares, whether or not containing cocoa; communion wafers, empty cachets suitable for pharmaceutical use, sealing wafers, rice paper and similar products",
+      "export_value_usd": 65160.0,
+      "export_value_cny": 464048.6,
+      "share_pct": 0.6,
+      "hs2": "19"
+    },
+    {
+      "hs4": "0710",
+      "name_cn": "冷冻蔬菜",
+      "name_en": "0710 - Vegetables (uncooked or cooked by steaming or boiling in water); frozen",
+      "export_value_usd": 47142.0,
+      "export_value_cny": 335730.19,
+      "share_pct": 0.4,
+      "hs2": "07"
+    },
+    {
+      "hs4": "1901",
+      "name_cn": "麦芽提取物及谷物、面粉等食品调制品",
+      "name_en": "1901 - Malt extract; flour/groats/meal/starch/malt extract products, no cocoa (or less than 40% by weight) and food preparations of goods of headings 04.01 to 04.04, no cocoa (or less than 5% by weight), weights calculated on a totally defatted basis, n.e.c.",
+      "export_value_usd": 34663.0,
+      "export_value_cny": 246858.76,
+      "share_pct": 0.3,
+      "hs2": "19"
+    },
+    {
+      "hs4": "0802",
+      "name_cn": "其他坚果",
+      "name_en": "0802 - Nuts (excluding coconuts, Brazils and cashew nuts); fresh or dried, whether or not shelled or peeled",
+      "export_value_usd": 34444.0,
+      "export_value_cny": 245299.11,
+      "share_pct": 0.3,
+      "hs2": "08"
+    },
+    {
+      "hs4": "0811",
+      "name_cn": "冷冻水果及坚果",
+      "name_en": "0811 - Fruit and nuts; uncooked or cooked by steaming or boiling in water, frozen, whether or not containing added sugar or other sweetening matter",
+      "export_value_usd": 31060.0,
+      "export_value_cny": 221199.35,
+      "share_pct": 0.3,
+      "hs2": "08"
+    },
+    {
+      "hs4": "0712",
+      "name_cn": "干制蔬菜",
+      "name_en": "0712 - Vegetables, dried; whole, cut, sliced, broken or in powder, but not further prepared",
+      "export_value_usd": 28300.0,
+      "export_value_cny": 201543.52,
+      "share_pct": 0.3,
+      "hs2": "07"
+    },
+    {
+      "hs4": "0701",
+      "name_cn": "马铃薯",
+      "name_en": "0701 - Potatoes; fresh or chilled",
+      "export_value_usd": 12702.0,
+      "export_value_cny": 90459.57,
+      "share_pct": 0.1,
+      "hs2": "07"
+    },
+    {
+      "hs4": "1701",
+      "name_cn": "原糖及精制糖",
+      "name_en": "1701 - Cane or beet sugar and chemically pure sucrose, in solid form",
+      "export_value_usd": 4567.0,
+      "export_value_cny": 32524.71,
+      "share_pct": 0.0,
+      "hs2": "17"
+    },
+    {
+      "hs4": "0904",
+      "name_cn": "胡椒、辣椒及甜椒",
+      "name_en": "0904 - Pepper of the genus piper; dried or crushed or ground fruits of the genus capsicum or of the genus pimenta",
+      "export_value_usd": 4456.0,
+      "export_value_cny": 31734.2,
+      "share_pct": 0.0,
+      "hs2": "09"
+    },
+    {
+      "hs4": "2105",
+      "name_cn": "冰淇淋及其他冰食",
+      "name_en": "2105 - Ice cream and other edible ice; whether or not containing cocoa",
+      "export_value_usd": 1875.0,
+      "export_value_cny": 13353.15,
+      "share_pct": 0.0,
+      "hs2": "21"
+    },
+    {
+      "hs4": "1202",
+      "name_cn": "花生",
+      "name_en": "1202 - Ground-nuts; not roasted or otherwise cooked, whether or not shelled or broken",
+      "export_value_usd": 1841.0,
+      "export_value_cny": 13111.01,
+      "share_pct": 0.0,
+      "hs2": "12"
+    },
+    {
+      "hs4": "0910",
+      "name_cn": "其他香辛料",
+      "name_en": "0910 - Ginger, saffron, tumeric (curcuma), thyme, bay leaves, curry and other spices",
+      "export_value_usd": 990.0,
+      "export_value_cny": 7050.46,
+      "share_pct": 0.0,
+      "hs2": "09"
+    },
+    {
+      "hs4": "2009",
+      "name_cn": "水果、坚果或蔬菜汁",
+      "name_en": "2009 - Fruit or nut juices (including grape must and coconut water) and vegetable juices, unfermented, not containing added spirit, whether or not containing added sugar or other sweetening matter",
+      "export_value_usd": 2.0,
+      "export_value_cny": 14.24,
+      "share_pct": 0.0,
+      "hs2": "20"
+    }
+  ]
+}

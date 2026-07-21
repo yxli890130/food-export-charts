@@ -1,0 +1,27 @@
+{
+  "year": 2024,
+  "partner_code": 64,
+  "partner_name": "不丹",
+  "total_export_value_usd": 48666.0,
+  "total_export_value_cny": 346583.63,
+  "hs4_products": [
+    {
+      "hs4": "1905",
+      "name_cn": "面包、糕点、饼干等烘焙食品",
+      "name_en": "1905 - Bread, pastry, cakes, biscuits, other bakers' wares, whether or not containing cocoa; communion wafers, empty cachets suitable for pharmaceutical use, sealing wafers, rice paper and similar products",
+      "export_value_usd": 37088.0,
+      "export_value_cny": 264128.83,
+      "share_pct": 76.2,
+      "hs2": "19"
+    },
+    {
+      "hs4": "1902",
+      "name_cn": "面食",
+      "name_en": "1902 - Pasta; whether or not cooked or stuffed with meat or other substance, or otherwise prepared, egg spaghetti, macaroni, noodles, lasagne, gnocchi, ravioli, cannelloni; couscous, whether or not prepared",
+      "export_value_usd": 11578.0,
+      "export_value_cny": 82454.8,
+      "share_pct": 23.8,
+      "hs2": "19"
+    }
+  ]
+}

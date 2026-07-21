@@ -1,0 +1,54 @@
+{
+  "year": 2024,
+  "partner_code": 60,
+  "partner_name": "CN60",
+  "total_export_value_usd": 471087.0,
+  "total_export_value_cny": 3354930.4,
+  "hs4_products": [
+    {
+      "hs4": "0305",
+      "name_cn": "干、盐腌、熏制或盐水浸渍鱼",
+      "name_en": "0305 - Fish, dried, salted or in brine; smoked fish, whether or not cooked before, or during the smoking process",
+      "export_value_usd": 390517.0,
+      "export_value_cny": 2781136.72,
+      "share_pct": 82.9,
+      "hs2": "03"
+    },
+    {
+      "hs4": "2106",
+      "name_cn": "其他食品调制品",
+      "name_en": "2106 - Food preparations not elsewhere specified or included",
+      "export_value_usd": 72321.0,
+      "export_value_cny": 515046.95,
+      "share_pct": 15.4,
+      "hs2": "21"
+    },
+    {
+      "hs4": "1704",
+      "name_cn": "糖食",
+      "name_en": "1704 - Sugar confectionery (including white chocolate), not containing cocoa",
+      "export_value_usd": 4538.0,
+      "export_value_cny": 32318.18,
+      "share_pct": 1.0,
+      "hs2": "17"
+    },
+    {
+      "hs4": "1905",
+      "name_cn": "面包、糕点、饼干等烘焙食品",
+      "name_en": "1905 - Bread, pastry, cakes, biscuits, other bakers' wares, whether or not containing cocoa; communion wafers, empty cachets suitable for pharmaceutical use, sealing wafers, rice paper and similar products",
+      "export_value_usd": 3245.0,
+      "export_value_cny": 23109.85,
+      "share_pct": 0.7,
+      "hs2": "19"
+    },
+    {
+      "hs4": "1904",
+      "name_cn": "谷物制品及膨化谷物食品",
+      "name_en": "1904 - Prepared foods obtained by swelling or roasting cereals or cereal products (e.g. corn flakes); cereals (other than maize (corn)) in grain form or in the form of flakes or other worked grains (not flour and meal), pre-cooked or otherwise prepared, n.e.c.",
+      "export_value_usd": 466.0,
+      "export_value_cny": 3318.7,
+      "share_pct": 0.1,
+      "hs2": "19"
+    }
+  ]
+}

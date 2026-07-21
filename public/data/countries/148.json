@@ -1,0 +1,90 @@
+{
+  "year": 2024,
+  "partner_code": 148,
+  "partner_name": "乍得",
+  "total_export_value_usd": 10920244.0,
+  "total_export_value_cny": 77770472.37,
+  "hs4_products": [
+    {
+      "hs4": "0902",
+      "name_cn": "茶",
+      "name_en": "0902 - Tea",
+      "export_value_usd": 7859669.0,
+      "export_value_cny": 55974039.66,
+      "share_pct": 72.0,
+      "hs2": "09"
+    },
+    {
+      "hs4": "1006",
+      "name_cn": "稻米",
+      "name_en": "1006 - Rice",
+      "export_value_usd": 1453543.0,
+      "export_value_cny": 10351666.66,
+      "share_pct": 13.3,
+      "hs2": "10"
+    },
+    {
+      "hs4": "2106",
+      "name_cn": "其他食品调制品",
+      "name_en": "2106 - Food preparations not elsewhere specified or included",
+      "export_value_usd": 822368.0,
+      "export_value_cny": 5856640.92,
+      "share_pct": 7.5,
+      "hs2": "21"
+    },
+    {
+      "hs4": "0906",
+      "name_cn": "肉桂",
+      "name_en": "0906 - Cinnamon and cinnamon-tree flowers",
+      "export_value_usd": 378198.0,
+      "export_value_cny": 2693404.75,
+      "share_pct": 3.5,
+      "hs2": "09"
+    },
+    {
+      "hs4": "1604",
+      "name_cn": "调制或保藏鱼；鱼子酱",
+      "name_en": "1604 - Prepared or preserved fish; caviar and caviar substitutes prepared from fish eggs",
+      "export_value_usd": 201056.0,
+      "export_value_cny": 1431856.29,
+      "share_pct": 1.8,
+      "hs2": "16"
+    },
+    {
+      "hs4": "2102",
+      "name_cn": "酵母及其他发酵粉",
+      "name_en": "2102 - Yeasts (active or inactive); other single-cell micro-organisms, dead (but not including vaccines of heading no. 3002); prepared baking powders",
+      "export_value_usd": 107586.0,
+      "export_value_cny": 766192.96,
+      "share_pct": 1.0,
+      "hs2": "21"
+    },
+    {
+      "hs4": "1211",
+      "name_cn": "药用、香料及杀虫等用植物",
+      "name_en": "1211 - Plants and parts of plants (including seeds and fruits), of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered",
+      "export_value_usd": 81932.0,
+      "export_value_cny": 583493.4,
+      "share_pct": 0.8,
+      "hs2": "12"
+    },
+    {
+      "hs4": "0907",
+      "name_cn": "丁香",
+      "name_en": "0907 - Cloves (whole fruit, cloves and stems)",
+      "export_value_usd": 15888.0,
+      "export_value_cny": 113149.24,
+      "share_pct": 0.1,
+      "hs2": "09"
+    },
+    {
+      "hs4": "2002",
+      "name_cn": "调制或保藏番茄",
+      "name_en": "2002 - Tomatoes; prepared or preserved otherwise than by vinegar or acetic acid",
+      "export_value_usd": 4.0,
+      "export_value_cny": 28.49,
+      "share_pct": 0.0,
+      "hs2": "20"
+    }
+  ]
+}

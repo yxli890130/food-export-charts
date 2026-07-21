@@ -1,0 +1,90 @@
+{
+  "year": 2024,
+  "partner_code": 174,
+  "partner_name": "科摩罗",
+  "total_export_value_usd": 2004417.0,
+  "total_export_value_cny": 14274814.46,
+  "hs4_products": [
+    {
+      "hs4": "2002",
+      "name_cn": "调制或保藏番茄",
+      "name_en": "2002 - Tomatoes; prepared or preserved otherwise than by vinegar or acetic acid",
+      "export_value_usd": 716705.0,
+      "export_value_cny": 5104142.95,
+      "share_pct": 35.8,
+      "hs2": "20"
+    },
+    {
+      "hs4": "0303",
+      "name_cn": "冷冻的非鱼片鱼类",
+      "name_en": "0303 - Fish; frozen, excluding fish fillets and other fish meat of heading 0304",
+      "export_value_usd": 374049.0,
+      "export_value_cny": 2663856.91,
+      "share_pct": 18.7,
+      "hs2": "03"
+    },
+    {
+      "hs4": "1905",
+      "name_cn": "面包、糕点、饼干等烘焙食品",
+      "name_en": "1905 - Bread, pastry, cakes, biscuits, other bakers' wares, whether or not containing cocoa; communion wafers, empty cachets suitable for pharmaceutical use, sealing wafers, rice paper and similar products",
+      "export_value_usd": 353332.0,
+      "export_value_cny": 2516317.08,
+      "share_pct": 17.6,
+      "hs2": "19"
+    },
+    {
+      "hs4": "2102",
+      "name_cn": "酵母及其他发酵粉",
+      "name_en": "2102 - Yeasts (active or inactive); other single-cell micro-organisms, dead (but not including vaccines of heading no. 3002); prepared baking powders",
+      "export_value_usd": 331580.0,
+      "export_value_cny": 2361406.32,
+      "share_pct": 16.5,
+      "hs2": "21"
+    },
+    {
+      "hs4": "0703",
+      "name_cn": "洋葱、青葱、大蒜及其他葱属蔬菜",
+      "name_en": "0703 - Onions, shallots, garlic, leeks and other alliaceous vegetables; fresh or chilled",
+      "export_value_usd": 75700.0,
+      "export_value_cny": 539111.1,
+      "share_pct": 3.8,
+      "hs2": "07"
+    },
+    {
+      "hs4": "1704",
+      "name_cn": "糖食",
+      "name_en": "1704 - Sugar confectionery (including white chocolate), not containing cocoa",
+      "export_value_usd": 73517.0,
+      "export_value_cny": 523564.48,
+      "share_pct": 3.7,
+      "hs2": "17"
+    },
+    {
+      "hs4": "1904",
+      "name_cn": "谷物制品及膨化谷物食品",
+      "name_en": "1904 - Prepared foods obtained by swelling or roasting cereals or cereal products (e.g. corn flakes); cereals (other than maize (corn)) in grain form or in the form of flakes or other worked grains (not flour and meal), pre-cooked or otherwise prepared, n.e.c.",
+      "export_value_usd": 49230.0,
+      "export_value_cny": 350600.26,
+      "share_pct": 2.5,
+      "hs2": "19"
+    },
+    {
+      "hs4": "2103",
+      "name_cn": "调味汁、调味品及芥子粉",
+      "name_en": "2103 - Sauces and preparations therefor; mixed condiments and mixed seasonings, mustard flour and meal and prepared mustard",
+      "export_value_usd": 16568.0,
+      "export_value_cny": 117991.98,
+      "share_pct": 0.8,
+      "hs2": "21"
+    },
+    {
+      "hs4": "2005",
+      "name_cn": "其他调制或保藏蔬菜",
+      "name_en": "2005 - Vegetables preparations n.e.c.; prepared or preserved otherwise than by vinegar or acetic acid, not frozen, other than products of heading no. 2006",
+      "export_value_usd": 13736.0,
+      "export_value_cny": 97823.38,
+      "share_pct": 0.7,
+      "hs2": "20"
+    }
+  ]
+}

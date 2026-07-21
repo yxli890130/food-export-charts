@@ -1,0 +1,189 @@
+{
+  "year": 2024,
+  "partner_code": 52,
+  "partner_name": "巴巴多斯",
+  "total_export_value_usd": 3955098.0,
+  "total_export_value_cny": 28166938.37,
+  "hs4_products": [
+    {
+      "hs4": "0303",
+      "name_cn": "冷冻的非鱼片鱼类",
+      "name_en": "0303 - Fish; frozen, excluding fish fillets and other fish meat of heading 0304",
+      "export_value_usd": 1336383.0,
+      "export_value_cny": 9517290.75,
+      "share_pct": 33.8,
+      "hs2": "03"
+    },
+    {
+      "hs4": "0305",
+      "name_cn": "干、盐腌、熏制或盐水浸渍鱼",
+      "name_en": "0305 - Fish, dried, salted or in brine; smoked fish, whether or not cooked before, or during the smoking process",
+      "export_value_usd": 817189.0,
+      "export_value_cny": 5819757.74,
+      "share_pct": 20.7,
+      "hs2": "03"
+    },
+    {
+      "hs4": "0703",
+      "name_cn": "洋葱、青葱、大蒜及其他葱属蔬菜",
+      "name_en": "0703 - Onions, shallots, garlic, leeks and other alliaceous vegetables; fresh or chilled",
+      "export_value_usd": 420135.0,
+      "export_value_cny": 2992066.61,
+      "share_pct": 10.6,
+      "hs2": "07"
+    },
+    {
+      "hs4": "1604",
+      "name_cn": "调制或保藏鱼；鱼子酱",
+      "name_en": "1604 - Prepared or preserved fish; caviar and caviar substitutes prepared from fish eggs",
+      "export_value_usd": 372485.0,
+      "export_value_cny": 2652718.6,
+      "share_pct": 9.4,
+      "hs2": "16"
+    },
+    {
+      "hs4": "2106",
+      "name_cn": "其他食品调制品",
+      "name_en": "2106 - Food preparations not elsewhere specified or included",
+      "export_value_usd": 222142.0,
+      "export_value_cny": 1582024.02,
+      "share_pct": 5.6,
+      "hs2": "21"
+    },
+    {
+      "hs4": "2005",
+      "name_cn": "其他调制或保藏蔬菜",
+      "name_en": "2005 - Vegetables preparations n.e.c.; prepared or preserved otherwise than by vinegar or acetic acid, not frozen, other than products of heading no. 2006",
+      "export_value_usd": 205922.0,
+      "export_value_cny": 1466510.38,
+      "share_pct": 5.2,
+      "hs2": "20"
+    },
+    {
+      "hs4": "1902",
+      "name_cn": "面食",
+      "name_en": "1902 - Pasta; whether or not cooked or stuffed with meat or other substance, or otherwise prepared, egg spaghetti, macaroni, noodles, lasagne, gnocchi, ravioli, cannelloni; couscous, whether or not prepared",
+      "export_value_usd": 156286.0,
+      "export_value_cny": 1113018.72,
+      "share_pct": 4.0,
+      "hs2": "19"
+    },
+    {
+      "hs4": "0712",
+      "name_cn": "干制蔬菜",
+      "name_en": "0712 - Vegetables, dried; whole, cut, sliced, broken or in powder, but not further prepared",
+      "export_value_usd": 101529.0,
+      "export_value_cny": 723056.95,
+      "share_pct": 2.6,
+      "hs2": "07"
+    },
+    {
+      "hs4": "2102",
+      "name_cn": "酵母及其他发酵粉",
+      "name_en": "2102 - Yeasts (active or inactive); other single-cell micro-organisms, dead (but not including vaccines of heading no. 3002); prepared baking powders",
+      "export_value_usd": 82824.0,
+      "export_value_cny": 589845.94,
+      "share_pct": 2.1,
+      "hs2": "21"
+    },
+    {
+      "hs4": "0304",
+      "name_cn": "鱼片及其他鱼肉",
+      "name_en": "0304 - Fish fillets and other fish meat (whether or not minced); fresh, chilled or frozen",
+      "export_value_usd": 82632.0,
+      "export_value_cny": 588478.58,
+      "share_pct": 2.1,
+      "hs2": "03"
+    },
+    {
+      "hs4": "0207",
+      "name_cn": "禽肉",
+      "name_en": "0207 - Meat and edible offal of poultry; of the poultry of heading no. 0105, (i.e. fowls of the species Gallus domesticus), fresh, chilled or frozen",
+      "export_value_usd": 47166.0,
+      "export_value_cny": 335901.11,
+      "share_pct": 1.2,
+      "hs2": "02"
+    },
+    {
+      "hs4": "0904",
+      "name_cn": "胡椒、辣椒及甜椒",
+      "name_en": "0904 - Pepper of the genus piper; dried or crushed or ground fruits of the genus capsicum or of the genus pimenta",
+      "export_value_usd": 37235.0,
+      "export_value_cny": 265175.72,
+      "share_pct": 0.9,
+      "hs2": "09"
+    },
+    {
+      "hs4": "2008",
+      "name_cn": "其他调制或保藏水果、坚果及植物食用部分",
+      "name_en": "2008 - Fruit, nuts and other edible parts of plants; prepared or preserved in ways n.e.c., whether or not containing added sugar or other sweetening matter or spirit, not elsewhere specified or included",
+      "export_value_usd": 26600.0,
+      "export_value_cny": 189436.66,
+      "share_pct": 0.7,
+      "hs2": "20"
+    },
+    {
+      "hs4": "1207",
+      "name_cn": "其他含油子仁及果实",
+      "name_en": "1207 - Oil seeds and oleaginous fruits, n.e.c. in chapter 12; whether or not broken",
+      "export_value_usd": 14295.0,
+      "export_value_cny": 101804.4,
+      "share_pct": 0.4,
+      "hs2": "12"
+    },
+    {
+      "hs4": "1704",
+      "name_cn": "糖食",
+      "name_en": "1704 - Sugar confectionery (including white chocolate), not containing cocoa",
+      "export_value_usd": 13906.0,
+      "export_value_cny": 99034.07,
+      "share_pct": 0.4,
+      "hs2": "17"
+    },
+    {
+      "hs4": "1209",
+      "name_cn": "播种用种子、果实及孢子",
+      "name_en": "1209 - Seeds, fruit and spores; of a kind used for sowing",
+      "export_value_usd": 7455.0,
+      "export_value_cny": 53092.12,
+      "share_pct": 0.2,
+      "hs2": "12"
+    },
+    {
+      "hs4": "1702",
+      "name_cn": "其他糖及糖浆",
+      "name_en": "1702 - Sugars, including lactose, maltose, glucose or fructose in solid form; sugar syrups without added flavouring or colouring matter; artificial honey, whether or not mixed with natural honey; caramel",
+      "export_value_usd": 4314.0,
+      "export_value_cny": 30722.92,
+      "share_pct": 0.1,
+      "hs2": "17"
+    },
+    {
+      "hs4": "0910",
+      "name_cn": "其他香辛料",
+      "name_en": "0910 - Ginger, saffron, tumeric (curcuma), thyme, bay leaves, curry and other spices",
+      "export_value_usd": 3520.0,
+      "export_value_cny": 25068.31,
+      "share_pct": 0.1,
+      "hs2": "09"
+    },
+    {
+      "hs4": "0409",
+      "name_cn": "天然蜂蜜",
+      "name_en": "0409 - Honey; natural",
+      "export_value_usd": 2880.0,
+      "export_value_cny": 20510.44,
+      "share_pct": 0.1,
+      "hs2": "04"
+    },
+    {
+      "hs4": "2007",
+      "name_cn": "果酱、果冻、果泥及果糊",
+      "name_en": "2007 - Jams, fruit jellies, marmalades, fruit or nut puree and fruit or nut pastes, being cooked preparations; whether or not containing added sugar or other sweetening matter",
+      "export_value_usd": 200.0,
+      "export_value_cny": 1424.34,
+      "share_pct": 0.0,
+      "hs2": "20"
+    }
+  ]
+}

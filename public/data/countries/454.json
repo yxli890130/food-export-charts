@@ -1,0 +1,27 @@
+{
+  "year": 2024,
+  "partner_code": 454,
+  "partner_name": "马拉维",
+  "total_export_value_usd": 1787320.0,
+  "total_export_value_cny": 12728719.31,
+  "hs4_products": [
+    {
+      "hs4": "1006",
+      "name_cn": "稻米",
+      "name_en": "1006 - Rice",
+      "export_value_usd": 1709488.0,
+      "export_value_cny": 12174424.79,
+      "share_pct": 95.6,
+      "hs2": "10"
+    },
+    {
+      "hs4": "2102",
+      "name_cn": "酵母及其他发酵粉",
+      "name_en": "2102 - Yeasts (active or inactive); other single-cell micro-organisms, dead (but not including vaccines of heading no. 3002); prepared baking powders",
+      "export_value_usd": 77832.0,
+      "export_value_cny": 554294.52,
+      "share_pct": 4.4,
+      "hs2": "21"
+    }
+  ]
+}

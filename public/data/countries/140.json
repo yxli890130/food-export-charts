@@ -1,0 +1,54 @@
+{
+  "year": 2024,
+  "partner_code": 140,
+  "partner_name": "CN140",
+  "total_export_value_usd": 683586.0,
+  "total_export_value_cny": 4868280.06,
+  "hs4_products": [
+    {
+      "hs4": "0303",
+      "name_cn": "冷冻的非鱼片鱼类",
+      "name_en": "0303 - Fish; frozen, excluding fish fillets and other fish meat of heading 0304",
+      "export_value_usd": 538399.0,
+      "export_value_cny": 3834304.85,
+      "share_pct": 78.8,
+      "hs2": "03"
+    },
+    {
+      "hs4": "2002",
+      "name_cn": "调制或保藏番茄",
+      "name_en": "2002 - Tomatoes; prepared or preserved otherwise than by vinegar or acetic acid",
+      "export_value_usd": 60684.0,
+      "export_value_cny": 432171.97,
+      "share_pct": 8.9,
+      "hs2": "20"
+    },
+    {
+      "hs4": "0207",
+      "name_cn": "禽肉",
+      "name_en": "0207 - Meat and edible offal of poultry; of the poultry of heading no. 0105, (i.e. fowls of the species Gallus domesticus), fresh, chilled or frozen",
+      "export_value_usd": 40500.0,
+      "export_value_cny": 288428.0,
+      "share_pct": 5.9,
+      "hs2": "02"
+    },
+    {
+      "hs4": "2106",
+      "name_cn": "其他食品调制品",
+      "name_en": "2106 - Food preparations not elsewhere specified or included",
+      "export_value_usd": 33003.0,
+      "export_value_cny": 235036.77,
+      "share_pct": 4.8,
+      "hs2": "21"
+    },
+    {
+      "hs4": "0902",
+      "name_cn": "茶",
+      "name_en": "0902 - Tea",
+      "export_value_usd": 11000.0,
+      "export_value_cny": 78338.47,
+      "share_pct": 1.6,
+      "hs2": "09"
+    }
+  ]
+}

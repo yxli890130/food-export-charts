@@ -1,0 +1,90 @@
+{
+  "year": 2024,
+  "partner_code": 275,
+  "partner_name": "CN275",
+  "total_export_value_usd": 5070552.0,
+  "total_export_value_cny": 36110843.7,
+  "hs4_products": [
+    {
+      "hs4": "1704",
+      "name_cn": "糖食",
+      "name_en": "1704 - Sugar confectionery (including white chocolate), not containing cocoa",
+      "export_value_usd": 2012626.0,
+      "export_value_cny": 14333276.32,
+      "share_pct": 39.7,
+      "hs2": "17"
+    },
+    {
+      "hs4": "2003",
+      "name_cn": "调制或保藏食用菌",
+      "name_en": "2003 - Mushrooms and truffles, prepared or preserved other than by vinegar or acetic acid",
+      "export_value_usd": 1045682.0,
+      "export_value_cny": 7447011.54,
+      "share_pct": 20.6,
+      "hs2": "20"
+    },
+    {
+      "hs4": "2008",
+      "name_cn": "其他调制或保藏水果、坚果及植物食用部分",
+      "name_en": "2008 - Fruit, nuts and other edible parts of plants; prepared or preserved in ways n.e.c., whether or not containing added sugar or other sweetening matter or spirit, not elsewhere specified or included",
+      "export_value_usd": 859085.0,
+      "export_value_cny": 6118127.6,
+      "share_pct": 16.9,
+      "hs2": "20"
+    },
+    {
+      "hs4": "2102",
+      "name_cn": "酵母及其他发酵粉",
+      "name_en": "2102 - Yeasts (active or inactive); other single-cell micro-organisms, dead (but not including vaccines of heading no. 3002); prepared baking powders",
+      "export_value_usd": 295201.0,
+      "export_value_cny": 2102326.76,
+      "share_pct": 5.8,
+      "hs2": "21"
+    },
+    {
+      "hs4": "2005",
+      "name_cn": "其他调制或保藏蔬菜",
+      "name_en": "2005 - Vegetables preparations n.e.c.; prepared or preserved otherwise than by vinegar or acetic acid, not frozen, other than products of heading no. 2006",
+      "export_value_usd": 289828.0,
+      "export_value_cny": 2064061.98,
+      "share_pct": 5.7,
+      "hs2": "20"
+    },
+    {
+      "hs4": "1604",
+      "name_cn": "调制或保藏鱼；鱼子酱",
+      "name_en": "1604 - Prepared or preserved fish; caviar and caviar substitutes prepared from fish eggs",
+      "export_value_usd": 209011.0,
+      "export_value_cny": 1488509.25,
+      "share_pct": 4.1,
+      "hs2": "16"
+    },
+    {
+      "hs4": "1905",
+      "name_cn": "面包、糕点、饼干等烘焙食品",
+      "name_en": "1905 - Bread, pastry, cakes, biscuits, other bakers' wares, whether or not containing cocoa; communion wafers, empty cachets suitable for pharmaceutical use, sealing wafers, rice paper and similar products",
+      "export_value_usd": 173329.0,
+      "export_value_cny": 1234393.5,
+      "share_pct": 3.4,
+      "hs2": "19"
+    },
+    {
+      "hs4": "1904",
+      "name_cn": "谷物制品及膨化谷物食品",
+      "name_en": "1904 - Prepared foods obtained by swelling or roasting cereals or cereal products (e.g. corn flakes); cereals (other than maize (corn)) in grain form or in the form of flakes or other worked grains (not flour and meal), pre-cooked or otherwise prepared, n.e.c.",
+      "export_value_usd": 134839.0,
+      "export_value_cny": 960280.07,
+      "share_pct": 2.7,
+      "hs2": "19"
+    },
+    {
+      "hs4": "2002",
+      "name_cn": "调制或保藏番茄",
+      "name_en": "2002 - Tomatoes; prepared or preserved otherwise than by vinegar or acetic acid",
+      "export_value_usd": 50951.0,
+      "export_value_cny": 362856.67,
+      "share_pct": 1.0,
+      "hs2": "20"
+    }
+  ]
+}

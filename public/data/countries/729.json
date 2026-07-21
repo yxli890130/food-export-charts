@@ -1,0 +1,153 @@
+{
+  "year": 2024,
+  "partner_code": 729,
+  "partner_name": "苏丹",
+  "total_export_value_usd": 44295178.0,
+  "total_export_value_cny": 315456038.96,
+  "hs4_products": [
+    {
+      "hs4": "2102",
+      "name_cn": "酵母及其他发酵粉",
+      "name_en": "2102 - Yeasts (active or inactive); other single-cell micro-organisms, dead (but not including vaccines of heading no. 3002); prepared baking powders",
+      "export_value_usd": 25595431.0,
+      "export_value_cny": 182282443.45,
+      "share_pct": 57.8,
+      "hs2": "21"
+    },
+    {
+      "hs4": "1006",
+      "name_cn": "稻米",
+      "name_en": "1006 - Rice",
+      "export_value_usd": 9027304.0,
+      "export_value_cny": 64289561.32,
+      "share_pct": 20.4,
+      "hs2": "10"
+    },
+    {
+      "hs4": "1704",
+      "name_cn": "糖食",
+      "name_en": "1704 - Sugar confectionery (including white chocolate), not containing cocoa",
+      "export_value_usd": 2573053.0,
+      "export_value_cny": 18324457.52,
+      "share_pct": 5.8,
+      "hs2": "17"
+    },
+    {
+      "hs4": "0910",
+      "name_cn": "其他香辛料",
+      "name_en": "0910 - Ginger, saffron, tumeric (curcuma), thyme, bay leaves, curry and other spices",
+      "export_value_usd": 1808180.0,
+      "export_value_cny": 12877277.53,
+      "share_pct": 4.1,
+      "hs2": "09"
+    },
+    {
+      "hs4": "1211",
+      "name_cn": "药用、香料及杀虫等用植物",
+      "name_en": "1211 - Plants and parts of plants (including seeds and fruits), of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered",
+      "export_value_usd": 1408804.0,
+      "export_value_cny": 10033049.86,
+      "share_pct": 3.2,
+      "hs2": "12"
+    },
+    {
+      "hs4": "0906",
+      "name_cn": "肉桂",
+      "name_en": "0906 - Cinnamon and cinnamon-tree flowers",
+      "export_value_usd": 1393307.0,
+      "export_value_cny": 9922685.2,
+      "share_pct": 3.1,
+      "hs2": "09"
+    },
+    {
+      "hs4": "2002",
+      "name_cn": "调制或保藏番茄",
+      "name_en": "2002 - Tomatoes; prepared or preserved otherwise than by vinegar or acetic acid",
+      "export_value_usd": 1299499.0,
+      "export_value_cny": 9254614.74,
+      "share_pct": 2.9,
+      "hs2": "20"
+    },
+    {
+      "hs4": "2106",
+      "name_cn": "其他食品调制品",
+      "name_en": "2106 - Food preparations not elsewhere specified or included",
+      "export_value_usd": 739376.0,
+      "export_value_cny": 5265598.53,
+      "share_pct": 1.7,
+      "hs2": "21"
+    },
+    {
+      "hs4": "1901",
+      "name_cn": "麦芽提取物及谷物、面粉等食品调制品",
+      "name_en": "1901 - Malt extract; flour/groats/meal/starch/malt extract products, no cocoa (or less than 40% by weight) and food preparations of goods of headings 04.01 to 04.04, no cocoa (or less than 5% by weight), weights calculated on a totally defatted basis, n.e.c.",
+      "export_value_usd": 159755.0,
+      "export_value_cny": 1137723.83,
+      "share_pct": 0.4,
+      "hs2": "19"
+    },
+    {
+      "hs4": "0712",
+      "name_cn": "干制蔬菜",
+      "name_en": "0712 - Vegetables, dried; whole, cut, sliced, broken or in powder, but not further prepared",
+      "export_value_usd": 61600.0,
+      "export_value_cny": 438695.43,
+      "share_pct": 0.1,
+      "hs2": "07"
+    },
+    {
+      "hs4": "1604",
+      "name_cn": "调制或保藏鱼；鱼子酱",
+      "name_en": "1604 - Prepared or preserved fish; caviar and caviar substitutes prepared from fish eggs",
+      "export_value_usd": 51250.0,
+      "export_value_cny": 364986.05,
+      "share_pct": 0.1,
+      "hs2": "16"
+    },
+    {
+      "hs4": "0703",
+      "name_cn": "洋葱、青葱、大蒜及其他葱属蔬菜",
+      "name_en": "0703 - Onions, shallots, garlic, leeks and other alliaceous vegetables; fresh or chilled",
+      "export_value_usd": 50475.0,
+      "export_value_cny": 359466.75,
+      "share_pct": 0.1,
+      "hs2": "07"
+    },
+    {
+      "hs4": "0303",
+      "name_cn": "冷冻的非鱼片鱼类",
+      "name_en": "0303 - Fish; frozen, excluding fish fillets and other fish meat of heading 0304",
+      "export_value_usd": 39558.0,
+      "export_value_cny": 281719.38,
+      "share_pct": 0.1,
+      "hs2": "03"
+    },
+    {
+      "hs4": "2103",
+      "name_cn": "调味汁、调味品及芥子粉",
+      "name_en": "2103 - Sauces and preparations therefor; mixed condiments and mixed seasonings, mustard flour and meal and prepared mustard",
+      "export_value_usd": 33377.0,
+      "export_value_cny": 237700.28,
+      "share_pct": 0.1,
+      "hs2": "21"
+    },
+    {
+      "hs4": "1212",
+      "name_cn": "角豆、海藻及其他食用植物产品",
+      "name_en": "1212 - Locust beans, seaweeds and other algae, sugar beet, sugar cane, fresh, chilled, frozen or dried, whether or not ground; fruit stones, kernels and other vegetable products (including unroasted chicory roots) used primarily for human consumption, n.e.c.",
+      "export_value_usd": 32254.0,
+      "export_value_cny": 229702.63,
+      "share_pct": 0.1,
+      "hs2": "12"
+    },
+    {
+      "hs4": "1902",
+      "name_cn": "面食",
+      "name_en": "1902 - Pasta; whether or not cooked or stuffed with meat or other substance, or otherwise prepared, egg spaghetti, macaroni, noodles, lasagne, gnocchi, ravioli, cannelloni; couscous, whether or not prepared",
+      "export_value_usd": 21955.0,
+      "export_value_cny": 156356.46,
+      "share_pct": 0.0,
+      "hs2": "19"
+    }
+  ]
+}

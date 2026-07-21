@@ -1,0 +1,126 @@
+{
+  "year": 2024,
+  "partner_code": 646,
+  "partner_name": "卢旺达",
+  "total_export_value_usd": 91053405.0,
+  "total_export_value_cny": 648453122.27,
+  "hs4_products": [
+    {
+      "hs4": "0303",
+      "name_cn": "冷冻的非鱼片鱼类",
+      "name_en": "0303 - Fish; frozen, excluding fish fillets and other fish meat of heading 0304",
+      "export_value_usd": 82770101.0,
+      "export_value_cny": 589462090.12,
+      "share_pct": 90.9,
+      "hs2": "03"
+    },
+    {
+      "hs4": "1604",
+      "name_cn": "调制或保藏鱼；鱼子酱",
+      "name_en": "1604 - Prepared or preserved fish; caviar and caviar substitutes prepared from fish eggs",
+      "export_value_usd": 5032161.0,
+      "export_value_cny": 35837435.32,
+      "share_pct": 5.5,
+      "hs2": "16"
+    },
+    {
+      "hs4": "2002",
+      "name_cn": "调制或保藏番茄",
+      "name_en": "2002 - Tomatoes; prepared or preserved otherwise than by vinegar or acetic acid",
+      "export_value_usd": 2257871.0,
+      "export_value_cny": 16079832.49,
+      "share_pct": 2.5,
+      "hs2": "20"
+    },
+    {
+      "hs4": "2103",
+      "name_cn": "调味汁、调味品及芥子粉",
+      "name_en": "2103 - Sauces and preparations therefor; mixed condiments and mixed seasonings, mustard flour and meal and prepared mustard",
+      "export_value_usd": 546681.0,
+      "export_value_cny": 3893286.6,
+      "share_pct": 0.6,
+      "hs2": "21"
+    },
+    {
+      "hs4": "2106",
+      "name_cn": "其他食品调制品",
+      "name_en": "2106 - Food preparations not elsewhere specified or included",
+      "export_value_usd": 237470.0,
+      "export_value_cny": 1691185.11,
+      "share_pct": 0.3,
+      "hs2": "21"
+    },
+    {
+      "hs4": "1901",
+      "name_cn": "麦芽提取物及谷物、面粉等食品调制品",
+      "name_en": "1901 - Malt extract; flour/groats/meal/starch/malt extract products, no cocoa (or less than 40% by weight) and food preparations of goods of headings 04.01 to 04.04, no cocoa (or less than 5% by weight), weights calculated on a totally defatted basis, n.e.c.",
+      "export_value_usd": 84959.0,
+      "export_value_cny": 605050.73,
+      "share_pct": 0.1,
+      "hs2": "19"
+    },
+    {
+      "hs4": "1704",
+      "name_cn": "糖食",
+      "name_en": "1704 - Sugar confectionery (including white chocolate), not containing cocoa",
+      "export_value_usd": 51156.0,
+      "export_value_cny": 364316.61,
+      "share_pct": 0.1,
+      "hs2": "17"
+    },
+    {
+      "hs4": "0207",
+      "name_cn": "禽肉",
+      "name_en": "0207 - Meat and edible offal of poultry; of the poultry of heading no. 0105, (i.e. fowls of the species Gallus domesticus), fresh, chilled or frozen",
+      "export_value_usd": 32731.0,
+      "export_value_cny": 233099.68,
+      "share_pct": 0.0,
+      "hs2": "02"
+    },
+    {
+      "hs4": "1904",
+      "name_cn": "谷物制品及膨化谷物食品",
+      "name_en": "1904 - Prepared foods obtained by swelling or roasting cereals or cereal products (e.g. corn flakes); cereals (other than maize (corn)) in grain form or in the form of flakes or other worked grains (not flour and meal), pre-cooked or otherwise prepared, n.e.c.",
+      "export_value_usd": 32528.0,
+      "export_value_cny": 231653.97,
+      "share_pct": 0.0,
+      "hs2": "19"
+    },
+    {
+      "hs4": "2102",
+      "name_cn": "酵母及其他发酵粉",
+      "name_en": "2102 - Yeasts (active or inactive); other single-cell micro-organisms, dead (but not including vaccines of heading no. 3002); prepared baking powders",
+      "export_value_usd": 5100.0,
+      "export_value_cny": 36320.56,
+      "share_pct": 0.0,
+      "hs2": "21"
+    },
+    {
+      "hs4": "1209",
+      "name_cn": "播种用种子、果实及孢子",
+      "name_en": "1209 - Seeds, fruit and spores; of a kind used for sowing",
+      "export_value_usd": 2541.0,
+      "export_value_cny": 18096.19,
+      "share_pct": 0.0,
+      "hs2": "12"
+    },
+    {
+      "hs4": "1905",
+      "name_cn": "面包、糕点、饼干等烘焙食品",
+      "name_en": "1905 - Bread, pastry, cakes, biscuits, other bakers' wares, whether or not containing cocoa; communion wafers, empty cachets suitable for pharmaceutical use, sealing wafers, rice paper and similar products",
+      "export_value_usd": 60.0,
+      "export_value_cny": 427.3,
+      "share_pct": 0.0,
+      "hs2": "19"
+    },
+    {
+      "hs4": "1602",
+      "name_cn": "其他调制或保藏肉、杂碎或血",
+      "name_en": "1602 - Prepared or preserved meat, meat offal, blood or insects",
+      "export_value_usd": 46.0,
+      "export_value_cny": 327.6,
+      "share_pct": 0.0,
+      "hs2": "16"
+    }
+  ]
+}

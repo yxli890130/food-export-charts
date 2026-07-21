@@ -1,0 +1,54 @@
+{
+  "year": 2024,
+  "partner_code": 678,
+  "partner_name": "圣多美和普林西比",
+  "total_export_value_usd": 824339.0,
+  "total_export_value_cny": 5870677.75,
+  "hs4_products": [
+    {
+      "hs4": "1006",
+      "name_cn": "稻米",
+      "name_en": "1006 - Rice",
+      "export_value_usd": 528363.0,
+      "export_value_cny": 3762831.68,
+      "share_pct": 64.1,
+      "hs2": "10"
+    },
+    {
+      "hs4": "0703",
+      "name_cn": "洋葱、青葱、大蒜及其他葱属蔬菜",
+      "name_en": "0703 - Onions, shallots, garlic, leeks and other alliaceous vegetables; fresh or chilled",
+      "export_value_usd": 229467.0,
+      "export_value_cny": 1634190.32,
+      "share_pct": 27.8,
+      "hs2": "07"
+    },
+    {
+      "hs4": "2002",
+      "name_cn": "调制或保藏番茄",
+      "name_en": "2002 - Tomatoes; prepared or preserved otherwise than by vinegar or acetic acid",
+      "export_value_usd": 52756.0,
+      "export_value_cny": 375711.3,
+      "share_pct": 6.4,
+      "hs2": "20"
+    },
+    {
+      "hs4": "1202",
+      "name_cn": "花生",
+      "name_en": "1202 - Ground-nuts; not roasted or otherwise cooked, whether or not shelled or broken",
+      "export_value_usd": 9160.0,
+      "export_value_cny": 65234.58,
+      "share_pct": 1.1,
+      "hs2": "12"
+    },
+    {
+      "hs4": "0909",
+      "name_cn": "孜然、茴香等香辛料种子",
+      "name_en": "0909 - Seeds of anise, badian, fennel, coriander, cumin, caraway or juniper",
+      "export_value_usd": 4593.0,
+      "export_value_cny": 32709.87,
+      "share_pct": 0.6,
+      "hs2": "09"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "year": 2024,
+  "partner_code": 92,
+  "partner_name": "CN92",
+  "total_export_value_usd": 38389.0,
+  "total_export_value_cny": 273394.14,
+  "hs4_products": [
+    {
+      "hs4": "2106",
+      "name_cn": "其他食品调制品",
+      "name_en": "2106 - Food preparations not elsewhere specified or included",
+      "export_value_usd": 36167.0,
+      "export_value_cny": 257569.76,
+      "share_pct": 94.2,
+      "hs2": "21"
+    },
+    {
+      "hs4": "1902",
+      "name_cn": "面食",
+      "name_en": "1902 - Pasta; whether or not cooked or stuffed with meat or other substance, or otherwise prepared, egg spaghetti, macaroni, noodles, lasagne, gnocchi, ravioli, cannelloni; couscous, whether or not prepared",
+      "export_value_usd": 2222.0,
+      "export_value_cny": 15824.37,
+      "share_pct": 5.8,
+      "hs2": "19"
+    }
+  ]
+}

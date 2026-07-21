@@ -1,0 +1,30 @@
+{
+  "name": "food-export-opportunity-explorer",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "test:e2e": "playwright test",
+    "sync:data": "node scripts/sync-data.mjs",
+    "sync:hs6": "python scripts/build-hs6-data.py",
+    "sync:markets": "python scripts/build-top-markets-data.py",
+    "sync:tariff-lines": "python scripts/build-tariff-lines.py"
+  },
+  "dependencies": {
+    "next": "16.2.10",
+    "react": "19.2.7",
+    "react-dom": "19.2.7"
+  },
+  "devDependencies": {
+    "@playwright/test": "1.58.2",
+    "@types/node": "24.10.1",
+    "@types/react": "19.2.7",
+    "@types/react-dom": "19.2.3",
+    "typescript": "5.9.3",
+    "vitest": "4.1.10"
+  }
+}

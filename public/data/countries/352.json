@@ -1,0 +1,90 @@
+{
+  "year": 2024,
+  "partner_code": 352,
+  "partner_name": "冰岛",
+  "total_export_value_usd": 349890.0,
+  "total_export_value_cny": 2491804.27,
+  "hs4_products": [
+    {
+      "hs4": "1902",
+      "name_cn": "面食",
+      "name_en": "1902 - Pasta; whether or not cooked or stuffed with meat or other substance, or otherwise prepared, egg spaghetti, macaroni, noodles, lasagne, gnocchi, ravioli, cannelloni; couscous, whether or not prepared",
+      "export_value_usd": 224374.0,
+      "export_value_cny": 1597919.6,
+      "share_pct": 64.1,
+      "hs2": "19"
+    },
+    {
+      "hs4": "0808",
+      "name_cn": "苹果及梨",
+      "name_en": "0808 - Apples, pears and quinces; fresh",
+      "export_value_usd": 49532.0,
+      "export_value_cny": 352751.0,
+      "share_pct": 14.2,
+      "hs2": "08"
+    },
+    {
+      "hs4": "0304",
+      "name_cn": "鱼片及其他鱼肉",
+      "name_en": "0304 - Fish fillets and other fish meat (whether or not minced); fresh, chilled or frozen",
+      "export_value_usd": 31300.0,
+      "export_value_cny": 222908.55,
+      "share_pct": 8.9,
+      "hs2": "03"
+    },
+    {
+      "hs4": "1704",
+      "name_cn": "糖食",
+      "name_en": "1704 - Sugar confectionery (including white chocolate), not containing cocoa",
+      "export_value_usd": 22896.0,
+      "export_value_cny": 163057.96,
+      "share_pct": 6.5,
+      "hs2": "17"
+    },
+    {
+      "hs4": "2002",
+      "name_cn": "调制或保藏番茄",
+      "name_en": "2002 - Tomatoes; prepared or preserved otherwise than by vinegar or acetic acid",
+      "export_value_usd": 18468.0,
+      "export_value_cny": 131523.17,
+      "share_pct": 5.3,
+      "hs2": "20"
+    },
+    {
+      "hs4": "0713",
+      "name_cn": "干荚豆",
+      "name_en": "0713 - Vegetables, leguminous; shelled, whether or not skinned or split, dried",
+      "export_value_usd": 1122.0,
+      "export_value_cny": 7990.52,
+      "share_pct": 0.3,
+      "hs2": "07"
+    },
+    {
+      "hs4": "2106",
+      "name_cn": "其他食品调制品",
+      "name_en": "2106 - Food preparations not elsewhere specified or included",
+      "export_value_usd": 1005.0,
+      "export_value_cny": 7157.29,
+      "share_pct": 0.3,
+      "hs2": "21"
+    },
+    {
+      "hs4": "0902",
+      "name_cn": "茶",
+      "name_en": "0902 - Tea",
+      "export_value_usd": 844.0,
+      "export_value_cny": 6010.7,
+      "share_pct": 0.2,
+      "hs2": "09"
+    },
+    {
+      "hs4": "1702",
+      "name_cn": "其他糖及糖浆",
+      "name_en": "1702 - Sugars, including lactose, maltose, glucose or fructose in solid form; sugar syrups without added flavouring or colouring matter; artificial honey, whether or not mixed with natural honey; caramel",
+      "export_value_usd": 349.0,
+      "export_value_cny": 2485.47,
+      "share_pct": 0.1,
+      "hs2": "17"
+    }
+  ]
+}

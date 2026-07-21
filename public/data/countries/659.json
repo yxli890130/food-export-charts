@@ -1,0 +1,36 @@
+{
+  "year": 2024,
+  "partner_code": 659,
+  "partner_name": "圣基茨和尼维斯",
+  "total_export_value_usd": 141628.0,
+  "total_export_value_cny": 1008629.15,
+  "hs4_products": [
+    {
+      "hs4": "0811",
+      "name_cn": "冷冻水果及坚果",
+      "name_en": "0811 - Fruit and nuts; uncooked or cooked by steaming or boiling in water, frozen, whether or not containing added sugar or other sweetening matter",
+      "export_value_usd": 59177.0,
+      "export_value_cny": 421439.6,
+      "share_pct": 41.8,
+      "hs2": "08"
+    },
+    {
+      "hs4": "0710",
+      "name_cn": "冷冻蔬菜",
+      "name_en": "0710 - Vegetables (uncooked or cooked by steaming or boiling in water); frozen",
+      "export_value_usd": 54641.0,
+      "export_value_cny": 389135.66,
+      "share_pct": 38.6,
+      "hs2": "07"
+    },
+    {
+      "hs4": "2106",
+      "name_cn": "其他食品调制品",
+      "name_en": "2106 - Food preparations not elsewhere specified or included",
+      "export_value_usd": 27810.0,
+      "export_value_cny": 198053.89,
+      "share_pct": 19.6,
+      "hs2": "21"
+    }
+  ]
+}

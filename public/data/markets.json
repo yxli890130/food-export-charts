@@ -1,0 +1,169 @@
+{
+  "year": 2024,
+  "scope": "China food exports to TOP20 destinations",
+  "source": "OEC/BACI",
+  "source_url": "https://api-v2.oec.world/tesseract/data.jsonrecords?cube=trade_i_baci_a_92&drilldowns=Importer%20Country%2CHS2&include=Exporter%20Country:aschn;Year:2024&locale=zh-CN&parents=true&measures=Trade%20Value",
+  "fetched_at": "2026-07-18 14:08 UTC",
+  "markets": [
+    {
+      "scope": "asjpn",
+      "data_key": "asjpn",
+      "name": "日本",
+      "rank": 1,
+      "export_value_usd": 7727925691.0,
+      "export_value_cny": 55035806107.15519
+    },
+    {
+      "scope": "ashkg",
+      "data_key": "ashkg",
+      "name": "香港",
+      "rank": 2,
+      "export_value_usd": 5690883740.0,
+      "export_value_cny": 40528647222.599464
+    },
+    {
+      "scope": "usa",
+      "data_key": "nausa",
+      "name": "美国",
+      "rank": 3,
+      "export_value_usd": 5151740570.0,
+      "export_value_cny": 36689042630.81703
+    },
+    {
+      "scope": "asvnm",
+      "data_key": "asvnm",
+      "name": "越南",
+      "rank": 4,
+      "export_value_usd": 4555735964.0,
+      "export_value_cny": 32444489144.363556
+    },
+    {
+      "scope": "askor",
+      "data_key": "askor",
+      "name": "韩国",
+      "rank": 5,
+      "export_value_usd": 4138306383.0,
+      "export_value_cny": 29471689663.37706
+    },
+    {
+      "scope": "asidn",
+      "data_key": "asidn",
+      "name": "印尼",
+      "rank": 6,
+      "export_value_usd": 2623195830.0,
+      "export_value_cny": 18681558655.39857
+    },
+    {
+      "scope": "asmys",
+      "data_key": "asmys",
+      "name": "马来西亚",
+      "rank": 7,
+      "export_value_usd": 2583544820.0,
+      "export_value_cny": 18399176890.152782
+    },
+    {
+      "scope": "astha",
+      "data_key": "astha",
+      "name": "泰国",
+      "rank": 8,
+      "export_value_usd": 2564884822.0,
+      "export_value_cny": 18266286374.256138
+    },
+    {
+      "scope": "eurus",
+      "data_key": "eurus",
+      "name": "俄国",
+      "rank": 9,
+      "export_value_usd": 2184658583.0,
+      "export_value_cny": 15558437152.720858
+    },
+    {
+      "scope": "asphl",
+      "data_key": "asphl",
+      "name": "菲律宾",
+      "rank": 10,
+      "export_value_usd": 1966969658.0,
+      "export_value_cny": 14008126507.015783
+    },
+    {
+      "scope": "eugbr",
+      "data_key": "eugbr",
+      "name": "联合王国",
+      "rank": 11,
+      "export_value_usd": 1438866622.0,
+      "export_value_cny": 10247146205.698338
+    },
+    {
+      "scope": "eudeu",
+      "data_key": "eudeu",
+      "name": "德国",
+      "rank": 12,
+      "export_value_usd": 1353344621.0,
+      "export_value_cny": 9638085967.138659
+    },
+    {
+      "scope": "nacan",
+      "data_key": "nacan",
+      "name": "加拿大",
+      "rank": 13,
+      "export_value_usd": 1280649145.0,
+      "export_value_cny": 9120372122.314455
+    },
+    {
+      "scope": "ocaus",
+      "data_key": "ocaus",
+      "name": "澳大利亚",
+      "rank": 14,
+      "export_value_usd": 1214971194.0,
+      "export_value_cny": 8652634837.914726
+    },
+    {
+      "scope": "euesp",
+      "data_key": "euesp",
+      "name": "西班牙",
+      "rank": 15,
+      "export_value_usd": 1093029018.0,
+      "export_value_cny": 7784201803.881223
+    },
+    {
+      "scope": "eunld",
+      "data_key": "eunld",
+      "name": "荷兰",
+      "rank": 16,
+      "export_value_usd": 1066894570.0,
+      "export_value_cny": 7598080654.38303
+    },
+    {
+      "scope": "assgp",
+      "data_key": "assgp",
+      "name": "新加坡",
+      "rank": 17,
+      "export_value_usd": 919405432.0,
+      "export_value_cny": 6547710357.5603285
+    },
+    {
+      "scope": "asare",
+      "data_key": "asare",
+      "name": "阿联酋",
+      "rank": 18,
+      "export_value_usd": 846501527.0,
+      "export_value_cny": 6028512148.303833
+    },
+    {
+      "scope": "astwn",
+      "data_key": "astwn",
+      "name": "中華台北",
+      "rank": 19,
+      "export_value_usd": 836867370.0,
+      "export_value_cny": 5959900774.714231
+    },
+    {
+      "scope": "namex",
+      "data_key": "namex",
+      "name": "墨西哥",
+      "rank": 20,
+      "export_value_usd": 824191303.0,
+      "export_value_cny": 5869625894.557737
+    }
+  ]
+}
