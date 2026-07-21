@@ -14,6 +14,7 @@ type Props = {
   hs2?: string;
   hs4?: string;
   country?: string;
+  q?: string;
   onNavigate: (params: Record<string, string | undefined>) => void;
 };
 
@@ -32,16 +33,38 @@ function useMatrix(): TradeMatrixDataset | null {
 
 /* ─── 1. Products view: HS4 → TOP15 countries ─── */
 
+function HighlightedText({ text, query }: { text: string; query: string }) {
+  if (!query) return <>{text}</>;
+  const index = text.toLocaleLowerCase().indexOf(query.toLocaleLowerCase());
+  if (index < 0) return <>{text}</>;
+  return <>{text.slice(0, index)}<mark>{text.slice(index, index + query.length)}</mark>{text.slice(index + query.length)}</>;
+}
+
 function ProductsView({
-  matrix, currency, hs2, hs4, onNavigate, basePath, scope,
+  matrix, currency, hs2, hs4, q, onNavigate, basePath, scope,
 }: {
-  matrix: TradeMatrixDataset; currency: Currency; hs2?: string; hs4?: string;
+  matrix: TradeMatrixDataset; currency: Currency; hs2?: string; hs4?: string; q?: string;
   onNavigate: Props["onNavigate"]; basePath: string; scope: Scope;
 }) {
   const [minExportUsd, setMinExportUsd] = useState(50_000_000);
   const [minCountries, setMinCountries] = useState(20);
   const [maxTop3Share, setMaxTop3Share] = useState(80);
   const [screeningEnabled, setScreeningEnabled] = useState(false);
+  const [query, setQuery] = useState(q ?? "");
+  const queryValue = query.trim();
+  const normalizedQuery = queryValue.toLocaleLowerCase().replace(/^hs/, "");
+
+  useEffect(() => {
+    setQuery(q ?? "");
+  }, [q]);
+
+  useEffect(() => {
+    const timer = window.setTimeout(() => {
+      const nextQuery = query.trim() || undefined;
+      if (nextQuery !== q) onNavigate({ q: nextQuery });
+    }, 150);
+    return () => window.clearTimeout(timer);
+  }, [query, q, onNavigate]);
 
   const cellMap = useMemo(() => {
     const map = new Map<string, TradeMatrixCell[]>();
@@ -56,6 +79,16 @@ function ProductsView({
   const products = useMemo(() => {
     let list = [...matrix.products];
     if (hs2) list = list.filter((p) => p.hs2 === hs2);
+    if (normalizedQuery) {
+      list = list.filter((p) => {
+        const code = p.hs4.toLocaleLowerCase();
+        const chineseName = (p.name_cn ?? "").toLocaleLowerCase();
+        const englishName = (p.name_en ?? "").toLocaleLowerCase();
+        return code.includes(normalizedQuery)
+          || chineseName.includes(normalizedQuery)
+          || englishName.includes(normalizedQuery);
+      });
+    }
     if (screeningEnabled) {
       list = list.filter((p) => {
         const cells = [...(cellMap.get(p.hs4) ?? [])].sort((a, b) => b.export_value_usd - a.export_value_usd);
@@ -67,7 +100,7 @@ function ProductsView({
       });
     }
     return list.sort((a, b) => b.export_value_usd - a.export_value_usd);
-  }, [matrix, hs2, screeningEnabled, minExportUsd, minCountries, maxTop3Share, cellMap]);
+  }, [matrix, hs2, normalizedQuery, screeningEnabled, minExportUsd, minCountries, maxTop3Share, cellMap]);
 
   const countryMap = useMemo(() => {
     const map = new Map<number, TradeMatrixCountry>();
@@ -90,6 +123,32 @@ function ProductsView({
         <button className="tab-active" onClick={() => {}}>按产品</button>
         <button className="tab-inactive" onClick={() => onNavigate({ tab: "countries" })}>按国家</button>
         <button className="tab-inactive" onClick={() => onNavigate({ tab: "matrix" })}>交叉矩阵</button>
+      </div>
+      <div className="product-search" role="search">
+        <label htmlFor="product-search-input">
+          <span>查找 HS4 产品</span>
+          <small>输入 HS 编码、中文名或英文名</small>
+        </label>
+        <div className="product-search-input-wrap">
+          <span className="search-icon" aria-hidden="true">⌕</span>
+          <input
+            id="product-search-input"
+            type="search"
+            value={query}
+            maxLength={80}
+            placeholder="例如：0712、干制蔬菜、dried vegetables"
+            onChange={(event) => setQuery(event.target.value)}
+            aria-describedby="product-search-feedback"
+          />
+          {query && (
+            <button type="button" onClick={() => setQuery("")} aria-label="清除产品搜索">清除</button>
+          )}
+        </div>
+        <p id="product-search-feedback" className="product-search-feedback" aria-live="polite">
+          {queryValue
+            ? <>找到 <b>{products.length}</b> 个产品{hs2 || screeningEnabled ? "（基于当前筛选范围）" : ""}</>
+            : <>当前显示 <b>{products.length}</b> 个产品，按 2024 年出口额从高到低排列</>}
+        </p>
       </div>
       <details className="screening-panel" onToggle={(e) => setScreeningEnabled(e.currentTarget.open)}>
         <summary>机会初筛条件 <span className="screening-hint">展开后按条件缩小范围，不是自动评分</span></summary>
@@ -131,6 +190,13 @@ function ProductsView({
       </details>
 
       <div className="product-list">
+        {products.length === 0 && (
+          <div className="product-search-empty" role="status">
+            <b>当前数据范围内没有匹配产品</b>
+            <p>请检查 HS 编码，尝试更短的关键词，或清除产品搜索和机会初筛条件。</p>
+            <button type="button" onClick={() => setQuery("")}>清除产品搜索</button>
+          </div>
+        )}
         {products.map((p) => {
           const cells = cellMap.get(p.hs4) ?? [];
           const top15 = cells
@@ -145,8 +211,8 @@ function ProductsView({
                 aria-expanded={open}
                 onClick={() => setExpanded(open ? null : p.hs4)}
               >
-                <b>HS{p.hs4}</b>
-                <span className="product-name">{p.name_cn || p.name_en}</span>
+                <b>HS<HighlightedText text={p.hs4} query={normalizedQuery} /></b>
+                <span className="product-name"><HighlightedText text={p.name_cn || p.name_en} query={queryValue} /></span>
                 <span className="product-value">{formatTradeValue(valueOf(p), currency)}</span>
                 <span className="partner-count">{p.partner_count} 国</span>
                 <span className={`chevron ${open ? "open" : ""}`} aria-hidden="true">▸</span>
@@ -432,7 +498,7 @@ function MatrixView({
 /* ─── Main Analysis component ─── */
 
 export function Analysis({
-  basePath, scope, currency, tab, hs2, hs4, country, onNavigate,
+  basePath, scope, currency, tab, hs2, hs4, country, q, onNavigate,
 }: Props) {
   const matrix = useMatrix();
   const [loadError, setLoadError] = useState(false);
@@ -457,6 +523,7 @@ export function Analysis({
           currency={currency}
           hs2={hs2}
           hs4={hs4}
+          q={q}
           onNavigate={onNavigate}
           basePath={basePath}
           scope={scope}

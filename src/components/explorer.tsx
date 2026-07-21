@@ -51,7 +51,7 @@ export function Explorer({
   const [hs6Status, setHs6Status] = useState<"idle" | "loading" | "ready" | "error">("idle");
   const [tariffDataset, setTariffDataset] = useState<TariffLineDataset>();
   const [tariffStatus, setTariffStatus] = useState<"idle" | "loading" | "ready" | "error">("idle");
-  const { scope, currency, tab, hs2, hs4, hs6, country } = initialState;
+  const { scope, currency, tab, hs2, hs4, hs6, country, q } = initialState;
   const selectedGroup = dataset.groups.find((group) => group.hs2 === hs2);
   const selectedDetail = selectedGroup?.children.find((child) => child.hs4 === hs4);
   const total = useMemo(
@@ -130,16 +130,18 @@ export function Explorer({
   }, [scope, selectedHs6]);
 
   const go = (next: Partial<ExplorerState>) => {
-    const state = { scope, currency, tab, hs2, hs4, hs6, country, ...next };
+    const state = { scope, currency, tab, hs2, hs4, hs6, country, q, ...next };
     router.replace(`${basePath}${makeExplorerQuery(state)}`, { scroll: false });
   };
 
   const handleNavigate = (params: Record<string, string | undefined>) => {
+    const nextQuery = Object.prototype.hasOwnProperty.call(params, "q") ? params.q : q;
     go({
       tab: (params.tab ?? "products") as "products" | "countries" | "matrix",
       hs2: params.hs2,
       hs4: params.hs4,
       country: params.country,
+      q: nextQuery,
     });
   };
 
@@ -326,6 +328,7 @@ export function Explorer({
           hs2={hs2}
           hs4={hs4}
           country={country}
+          q={q}
           onNavigate={handleNavigate}
         />
       </section>

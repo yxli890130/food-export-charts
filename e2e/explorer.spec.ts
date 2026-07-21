@@ -53,6 +53,29 @@ test("explores HS4 destinations from the product view", async ({ page }) => {
   await expect(page.getByRole("button", { name: /美国.*亿.*%/ })).toBeVisible();
 });
 
+test("searches HS4 products and restores the query from the URL", async ({ page }) => {
+  await page.goto("/?scope=global&currency=cny&tab=products&q=%E5%B9%B2%E5%88%B6%E8%94%AC%E8%8F%9C");
+
+  const search = page.getByRole("searchbox", { name: "查找 HS4 产品" });
+  await expect(search).toHaveValue("干制蔬菜");
+  await expect(page.getByText(/找到 1 个产品/)).toBeVisible();
+  await expect(page.getByRole("button", { name: /HS0712 干制蔬菜/ })).toBeVisible();
+
+  await search.fill("HS0712");
+  await expect(page).toHaveURL(/q=HS0712/);
+  await expect(page.getByRole("button", { name: /HS0712 干制蔬菜/ })).toBeVisible();
+
+  await page.getByRole("button", { name: "清除产品搜索" }).click();
+  await expect(page).not.toHaveURL(/(?:\?|&)q=/);
+  await expect(page.getByText(/当前显示 116 个产品/)).toBeVisible();
+});
+
+test("explains an empty product search result", async ({ page }) => {
+  await page.goto("/?scope=global&currency=cny&tab=products&q=not-a-food-product");
+
+  await expect(page.getByText("当前数据范围内没有匹配产品")).toBeVisible();
+  await expect(page.getByText(/检查 HS 编码/)).toBeVisible();
+});
 test("shows a country's leading HS4 products", async ({ page }) => {
   await page.goto("/?scope=global&currency=cny&tab=countries&country=392");
 

@@ -6,7 +6,7 @@
 - 修复 `global-hs4-2024.json` 与 HS6 数据源不一致问题
 - 验证：Vitest 21/21、Playwright 7/7、Next.js 生产构建通过
 - 创建初始提交：`d3e4593`
-- GitHub：`https://github.com/yxli890130/food-export-charts`
+- GitHub：<https://github.com/yxli890130/food-export-charts>
 - 远程验证：`master` 已与 `origin/master` 同步，工作区干净
 
 ## 2026-07-20 · P0 完成
@@ -51,7 +51,7 @@
 - npm test：21/21 通过
 - tsc --noEmit：无错误
 - Python 数据测试：5/5 通过
-- Next.js build：待确认
+- Next.js build：通过（2026-07-21 复验）
 - 矩阵数据：116 HS4 × 198 目的国，7,360 个正出口单元
 
 ### 数据差异记录
@@ -81,26 +81,46 @@ Comtrade 与 OEC/BACI 在以下章节差异显著：
 3. 确认产品→国家→产品跳转链路
 4. 验证 Matrix 数据已在 `public/data/matrix/2024.json` 中
 
-## 2026-07-21 · v1.0 GitHub 快照
+## 2026-07-21 · v1.1 产品搜索与结果反馈
 
 ### 已完成
 
-- 将当前工作区整理为首个可追溯版本并提交：`d3e4593 feat: initial commit — China food export opportunity explorer`
-- 建立私有 GitHub 仓库：<https://github.com/yxli890130/food-export-opportunity-explorer>
-- 推送 `master`，本地与 `origin/master` 均指向 `d3e4593`
-- README 已补齐项目背景、功能范围、制作进度、数据口径、使用方式、项目结构与后续方向
-- `.gitignore` 已排除缓存、构建产物、测试结果、日志、环境变量和 Claude 本地状态
-- 扫描已跟踪文件：只发现 README 中的 `COMTRADE_API_KEY` 占位示例，未发现真实凭证模式
+- 在"按产品看目的国"视图增加搜索框，支持 HS4 编码、中英文名称匹配
+- 搜索与 HS2 范围、机会初筛条件叠加生效
+- 搜索词写入 URL 的 `q` 参数，刷新、复制链接和浏览器前进/后退后恢复
+- 本地受控输入，150ms 防抖同步 URL，不触发网络请求
+- 结果数量反馈 + 无结果可行动提示
+- 安全 `<mark>` 高亮匹配片段（HS 编码、中文名、英文名）
+- 一键清除按钮，清除后恢复完整产品列表
+- `ExplorerState.q` 扩展：含控制字符移除、80 字符上限、纯空格丢弃
+- 响应式 CSS：桌面搜索栏两列布局，移动端单列自适应
+- 新增 `docs/superpowers/specs/2026-07-21-hs4-product-search-design.md` 设计规格
+- 新增 `docs/superpowers/plans/2026-07-21-hs4-product-search.md` 实施计划
+- 同步更新 README 功能概览和制作进度
+
+### 修改的文件
+- `src/lib/explorer-state.ts` — `q` 字段与合法化规则
+- `src/lib/trade-format.ts` — `makeExplorerQuery` 支持 `q`
+- `src/components/explorer.tsx` — 透传 `q`，导航保留
+- `src/components/analysis.tsx` — `ProductSearch`、`HighlightedText`、过滤逻辑、空状态
+- `app/globals.css` — 搜索组件样式（桌面 + 移动端）
+- `tests/explorer-state.test.ts` — 新增 3 项搜索状态测试
+- `tests/trade-format.test.ts` — 新增搜索词序列化测试
+- `e2e/explorer.spec.ts` — 新增搜索流程和空结果测试
+- `README.md` — 更新功能概览和制作进度
 
 ### 验证结果
-
-- `gh repo view`：仓库存在，权限为 `PRIVATE`，默认分支为 `master`
-- GitHub API 回读 README：`README.md`，9,273 bytes
-- `npm test`：8 个测试文件、21 项测试全部通过
+- `npm test`：8 个文件、**25 项**全部通过（+4 搜索相关）
+- `npm run test:e2e`：**9 条测试**全部通过（+2 搜索相关）
 - `npm run build`：Next.js 16.2.10 生产构建通过
+- 浏览器验证：输入 `0712` 定位到 HS0712，高亮标记可见，`q=0712` 在 URL 中
+- 搜索与 HS2 范围、机会初筛可叠加
+- 无结果显示可行动提示，清除按钮恢复完整列表
+- 控制台无错误（仅 favicon 404，不影响功能）
 
 ### 下一步
 
-1. 浏览器真实走查三个分析视图，补齐 E2E 结果
-2. 决定下一阶段优先级：趋势数据、产品搜索，或目标国份额/竞争供应国
+1. 浏览器真实走查产品搜索功能
+2. 决定下阶段优先级：矩阵颜色优化、五年趋势数据，或目标国份额/竞争供应国
 3. 未经明确指令不继续 push 或部署
+

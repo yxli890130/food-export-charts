@@ -20,6 +20,7 @@ export function makeExplorerQuery({
   hs4,
   hs6,
   country,
+  q,
 }: {
   scope: Scope;
   currency: Currency;
@@ -28,6 +29,7 @@ export function makeExplorerQuery({
   hs4?: string;
   hs6?: string;
   country?: string;
+  q?: string;
 }): string {
   const params = new URLSearchParams({ scope, currency });
   if (tab && tab !== "products") params.set("tab", tab);
@@ -35,6 +37,7 @@ export function makeExplorerQuery({
   if (hs4) params.set("hs4", hs4);
   if (hs6) params.set("hs6", hs6);
   if (country) params.set("country", country);
+  if (q?.trim()) params.set("q", q.trim());
   return `?${params.toString()}`;
 }
 
