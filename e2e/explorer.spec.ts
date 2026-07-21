@@ -62,8 +62,17 @@ test("searches HS4 products and restores the query from the URL", async ({ page 
   await expect(page.getByRole("button", { name: /HS0712 干制蔬菜/ })).toBeVisible();
 
   await search.fill("HS0712");
+  await expect(page).toHaveURL(/q=%E5%B9%B2%E5%88%B6%E8%94%AC%E8%8F%9C/);
+  await expect(page.getByText("输入已修改，点击“搜索”或按 Enter 查看结果。")).toBeVisible();
+  await expect(page.getByRole("button", { name: /HS0712 干制蔬菜/ })).toBeVisible();
+
+  await page.getByRole("button", { name: "搜索", exact: true }).click();
   await expect(page).toHaveURL(/q=HS0712/);
   await expect(page.getByRole("button", { name: /HS0712 干制蔬菜/ })).toBeVisible();
+
+  await search.fill("干制蔬菜");
+  await search.press("Enter");
+  await expect(page).toHaveURL(/q=%E5%B9%B2%E5%88%B6%E8%94%AC%E8%8F%9C/);
 
   await page.getByRole("button", { name: "清除产品搜索" }).click();
   await expect(page).not.toHaveURL(/(?:\?|&)q=/);

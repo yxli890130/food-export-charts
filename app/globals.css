@@ -260,14 +260,20 @@ h2 { margin-bottom: 10px; font: 700 clamp(27px, 3.5vw, 43px)/1.05 var(--serif); 
 .product-search label > span { font: 700 15px var(--serif); }
 .product-search label > small { color: var(--muted); font-size: 11px; }
 .product-search-input-wrap { position: relative; display: grid; grid-template-columns: 30px minmax(0, 1fr) auto; min-height: 44px; align-items: center; border-bottom: 2px solid var(--forest); background: var(--paper-bright); }
+.product-search-form { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 10px; align-items: stretch; }
 .product-search-input-wrap:focus-within { outline: 2px solid var(--amber); outline-offset: 2px; }
 .search-icon { color: var(--forest); font-size: 21px; text-align: center; }
 .product-search input { width: 100%; min-width: 0; padding: 10px 6px; border: 0; outline: 0; background: transparent; color: var(--ink); font: 600 14px var(--sans); }
 .product-search input::placeholder { color: #8c9187; font-weight: 400; }
-.product-search-input-wrap button, .product-search-empty button { margin: 5px; padding: 7px 11px; border: 1px solid var(--forest); background: transparent; color: var(--forest); cursor: pointer; font-size: 11px; font-weight: 700; }
-.product-search-input-wrap button:hover, .product-search-empty button:hover { background: var(--forest); color: white; }
+.product-search-input-wrap .search-clear, .product-search-empty button { margin: 5px; padding: 7px 11px; border: 1px solid var(--forest); background: transparent; color: var(--forest); cursor: pointer; font-size: 11px; font-weight: 700; }
+.product-search-input-wrap .search-clear:hover, .product-search-empty button:hover { background: var(--forest); color: white; }
+.search-submit { min-width: 78px; padding: 0 18px; border: 1px solid var(--forest); background: var(--forest); color: white; cursor: pointer; font-size: 13px; font-weight: 700; }
+.search-submit:hover:not(:disabled), .search-submit:focus-visible { background: var(--ink); }
+.search-submit:disabled { border-color: var(--line); background: #d9ddd5; color: #777d75; cursor: not-allowed; }
 .product-search-feedback { grid-column: 2; margin: -8px 0 0; color: var(--muted); font-size: 11px; }
 .product-search-feedback b { color: var(--ink); }
+.product-search-pending { grid-column: 2; min-height: 16px; margin: -13px 0 0; color: var(--forest); font-size: 11px; font-weight: 600; visibility: hidden; }
+.product-search-pending.is-visible { visibility: visible; }
 .product-card mark { padding: 0 2px; background: #f3ce78; color: inherit; }
 .product-search-empty { padding: 34px 18px; border-bottom: 1px solid var(--line); text-align: center; }
 .product-search-empty b { font: 700 18px var(--serif); }
@@ -328,7 +334,8 @@ h2 { margin-bottom: 10px; font: 700 clamp(27px, 3.5vw, 43px)/1.05 var(--serif); 
   .analysis-toolbar { display: block; }
   .analysis-toolbar p { margin-top: 8px; text-align: left; }
   .product-search { grid-template-columns: 1fr; gap: 12px; padding: 15px; }
-  .product-search-feedback { grid-column: 1; margin-top: -4px; }
+  .product-search-feedback, .product-search-pending { grid-column: 1; margin-top: -4px; }
+  .product-search-form { grid-template-columns: minmax(0, 1fr) auto; }
   .product-search-input-wrap { grid-template-columns: 28px minmax(0, 1fr) auto; }
   .matrix-tabs { width: 100%; }
   .matrix-tabs button { flex: 1; min-width: 0; padding: 9px 6px; }

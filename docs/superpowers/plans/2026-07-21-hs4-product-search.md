@@ -10,7 +10,7 @@
 
 1. 扩展 URL 状态：`ExplorerState.q`、合法化规则、`makeExplorerQuery` 序列化，并先补状态测试。
 2. 在 `Explorer` 与 `Analysis` 之间透传 `q`，确保分析视图导航保留搜索词。
-3. 在 `ProductsView` 增加本地即时输入、150ms URL 同步、清除按钮、结果数量和无结果状态。
+3. 在 `ProductsView` 增加草稿输入与已应用关键词两套状态；点击“搜索”或按 Enter 时提交并更新 URL，输入时不更新结果。
 4. 增加安全文本高亮，覆盖 HS 编码、中英文名称。
 5. 添加与现有编辑风格一致的响应式 CSS，不引入新依赖。
 6. 增加 Playwright 测试：中文/编码搜索、URL 恢复、清除、无结果提示。

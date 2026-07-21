@@ -50,21 +50,24 @@ function ProductsView({
   const [minCountries, setMinCountries] = useState(20);
   const [maxTop3Share, setMaxTop3Share] = useState(80);
   const [screeningEnabled, setScreeningEnabled] = useState(false);
-  const [query, setQuery] = useState(q ?? "");
-  const queryValue = query.trim();
+  const [queryDraft, setQueryDraft] = useState(q ?? "");
+  const queryValue = (q ?? "").trim();
   const normalizedQuery = queryValue.toLocaleLowerCase().replace(/^hs/, "");
+  const hasPendingQuery = queryDraft.trim() !== queryValue;
 
   useEffect(() => {
-    setQuery(q ?? "");
+    setQueryDraft(q ?? "");
   }, [q]);
 
-  useEffect(() => {
-    const timer = window.setTimeout(() => {
-      const nextQuery = query.trim() || undefined;
-      if (nextQuery !== q) onNavigate({ q: nextQuery });
-    }, 150);
-    return () => window.clearTimeout(timer);
-  }, [query, q, onNavigate]);
+  const submitSearch = () => {
+    const nextQuery = queryDraft.trim() || undefined;
+    if (nextQuery !== q) onNavigate({ q: nextQuery });
+  };
+
+  const clearSearch = () => {
+    setQueryDraft("");
+    if (q) onNavigate({ q: undefined });
+  };
 
   const cellMap = useMemo(() => {
     const map = new Map<string, TradeMatrixCell[]>();
@@ -129,25 +132,31 @@ function ProductsView({
           <span>查找 HS4 产品</span>
           <small>输入 HS 编码、中文名或英文名</small>
         </label>
-        <div className="product-search-input-wrap">
-          <span className="search-icon" aria-hidden="true">⌕</span>
-          <input
-            id="product-search-input"
-            type="search"
-            value={query}
-            maxLength={80}
-            placeholder="例如：0712、干制蔬菜、dried vegetables"
-            onChange={(event) => setQuery(event.target.value)}
-            aria-describedby="product-search-feedback"
-          />
-          {query && (
-            <button type="button" onClick={() => setQuery("")} aria-label="清除产品搜索">清除</button>
-          )}
-        </div>
+        <form className="product-search-form" onSubmit={(event) => { event.preventDefault(); submitSearch(); }}>
+          <div className="product-search-input-wrap">
+            <span className="search-icon" aria-hidden="true">⌕</span>
+            <input
+              id="product-search-input"
+              type="search"
+              value={queryDraft}
+              maxLength={80}
+              placeholder="例如：0712、干制蔬菜、dried vegetables"
+              onChange={(event) => setQueryDraft(event.target.value)}
+              aria-describedby="product-search-feedback product-search-pending"
+            />
+            {(queryDraft || q) && (
+              <button className="search-clear" type="button" onClick={clearSearch} aria-label="清除产品搜索">清除</button>
+            )}
+          </div>
+          <button className="search-submit" type="submit" disabled={!queryDraft.trim() || !hasPendingQuery}>搜索</button>
+        </form>
         <p id="product-search-feedback" className="product-search-feedback" aria-live="polite">
           {queryValue
             ? <>找到 <b>{products.length}</b> 个产品{hs2 || screeningEnabled ? "（基于当前筛选范围）" : ""}</>
             : <>当前显示 <b>{products.length}</b> 个产品，按 2024 年出口额从高到低排列</>}
+        </p>
+        <p id="product-search-pending" className={`product-search-pending ${hasPendingQuery ? "is-visible" : ""}`} aria-live="polite">
+          {hasPendingQuery ? "输入已修改，点击“搜索”或按 Enter 查看结果。" : ""}
         </p>
       </div>
       <details className="screening-panel" onToggle={(e) => setScreeningEnabled(e.currentTarget.open)}>
@@ -194,7 +203,7 @@ function ProductsView({
           <div className="product-search-empty" role="status">
             <b>当前数据范围内没有匹配产品</b>
             <p>请检查 HS 编码，尝试更短的关键词，或清除产品搜索和机会初筛条件。</p>
-            <button type="button" onClick={() => setQuery("")}>清除产品搜索</button>
+            <button type="button" onClick={clearSearch}>清除产品搜索</button>
           </div>
         )}
         {products.map((p) => {
