@@ -1,5 +1,14 @@
 # 开发日志
 
+## 2026-07-21 · GitHub 初始归档完成
+
+- 清理并排除本地缓存、开发日志和 Claude Code 规划状态
+- 修复 `global-hs4-2024.json` 与 HS6 数据源不一致问题
+- 验证：Vitest 21/21、Playwright 7/7、Next.js 生产构建通过
+- 创建初始提交：`d3e4593`
+- GitHub：`https://github.com/yxli890130/food-export-charts`
+- 远程验证：`master` 已与 `origin/master` 同步，工作区干净
+
 ## 2026-07-20 · P0 完成
 
 ### 目标
